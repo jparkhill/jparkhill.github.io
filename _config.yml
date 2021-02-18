@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Homeblog of John Parkhill Ph.D. -- modeler of probability densities, tinkerer, music fanatic. Onetime faculty now capital.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jparkhill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: No!
+twitter_username: j0hnparkhill
 github_username:  jparkhill
 
 # Build settings
