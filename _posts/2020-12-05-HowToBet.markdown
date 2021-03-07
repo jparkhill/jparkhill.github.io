@@ -70,4 +70,6 @@ Only the Kelly sizing does really well even after only 1000 bets. The 6x overbet
 
 This first surprising result shouldn't be so surprising to people with a little investment/gambling experience. You shouldn't wager the same amount on these dice. Although the mean payoff is the same for all, the standard deviation of the payoff is not. If you lose a lot you will have less to bet and so you will make less in the long run betting on things with the possibility of catastrophic loss even if the mean yield is the same. The last die has the smallest max drawdown by a factor ~2, and unsurprisingly that makes it a 2x better investment! Hedge fund people use a number, the Sharpe ratio (mean return over standard deviation of return) to describe this effect. Indeed the Sharpe ratio predicts the order of the optimal Kelly sizing if you are looking at these dies alone.
 
-The usefulness of this Kelly Monte-Carlo optimizer is obvious. It makes you money from information. In this case, information in the form of samples.
+The usefulness of this Kelly Monte-Carlo optimizer is obvious. It makes you money from information. In this case, information in the form of samples. Note the Kelly sizer even works if your samples have some correlation, although dice clearly do not.
+
+(Dedicated to X.)
