@@ -50,6 +50,6 @@ Style notes about the tf. code given above:
 - In general it is best to choose an order of dimensions for your tensor which goes (least often contracted,…,most often contracted), because several helpful tf. functions assume the first dimension of a tensor is the batch dimension.
 - tf.sqrt, and 1/(tensor) are both unstable operations in tf. They are unstable in a tricky way, because the implied chain-rule derivative graph (coming from tf.gradients(… op…, var) will still often evaluate NaN’s even when it appears that the arguments to the routine would always be in the well-behaved domain. One must make liberal use of tf.clip_by_value() , tf.where(), and infinitesimals to ensure both the routine and routine’s derivatives are well-behaved. Safe_norm is a good example.
 
-#Epilog
+# Epilogue
 
 So is all this serious rotational mathematics only good for defining axis systems for atomic positions. No! Facebook AI-Research and collaborators from the EPFL published a nice use of quaternions for skeletal motion planning [last week](https://arxiv.org/abs/1805.06485)
