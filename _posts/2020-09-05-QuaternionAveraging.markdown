@@ -2,6 +2,7 @@
 layout: post
 title:  "Quaternion Averaging in Pytorch"
 categories: pytorch
+comments: true
 ---
 
 At atomsandbits.ai we implement some seriously large formulas in TensorFlow. If we just went from LaTeX to tf. we wouldn’t be able to do it. Here’s a list of tricks and tools we use, applied to the problem of averaging rotations. Come for the tf. stay for the hypersphere.

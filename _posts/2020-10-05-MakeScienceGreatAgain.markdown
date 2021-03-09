@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Modest Proposals to Make Science Great Again."
+categories: opinion
 comments: true
 ---
 >Note: This was written long ago when I was quitting my faculty job. I still feel it's relevant, and so I'm just posting it.

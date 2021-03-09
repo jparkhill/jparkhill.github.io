@@ -2,7 +2,8 @@
 layout: post
 title:  "Yet another static blog!"
 date:   2020-08-05 18:33:12 -0500
-categories: jekyll
+categories: jekyll, opinion
+comments: true
 ---
 
 Hey everyone. Thanks to github sites, and netlify. This blog is available at jparkhill.github.io, or www.bbgky.net. Can you believe that domain wasn't taken? It's wild!
