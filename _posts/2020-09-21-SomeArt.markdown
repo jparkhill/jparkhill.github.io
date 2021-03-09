@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Some Robot Art"
+categories: art
+comments: true
+---
+
+Creative diversions were a source of real joy in 2020. I was not immune to the sudden explosion in creative hobbies, although the form my pandemic grief took was often art executed by robots. Eons of typing have robbed my hands of the fine motor control needed for manual painting or sculpture.
+
+Of course I'm generally familiar with computers and programming, but I've never really had any reason to make robotics until this. It's pretty crazy how easy it is these days to control stepper motors with simple algorithms written in a high level language. My first project in this area was to create a completely 3-d printed, totally homebrew [polargraph](https://github.com/jparkhill/python_polargraph).
+
+![polargraph](/assets/polargraph.jpg)
+
+The polargraph is controlled by a simple circuitpython library. Really anyone could make one. Of course the polargraph was basically a series of instructions for moving a pen between coordinate pairs ($$ \{X_t, Y_t\}$$), and most of the fun of tinkering with this was writing various routines for converting between images, and paths. Based on my long history of molecular dynamics and statistical mechanics, one of the first algorithms I developed for making images was a sort of [Langevin](https://en.wikipedia.org/wiki/Langevin_dynamics) dynamics. $$ {\displaystyle M{\ddot {X}}=-\nabla U(X)-\gamma M{\dot {X}}+{\sqrt {2M\gamma k_{B}T}}R(t)} $$. In this case the image is a rather gorgeous scene from Tarkovsky's masterful film "Stalker":
+
+![anneal](/assets/StalkerII.png)
+
+I.e. this is a path of particles which pay an energetic penalty to be in light parts of an image. Unfortunately the roughness of these paths makes them problematic for plotters. I also wrote a pretty rudimentary parser of SVG's to create paths for the polargraph and a laser XY-bot I assembled. I included code for that SVG parser in the same github. I did some decent graphics with the laser too.
+
+My main takeaway from this whole diversion was shock at just how well companies keep the benefits of even rudimentary technology from people. For the same price that you pay for your HP laser printer, I'm reasonably sure HP could sell you a printer that could make billboards...
