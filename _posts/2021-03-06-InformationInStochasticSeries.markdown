@@ -2,6 +2,7 @@
 layout: post
 title:  "Simply Extracting information out of your Stochastic Series"
 comments: true
+categories: [pytorch, stochastic]
 ---
 
 # The unreasonable usefulness of Stochastic DE's

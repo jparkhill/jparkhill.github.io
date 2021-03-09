@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Size Bets. The Kelly Criterion in PyTorch"
-categories: pytorch
+categories: [pytorch, sizing]
 comments: true
 ---
 Suppose you would like to make a wager on a random outcome because you believe you know something about the probability of the outcome, for example that 265/365 days in a year will be cloudy in South Bend, Indiana. How much should you wager it will be cloudy tomorrow if you would be paid even odds, under the assumption you will take bets for an eternity and instantly.
