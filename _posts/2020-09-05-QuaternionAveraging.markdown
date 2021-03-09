@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quaternion Averaging in Pytorch"
-categories: pytorch
+categories: tensorflow
 comments: true
 ---
 
