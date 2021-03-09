@@ -27,6 +27,7 @@ url: "https://jparkhill.github.io" # the base hostname & protocol for your site,
 twitter_username: j0hnparkhill
 github_username:  jparkhill
 
+
 # Build settings
 theme: minima
 plugins:

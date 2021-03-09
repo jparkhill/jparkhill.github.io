@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Copulas made simple with Pytorch Distributions"
+categories: pytorch
 comments: true
 ---
 

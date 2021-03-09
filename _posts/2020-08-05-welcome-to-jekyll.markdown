@@ -2,7 +2,7 @@
 layout: post
 title:  "Yet another static blog!"
 date:   2020-08-05 18:33:12 -0500
-categories: jekyll, opinion
+categories: opinion
 comments: true
 ---
 
