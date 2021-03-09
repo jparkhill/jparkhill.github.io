@@ -13,7 +13,9 @@ I print all sorts of stuff. Little models for kids to paint, fruit juicers, musu
 
 This phone case is slightly strengthened relative to an original design by Peter Holzwarth. It's easily customizable thanks to the simple language for functional 3d geometry definition, openSCAD (which is FOSS).
 
-Anytime I get a new phone for myself, my kids, etc. I pull out some 4$ Harbor Freight calipers. I adjust the height width and depth in the code and I print one of these cases out. If the phone is dropped, this case works like a bike-helmet. A corner pops off and the phone is fine. Then I print another.
+Anytime I get a new phone for myself, my kids, etc. I pull out some 4$ Harbor Freight calipers. I adjust the height width and depth in the code and I print one of these cases out. If the phone is dropped, this case works like a bike-helmet. A corner pops off and the phone is fine. Then I print another. It also holds the phone a few millimeters off a surface, such that the phone is held above any spills. It holds most objects away from the screen and prevents scratches too.
+
+![case](/assets/realcase.png)
 
 I have printed about 20-25 of these, saving about 20-25 phone screens. Using this case, a 5 year old can have a phone without a broken screen. It's pretty remarkable. The code for this thing below.
 
