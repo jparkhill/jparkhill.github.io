@@ -256,5 +256,5 @@ for step in range(1000):
 
 Now note that the correct solution of the heat equation in two dimensions results in the standard deviations of a growing Gaussian blob, growing with $$\sim \sqrt(t)$$
 Here's what images look like from our differentiable solution:
-![diff]((/assets/diffusion.png)
+![diff](/assets/diffusion.png)
 Not too shabby for such little work and time and so much generality.
