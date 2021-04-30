@@ -16,10 +16,10 @@ Many properties of $$u(\vec{x},t)$$ of interest are actually derivatives or inte
 For example, to calibrate the parameters $$ \mu (X_{t},t), \sigma (X_{t},t) $$ of a multidimensional stochastic differential equation:
 $$ dX_{t}=\mu (X_{t},t)\,dt+\sigma (X_{t},t)\,dW_{t} $$
 one would often like the conditional density $$ P(X_t | X_{t-1})$$ which is available as a solution to a Fokker-Plank equation:
-$$ {\frac {\partial P(\mathbf {x} ,t)}{\partial t}}=-\sum _{i=1}^{N}{\frac {\partial }{\partial x_{i}}}\left[\mu _{i}(\mathbf {x} ,t)P(\mathbf {x} ,t)\right]+\sum _{i=1}^{N}\sum _{j=1}^{N}{\frac {\partial ^{2}}{\partial x_{i}\,\partial x_{j}}}\left[D_{ij}(\mathbf {x} ,t)P(\mathbf {x} ,t)\right]$$
-with respect to a delta function initial condition.
 
-The applications to finance should now be more obvious, this is how one calibrates Heston or more sophisticated models. Usually one would need hundreds of lines of code to optimize $$ \mu (X_{t},t), \sigma (X_{t},t) $$, it's actually the subject of innumerable theses, and several [luminaries of econometrics](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00274) are famous for simply applying Galerkin methods to optimize these parameters.
+$$ {\frac {\partial P(\mathbf {x} ,t)}{\partial t}}=-\sum _{i=1}^{N}{\frac {\partial }{\partial x_{i}}}\left[\mu _{i}(\mathbf {x} ,t)P(\mathbf {x} ,t)\right]+\sum _{i=1}^{N}\sum _{j=1}^{N}{\frac {\partial ^{2}}{\partial x_{i}\,\partial x_{j}}}\left[D_{ij}(\mathbf {x} ,t)P(\mathbf {x} ,t)\right]$$
+
+with respect to a delta function initial condition. The applications to finance should now be more obvious, this is how one calibrates Heston or more sophisticated models. Usually one would need hundreds of lines of code to optimize $$ \mu (X_{t},t), \sigma (X_{t},t) $$, it's actually the subject of innumerable theses, and several [luminaries of econometrics](https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0262.00274) are famous for simply applying Galerkin methods to optimize these parameters.
 
 In all my years of solving PDEs... I have never really come across a simpler way to solve them than what I'm about to show (<100 lines!). This also results in a solution which is differentiable. It's all quick, and very general. The only limitation is that derivatives above 2 would be impractical, but besides that very high dimensions are solvable.
 
@@ -32,7 +32,7 @@ The basic idea here is to use the incredible approximation properties of neural 
 - step 3: minimize error of the PDE under the ansatze.
 - step 4: visualize.
 
-I will show two ansatze, a simple feed-forward network, and a feed-forward Gaussian Mixture model. If you don't know much about Gaussian mixtures, you can just look at the simplicity of the neural density. Both simply model a function $$ \rho(t,x) $$
+I will show two ansatze, a simple feed-forward network, and a feed-forward Gaussian Mixture model. If you don't know much about Gaussian mixtures, you can just look at the simplicity of the neural density. Both simply model a function $$ \rho(t,x) $$. The advantage of the Gaussian Mixture is that normalization is automatically enforced, and it could easily be used for importance sampling. Ideally one could use normalizing flows or any other sophisticated method to generate a flexible distribution.
 
 {% highlight python %}
 class Neural_Density(torch.nn.Module):
@@ -181,15 +181,7 @@ class Neural_Heat_PDE(torch.nn.Module):
 
         drho(t,x)/dt = ...
 
-        The PDE is evaluated on a grid
-        to achieve this, and the grid is specified by the initial condition
-
-        which is a batch of:
-        [t,x,y] (batch X 1+state_dim+1)
-
-        Args:
-            initial_condition: tch.tensor(batch X state_dim+1)
-            solve_grid: tch.tensor(batch X state_dim+1)
+        The PDE is evaluated on a grid randomly chosen.
         """
         super(Neural_Heat_PDE, self).__init__()
         self.state_dim = state_dim
@@ -264,6 +256,5 @@ for step in range(1000):
 
 Now note that the correct solution of the heat equation in two dimensions results in the standard deviations of a growing Gaussian blob, growing with $$\sim \sqrt(t)$$
 Here's what images look like from our differentiable solution:
-![diff](diffusion.png)
-
-Not too shabby for such little work and time... and so much generality. 
+![diff]((/assets/diffusion.png)
+Not too shabby for such little work and time and so much generality.
