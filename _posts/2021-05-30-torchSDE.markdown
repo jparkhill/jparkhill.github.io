@@ -8,11 +8,12 @@ categories: [finance, pytorch, math]
 The basic operation of finance is to estimate distributions of forward values on assets, and buy/sell them accordingly. Usually buying/selling does not allow the purchaser to monetize all the information the investor might have about an asset. Options by contrast allow the investor to monetize all information he/she might have about the forward distribution of an asset. A simple derivation shows that the second derivative of call prices with respect to strike (K) are proportional to the forward density on the underlying (S) at expiry. Starting from the payoff of European call written with the Heaviside function $$\Theta$$:
 
 $$ C = \langle \Theta(S(t)-K)*(S(t)-K) \rangle $$
-$$ \rightarrow \frac{d^2 C}{dK} \propto \langle \delta(S(t)-K)*S(t) \rangle $$
+$$ \rightarrow \frac{d^2 C}{dK} \propto \langle \delta(S(t)-K) \rangle $$
 
 In any reasonable picture, the prices of any asset are strongly driven by noisy variables which cannot be observed. This makes stochastic differential equations the go-to tool to understand price trajectories of assets. Modern versions of these equations propagate stochastic volatilities alongside the underlying, for example the Heston model:
 
 $$ dS_{t}=\mu S_{t}\,dt+{\sqrt {\nu_{t}}}S_{t}\,dW_{t}^{S} $$
+
 $$ d\nu_{t}=\kappa (\theta -\nu_{t})\,dt+\xi {\sqrt {\nu_{t}}}\,dW_{t}^{\nu } $$
 
 The dynamics of volatility($$ \nu(t) $$) determined by the stochastic parameters in this equation induce different prices for options at different strikes and expiries. This is called a "Volatility Surface". Day to day on even the most liquid chains of options, these parameters hop up and down, as the market gyrates between beliefs about what these parameters will trade at tomorrow. Best-fit parameters of the moment, imply the market's belief in the forward distribution of assets values, and allow one to draw trajectories of what the underlying might do, according to the market (within the model).
