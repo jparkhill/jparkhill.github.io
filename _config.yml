@@ -22,6 +22,9 @@ title: jparkhill.github.io
 email: john.parkhill@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Homeblog of John Parkhill Ph.D. -- modeler of probability densities, tinkerer, music fanatic. Onetime faculty now capital.
+  BTC: 35Er1kTGBPiYZGoiSgb71RPHdMmQ3nrgSw
+  ETH: 0xd5158f6d41F2ce840a67C66C910Ce239ee930A20
+  XMR: 4AyYmMm5KRU5bX4yeH7Wg6148aeN9uicAbebRvzdPHYeiFSYuM6aHeUKPXjinNC1Qf2BLvP5V8F7qE3FcMxN53wLL1P5Yb8
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jparkhill.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: j0hnparkhill
