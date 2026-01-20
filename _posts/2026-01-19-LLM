@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "The upside of AI: making things you own, and throwing away what owns you"
+comments: false
+categories: [AI economy]
+---
+
+> Wherein, John makes a better Nest device in an hour. 
+
+## It's MLK's birthday, time to do an uncharacteristically optimistic blogpost about technology enabling de-enshitification, the arrow of justice and so forth. 
+
+Well, first some pessimistic context about the state of enshitification. This week OpenAI finally announced the ads they previous said would be a "last resort", which they promise will be passive. That promise is definitely a lie. Agentic ads (where AI thinks about how to specifically sell you something) will be 100x higher margin than passive ads. OpenAI is a company that reluctantly must compete. They just barely failed to achieve regulatory capture (so close 🤏!) A competitor will do agentic ads, eventually, and OpenAI will be forced to also do them or be replaced. Zooming inwards into my first-world problems, this same type of phenomenon is why I can't buy a decent smoke detector, smart home device etc. There was a company making a good one, Google bought it, replaced it with a horrible app that registers the device you "own" to gather your data because that's extra margin. The functionality of the device is an afterthought and indeed they have shut it off on a whim. Enough pessimism, just had to set the scene. 
+
+Okay so what's the good news? The good news is that because of LLMs the amount of time it takes to create a device you actually own, which you make, exactly as you like, which doesn't try to sell you things is basically dipping below the amount of time it takes to even sit through some tedious and stupid device login. Really. I literally made such a device this morning it took me 1 hr. For 60$ I bought a microcontroller with sensors I wanted the data from, I told claude what features I wanted, and had a device running my own firmware [![in an hour](https://img.youtube.com/vi/FIo41v5cqbc/0.jpg)](https://www.youtube.com/shorts/FIo41v5cqbc). If I had tried to use the macbook to do this instead of my ubuntu box, it probably would have taken me an extra 20 minutes of nag screens to encourage developers to tithe apple. 
+
+My home is blanketed with Google Nest cameras. Watching google's horrible bouncing balls for 20 minutes to set up each one when I update my wifi mesh makes me wanna make my own AI home camera system too. I bet I could even do so in nearly the same amount of time and far less money it would take me to deal with the enshittified ones. This little experiment really has motivated me to create some little home embedded ecosystem, which previously would have felt like a horrible nerd indulgence for me, a dude mostly trying to do science with his time. Garage door openers, cameras, smoke alarms, thermostats, lightswitches etc. Being able to tell an agent that I own to turn on my security notifications when I leave the house, sounds wonderful. 
+
+#But what does it mean? 
+There's a mystery here. Why does it feel like walled garden tedium is going vertical, exactly as the means to destroy it have appeared? Why do I turn on my Lexus only to see an infotainment system I would prefer to rewrite myself in an hour? To be honest I don't have a satisfying answer. Hopefully by sharing, people like me an inspire others to vote with our dollars to re-invent ownership economy. 
+
