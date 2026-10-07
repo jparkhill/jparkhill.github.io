@@ -1,58 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: jparkhill.github.io
+title: John Parkhill
+author: John Parkhill
+role: Director of Machine Learning, Terray Therapeutics
+location: Austin, Texas
 email: john.parkhill@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Homeblog of John Parkhill Ph.D. -- modeler of probability densities, tinkerer, music fanatic. Onetime faculty now capital.
-  BTC: 35Er1kTGBPiYZGoiSgb71RPHdMmQ3nrgSw
-  ETH: 0xd5158f6d41F2ce840a67C66C910Ce239ee930A20
-  XMR: 4AyYmMm5KRU5bX4yeH7Wg6148aeN9uicAbebRvzdPHYeiFSYuM6aHeUKPXjinNC1Qf2BLvP5V8F7qE3FcMxN53wLL1P5Yb8
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jparkhill.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: j0hnparkhill
-github_username:  jparkhill
+description: >-
+  John Parkhill, Ph.D. — machine learning leader working at the intersection of
+  generative modeling, structure-based drug design, and closed-loop discovery.
+
+# Host
+url: "https://jparkhill.github.io"
+baseurl: ""
 permalink: /:title/
 
+# Social
+github_username:  jparkhill
+linkedin_username: johnaparkhill
+twitter_username: j0hnparkhill
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

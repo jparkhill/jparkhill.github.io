@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Diseconomic incentives, Nvidia and Huawei"
 comments: true

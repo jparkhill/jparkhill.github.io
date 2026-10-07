@@ -4,8 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This page hosts whatever random ephemera is suitable from public consumption from my ongoing adventures, which are sadly mostly private now (tears).
+I'm a machine learning leader and scientist. I currently serve as **Director of Machine Learning at [Terray Therapeutics](https://www.terraytx.com/)**, where I founded and lead the ML organization — building generative, agentic, and predictive systems for high-throughput drug discovery. My team's work spans multimodal equivariant transformers, latent diffusion for molecular design, and transferable pretrained models for co-posing and potency, integrated into a fully autonomous design–make–test–analyze loop.
 
-![me](/assets/me.jpeg)
+<img src="/assets/me.jpeg" alt="John Parkhill" class="about-photo" width="220" />
 
-Who am I? I'm the [John Parkhill](https://scholar.google.com/citations?user=mkEouY4AAAAJ&hl=en) born in 1983 in IL. B.S. U of Chicago 2005, [Ph.D.](https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d_noSplash_8f7fcb64bfba439535b21d548fc20561.pdf) [UC Berkeley 2010](https://en.wikipedia.org/wiki/Martin_Head-Gordon), postdoc with [Alan Aspuru-Guzik](https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en). Once professor at [Notre Dame](https://sites.nd.edu/parkhillgroup/?utm_campaign=redirect&utm_medium=web&utm_source=blogs.nd.edu). Presently found biking around Austin Texas, haunting [Frost Bank Tower](https://www.artemiscm.com/team) or on flights in or out of Austin. Not to be confused with my father John Parkhill, the John Parkhill who works in real-estate in the U.K. (who should update email addresses with his bank, Halifax), or the long-dead slave-owning [John Parkhill](https://en.wikipedia.org/wiki/Tuscawilla_Plantation) (hopefully no relation).
+## Background
+
+My path to ML ran through the physical sciences. I earned a **B.S. in Mathematics and Chemistry from the University of Chicago** (2005) and a **Ph.D. in Quantum Chemistry from UC Berkeley** (2010), working with [Martin Head-Gordon](https://en.wikipedia.org/wiki/Martin_Head-Gordon). I then completed a postdoc with [Alán Aspuru-Guzik](https://scholar.google.com/citations?user=Ag_6KEgAAAAJ&hl=en) at Harvard, before joining the faculty at the [University of Notre Dame](https://sites.nd.edu/parkhillgroup/) as an Assistant Professor, where I developed the TensorMol neural network model chemistry and was awarded an [NSF CAREER](https://www.nsf.gov/) grant.
+
+From there I spent several years as **Head of Quantitative Research at Artemis Capital Management**, leading research and data operations for a long-volatility macro fund and building deep-learning systems for volatility modeling and risk. In 2022 I returned to science, this time on the applied side, to build the ML function at Terray.
+
+- [Google Scholar](https://scholar.google.com/citations?user=mkEouY4AAAAJ&hl=en)
+- [GitHub](https://github.com/jparkhill)
+- [LinkedIn](https://www.linkedin.com/in/johnaparkhill/)
+- [Email](mailto:john.parkhill@gmail.com)
+
+## Contact
+
+- **Email:** [john.parkhill@gmail.com](mailto:john.parkhill@gmail.com)
+- **Location:** Austin, Texas
+- **LinkedIn:** [/in/johnaparkhill](https://www.linkedin.com/in/johnaparkhill/)
+- **GitHub:** [/jparkhill](https://github.com/jparkhill)
+
+This site hosts occasional notes on machine learning, scientific computing, and quantitative modeling.

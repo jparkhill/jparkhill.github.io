@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Coin Vol-II Hedging your BTC/ETH - The basics"
 comments: true
