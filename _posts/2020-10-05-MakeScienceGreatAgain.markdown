@@ -1,10 +1,11 @@
 ---
-published: false
 layout: post
-title:  "Modest Proposals to Make Science Great Again."
+title:  "Modest Proposals for Better Science"
 categories: opinion
 comments: true
 ---
+> *Views are my own and not those of any employer.*
+
 >Note: This was written long ago when I was quitting my faculty job. I still feel it's relevant, and so I'm just posting it.
 
 For a few brief decades in the mid-20th century, science was finally not a vanity project of the wealthy, but a career. Private and public enterprises invested in basic research. Bell labs developed the transistor, the C programming language, and the LASER. Government funding agencies sowed the seeds of silicon valley in Northern Californian military aerospace startups. The vast majority of our present day economy was born at that time, typed lovingly behind thick horned rimmed glasses into impractical computers so large humans would step inside of them. 

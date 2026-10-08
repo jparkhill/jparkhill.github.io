@@ -1,10 +1,11 @@
 ---
-published: false
 layout: post
 title:  "The upside of AI: making things you own, and throwing away what owns you"
 comments: false
 categories: [AI economy]
 ---
+
+> *Views are my own and not those of any employer.*
 
 > Wherein, John makes a better Nest device in an hour. 
 
