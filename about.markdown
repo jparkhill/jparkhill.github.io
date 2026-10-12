@@ -14,6 +14,7 @@ My path to ML ran through the physical sciences. I earned a **B.S. in Mathematic
 
 From there I spent several years as **Head of Quantitative Research at Artemis Capital Management**, leading research and data operations for a long-volatility macro fund and building deep-learning systems for volatility modeling and risk. More recently I returned to science, this time on the applied side, to build the ML function at [Terray Therapeutics](https://www.terraytx.com/).
 
+- [Resume (PDF)](/assets/johnparkhill-resume.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=mkEouY4AAAAJ&hl=en)
 - [GitHub](https://github.com/jparkhill)
 - [LinkedIn](https://www.linkedin.com/in/johnaparkhill/)
