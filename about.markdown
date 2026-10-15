@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a machine learning leader and scientist. I most recently founded and led the machine learning organization at **Terray Therapeutics**, building generative, agentic, and predictive systems for high-throughput drug discovery. My team's work spanned multimodal equivariant transformers, latent diffusion for molecular design, and transferable pretrained models for co-posing and potency, integrated into a fully autonomous design–make–test–analyze loop.
+I'm a machine learning leader and scientist. I most recently founded and led the machine learning organization at **Terray Therapeutics**, building generative, agentic, and predictive systems for high-throughput drug discovery. My team's work spanned multimodal equivariant transformers, latent diffusion for molecular design, and transferable pretrained models for co-posing and potency, integrated into a fully autonomous design–make–test–analyze loop. Most recently I led a vision-language model collaboration with NVIDIA, fine-tuning Nemotron VLMs that set a new state of the art for [parsing chemical reaction diagrams from the literature](https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron).
 
 <img src="/assets/me.jpeg" alt="John Parkhill" class="about-photo" width="220" />
 
