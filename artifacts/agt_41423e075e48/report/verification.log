@@ -1,0 +1,16 @@
+{
+  "catalog_entries": 60,
+  "papers": 41,
+  "pdfs": 30,
+  "pdf_status": {
+    "archived": 30,
+    "blocked": 3,
+    "paywalled": 16,
+    "not_applicable": 8,
+    "unavailable": 3
+  },
+  "resume_links": 21,
+  "liquid": "passed",
+  "navigation": "passed",
+  "baseline_pages": "unchanged"
+}

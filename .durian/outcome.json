@@ -1,0 +1,64 @@
+{
+  "status": "ready",
+  "summary": "Ready for review: 60 Published Work entries (41 papers/preprints, 6 Terray blogs, 13 materials), 30 validated local PDFs, all explicit resume material links reconciled. Direct Scholar coverage is unknown after HTTP 429; blocked and publisher-only entries are explicitly recorded. Existing site pages are unchanged.",
+  "human_action": null,
+  "judge_responses": [
+    {
+      "objection": "Feature-branch method conflicts with latest no-new-branch/default-branch instruction and existing branch is master, not main.",
+      "action": "declined",
+      "evidence": "Latest operator instruction requires the default branch without creating branches. Retained master; implementation commit b6211b3; conflict recorded via Durian A2A."
+    },
+    {
+      "objection": "Navigation acceptance refers to /published-work.html while prescribed page permalink is /published-work/.",
+      "action": "fixed",
+      "evidence": "Canonical header/navigation link matches /published-work/; navigation records published-work.md as source and /published-work.html as legacy link; dedicated redirect file serves the legacy URL."
+    },
+    {
+      "objection": "no dry-run: verification is a prompt for the judge, not a command",
+      "action": "fixed",
+      "evidence": "No judge dry-run command was invoked. Local validation ran scripts/published_work/verify.py; outputs are report/verification.json and verification.log."
+    }
+  ],
+  "tool_failures": [
+    {
+      "what": "Direct Google Scholar access",
+      "error": "HTTP 429; web reader also could not open profile",
+      "meaning": "Exact live Scholar list not verified; reconciled scholarly API fallback used."
+    },
+    {
+      "what": "Legacy Notre Dame group CV/publications",
+      "error": "HTTP 403 on both public CV and publications URLs",
+      "meaning": "Historical supplemental CV inaccessible; requested local resumes and independent scholarly sources were read."
+    },
+    {
+      "what": "Semantic Scholar author search",
+      "error": "HTTP 403",
+      "meaning": "This independent source remained unavailable; OpenAlex, ORCID, Crossref and arXiv succeeded."
+    },
+    {
+      "what": "Initial Europe PMC initials query",
+      "error": "Query matched Julian Parkhill rather than John; ORCID query returned zero results",
+      "meaning": "These query results were excluded, not treated as evidence that John has no publications."
+    },
+    {
+      "what": "Native Jekyll build",
+      "error": "System Ruby 2.6 bundle command cannot find locked bundler 2.1.4",
+      "meaning": "Full Jekyll build remains unverified; actual Liquid rendering, YAML, front matter, navigation and file checks passed via Python."
+    },
+    {
+      "what": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space",
+      "error": "[{\"url\": \"https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf\", \"status\": 403, \"final_url\": \"https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf\", \"bytes\": 6337}]",
+      "meaning": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts."
+    },
+    {
+      "what": "Detection of electron tunneling across plasmonic nanoparticle\u2013film junctions using nitrile vibrations",
+      "error": "[{\"url\": \"https://europepmc.org/articles/PMC5325176?pdf=render\", \"status\": 403, \"final_url\": \"https://europepmc.org/articles/PMC5325176?pdf=render\", \"bytes\": 5647}]",
+      "meaning": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts."
+    },
+    {
+      "what": "Local Models for Strongly Correlated Molecules",
+      "error": "[{\"url\": \"https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf\", \"status\": 403, \"final_url\": \"https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf\", \"bytes\": 919}]",
+      "meaning": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts."
+    }
+  ]
+}

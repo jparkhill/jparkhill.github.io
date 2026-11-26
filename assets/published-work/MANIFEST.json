@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:06:26.981548+00:00",
+  "generated_at": "2026-11-26T01:07:21.963693+00:00",
   "catalog": "/_data/published_work.yml",
   "page": "/published-work/",
   "google_scholar": {
@@ -3068,6 +3068,206 @@
       "path": "artifacts/agt_41423e075e48/sources/terray-old-sitemap.txt",
       "bytes": 5883,
       "sha256": "b52a124b59db07256002370577a538e4d3942b00ddaa78d8638232737abc2522"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/EpiNets-EMAX-how-to-select-the-right-molecules-to-make-and-test.html",
+      "bytes": 84262,
+      "sha256": "85c4b458dd96e880f139fea0ddb3f91f2af76d09d1e5b7a899750873fad3a44f"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/ai-can-dream-up-molecules-terray-develops-a-way-to-figure-out-which-ones-to-make.html",
+      "bytes": 40746,
+      "sha256": "335ced6a708eb237a8344ca95318d5bffd98e4add142317e8081ef7b1bee48b0"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/at-the-intersection-jacob-and-eli-berlin-on-how-terray-merges-chemistry-and-compute-to-drive-drug-discovery.html",
+      "bytes": 41007,
+      "sha256": "ce614be99f4def86589a3f3a0ba14161e1f68c88a3274c1184dfc73a65d23b7f"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/coati-multimodal-contrastive-pretraining-for-representing-and-traversing-chemical-space.html",
+      "bytes": 40654,
+      "sha256": "32ba1bedc438ab1375e0a56c3de453d75064378f4605f01fbe27d41eb3e826e8"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/cto-narbe-mardirossian-BioSpace-40-under-40-.html",
+      "bytes": 47006,
+      "sha256": "e959be9a51819846170f0470e500b15fb46d6de94a0e7711919d990565e30fb5"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/eli-berlin-on-terrays-approach-to-ai-drug-discovery.html",
+      "bytes": 42625,
+      "sha256": "0d36779db02c394d9e22dbbcf20d49b65cab2d44be0d25e62eba4f9054640095"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/emmi-predict-terrabind.html",
+      "bytes": 87024,
+      "sha256": "d00c01db96a50531c99d7d53b0cb07b95dd6920ec5820604a20000abf6214311"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron.html",
+      "bytes": 178200,
+      "sha256": "b9ecb3ebcf4714ad86270e121ab586e0bd61a2a32b9096283c4f19a4b7e8971e"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/gilead-and-terray-therapeutics-announce-multi-target-research-collaboration-to-discover-and-develop-novel-small-molecule-therapies.html",
+      "bytes": 59026,
+      "sha256": "d80ee0fcac311310f73f26a4b6c23b70e93400cfc33dc4f741d554af470ded16"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/how-ai-is-revolutionizing-drug-development.html",
+      "bytes": 40509,
+      "sha256": "1867043dc41c50cebfb05a02b6f540c228b8135c27016864f7ecd72f6fdf8f69"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/how-to-select-the-right-molecules-to-make-and-test.html",
+      "bytes": 78943,
+      "sha256": "8439e55eefc45c6bf9cdc4bbd4e65c5b8c019c1f7fda2f54ae6b91121cfd6cbb"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/introducing-emmi-predict-terrabind.html",
+      "bytes": 83475,
+      "sha256": "79aaea56a345e96337fbac9809f7025f0b7471fb41fa378518363f0d9ad0511a"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/introducing-emmi-where-experimentation-meets-machine-intelligence.html",
+      "bytes": 101095,
+      "sha256": "077d092dd93e68c3186339b25c6f67cfb1bab3bcb9ebccd9fce95af25060752d"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/jacob-berlin-on-the-ai-powered-future-of-medicine.html",
+      "bytes": 40540,
+      "sha256": "8cd861728b08d9a9e0b9ec6fc33ec09fd64386554bc184fcce079af9dcb3521a"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/jacob-berlin-on-why-chemistry-is-the-last-frontier-for-ai-drug-discovery.html",
+      "bytes": 42866,
+      "sha256": "a380d44734a00afea652574dcb813be1bbd8b4927618b94d8a4a3dee7244958b"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/latent-diffusion-for-conditional-generation-of-molecules.html",
+      "bytes": 40443,
+      "sha256": "b7850368d89e12726881ccfc7430ace82cfd414bae87447fecbf47da26d5dbbd"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/odyssey-therapeutics-and-terray-therapeutics-enter-strategic-collaboration-to-jointly-discover-and-develop-first-in-class-transcription-factor-therapies.html",
+      "bytes": 58114,
+      "sha256": "28dede4c4e0db72985811f4e899479f6ca2c2459764ef1e31c6cc21856b02414"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/pretrained-joint-predictions-for-scalable-batch-bayesian-optimization-of-molecular-designs.html",
+      "bytes": 40654,
+      "sha256": "a9cbceee61feae9bbca391bb9bea8a08856d6d0a3c55c012d39c00ec0b786f0c"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terrabind-fast-and-accurate-binding-affinity-prediction-through-coarse-structural-representations.html",
+      "bytes": 40707,
+      "sha256": "77a8e5910c22be29889eae1271b9f928415aca51aeff3000c7e025e5639a79de"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terrabind-generating-synthetic-data-NVIDIA-BioNeMo.html",
+      "bytes": 99126,
+      "sha256": "81e3eabc5d957d6b38f4f08a6da75275674816da18ef3743102bea76c7ee77be"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terrasynth.html",
+      "bytes": 156653,
+      "sha256": "21c8aeba37f4169140f419f71b3b533840e2ef775bdf0b40c68ecbe6d5b6e56c"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-appoints-lisa-l-decker-phd-as-chief-business-officer.html",
+      "bytes": 49550,
+      "sha256": "ad1a68d7a45ce0b6dc08061fcf33774a951ec7c6d5d925c9a02f929e1c70fa8a"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-built-at-the-intersection.html",
+      "bytes": 55314,
+      "sha256": "b040be74fdcd6ec53e69878f8793659c4164e6da14deda82e9371a9e24898616"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-says-its-ai-model-beats-a-popular-open-source-model-at-predicting-how-molecules-bind-with-proteins.html",
+      "bytes": 40925,
+      "sha256": "511fcfad613cdef3980fa6391cdbeffdbdc541263fae58b0854daf809e6b02c5"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-achieves-ai-enabled-drug-discovery-milestone-in-collaboration-with-bristol-myers-squibb.html",
+      "bytes": 47073,
+      "sha256": "563816e5d61f4442f58fb9b7f735597a46be5fc14f83d1d7ae77ca849e2004cf"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-and-calico-enter-into-a-multi-target-collaboration-to-discover-small-molecule-therapeutics-for-age-related-diseases.html",
+      "bytes": 52173,
+      "sha256": "e5faea73bc6f961c6aa2d1c03a15fcdbb0d1b0175800db870a456fd890b2c9ec"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-announces-investment-from-nvidia-to-enable-generative-ai-design-for-drug-discovery.html",
+      "bytes": 50766,
+      "sha256": "88a9f94ecbed83b4150cb89e9e17d5f5f7ef17eeab362162b1f67bf1529eafe3"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-announces-multi-target-collaboration-with-bristol-myers-squibb.html",
+      "bytes": 48070,
+      "sha256": "5c7ed6ccccaa30133514de88ebbec8903984250d23b336f9281845af164a6643"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-appoints-elliott-levy-md-to-scientific-advisory-board.html",
+      "bytes": 50154,
+      "sha256": "ffcb072aee7ddc8e51c8a196b21ca084633d97d9b03b5fefd42d641fef152c91"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-appoints-john-maraganore-phd-as-strategic-advisor.html",
+      "bytes": 49630,
+      "sha256": "3e2649b0dcac857a776b7247abee8d1ea37d03d845ce9f28de15c9c6f3d72fd7"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-ceo-on-designing-computational-and-experimental-platforms-to-supercharge-small-molecule-discovery.html",
+      "bytes": 41009,
+      "sha256": "519e3104b11a7fb92b69c37d1f05196e103a2b3dda5af25e9f66b9090f306c09"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-closes-oversubscribed-dollar120m-series-b-to-advance-its-generative-ai-pipeline-of-small-molecule-therapeutics-to-the-clinic.html",
+      "bytes": 55476,
+      "sha256": "f89dad2cf1678abe8d6ac883879798285c7ba5f76013cd6c5e737439d3091063"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-expands-board-of-directors-with-appointment-of-biotechnology-leader-wendy-young-phd.html",
+      "bytes": 48307,
+      "sha256": "621b90200279d8c79e7635af69fb9f9ff886e29b8c986324f9e38c37d4f79672"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-expands-scientific-advisory-board-to-advance-ai-driven-small-molecule-drug-discovery.html",
+      "bytes": 49023,
+      "sha256": "8914cfaa443c3fb0284ba15c414bf98a55c81611eab21b9b0add636d7372d134"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-launches-with-dollar60m-to-deliver-premium-chemical-data-at-unrivaled-scale-unlocking-the-potential-of-ai-driven-small-molecule-drug-discovery.html",
+      "bytes": 53270,
+      "sha256": "e623460a4938b5fb248816fc8da142aa66d5e1019938d210051baea2b481ce2d"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-therapeutics-strengthens-leadership-with-appointment-of-bassil-dahiyat-phd-as-board-independent-director.html",
+      "bytes": 48902,
+      "sha256": "9dda63a6c4f4ba82dc528e23b6f2951cfac3ac5a7f4b58c08ac9277ef5fa6f45"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-to-present-at-fall-investor-conferences.html",
+      "bytes": 48184,
+      "sha256": "d3512801b1834d54131ecb3895fb679feca4ab8825cfa6df2fe90428f48aefed"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terray-to-speak-at-september-investor-conferences.html",
+      "bytes": 45553,
+      "sha256": "988df89b01b0aa3f5bab1e820a0b3e818f9ae2a6039cb4480493ec464a3ab824"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/terrays-ai-platform-finds-drugs-in-unseen-chemical-space-achieves-bms-milestone.html",
+      "bytes": 40801,
+      "sha256": "c133ee3fb80e41f1c6c152cfb55389b0789aa9bb48b602afcc9a5949a673ff49"
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/sources/terray-pages/the-difference-is-the-data-drug-discoverys-ai-revolution.html",
+      "bytes": 40609,
+      "sha256": "58365a7c65df6163bff69779bafe3eead74dd94aafec42afe1923d470ffaa5f6"
     },
     {
       "path": "artifacts/agt_41423e075e48/sources/terray-sitemap.txt",

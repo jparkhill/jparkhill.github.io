@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "catalog_entries": 60,
+  "archived_pdfs": 30,
+  "resume_links_mapped": 21,
+  "existing_page_hashes": {
+    "index.markdown": "4e3de7e22640adcd9c138d9cf36e21cdb432d1e7ea477b83f3bf115cc59a012e",
+    "about.markdown": "8cfb5c443a2c538b1f02d87a24c9ddb1737638d59534e920561fea20ea876e04",
+    "blog.html": "cb9f23323dbef2b9586d9d138d0c5e0747499e50883191d92008e76e0250a014",
+    "assets/johnparkhill-resume.pdf": "430a8426950f261078d57441479dfee4b8f0686bd41acf779bab8262a7b75ad3"
+  },
+  "liquid_rendered_entries": 60,
+  "limitations": [
+    "Direct Scholar completeness not verified",
+    "Full Jekyll build not run"
+  ]
+}

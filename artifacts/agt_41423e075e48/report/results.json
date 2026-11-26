@@ -1,0 +1,189 @@
+{
+  "headline": "Published Work now renders 60 deduplicated entries: 41 papers/preprints, 6 Terray blog articles and 13 other materials. All 21 resume link occurrences are mapped. 30 local PDFs (77.1 MB) pass content checks, including all 6 Terray articles. Google Scholar returned HTTP 429; exact profile completeness remains unverified despite the reconciled API fallback.",
+  "figures": [
+    {
+      "path": "artifacts/agt_41423e075e48/report/coverage.png",
+      "title": "Catalog and archive coverage",
+      "caption": "Each bar is one page section. Colored segments distinguish validated local PDFs from publisher-only, blocked, unavailable and native-format links."
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/report/page-preview.png",
+      "title": "Rendered Published Work template",
+      "caption": "Local browser view of the actual Liquid output and top-level navigation, with lightweight review styling. This is a template preview, not a full Jekyll build."
+    },
+    {
+      "path": "artifacts/agt_41423e075e48/report/blog-review-6.png",
+      "title": "Printed Terray article: opening, middle and final page",
+      "caption": "Visual review of the EMMI Select article shows the byline, body text, original figures and final section. Page labels identify each sample; all substantial paragraphs were also checked against the full source."
+    }
+  ],
+  "tables": [
+    {
+      "title": "Measured catalog coverage",
+      "columns": [
+        {
+          "key": "group",
+          "label": "Section",
+          "unit": "text",
+          "definition": "Page section containing the catalog entries."
+        },
+        {
+          "key": "entries",
+          "label": "Entries",
+          "unit": "count",
+          "definition": "Number of distinct catalog records in the section."
+        },
+        {
+          "key": "archived",
+          "label": "Archived",
+          "unit": "count",
+          "definition": "Local PDF passed header, size and article-title/text checks."
+        },
+        {
+          "key": "paywalled",
+          "label": "Paywalled",
+          "unit": "count",
+          "definition": "No open PDF location found in consulted scholarly APIs; publisher link retained."
+        },
+        {
+          "key": "blocked",
+          "label": "Blocked",
+          "unit": "count",
+          "definition": "Advertised public copy failed HTTP or content checks; retrieval remains unresolved."
+        },
+        {
+          "key": "unavailable",
+          "label": "Unavailable",
+          "unit": "count",
+          "definition": "No PDF located for an abstract or dataset."
+        },
+        {
+          "key": "not_applicable",
+          "label": "Not Applicable",
+          "unit": "count",
+          "definition": "Software, profile, video or other material linked in its native format."
+        }
+      ],
+      "rows": [
+        {
+          "group": "Papers & Preprints",
+          "entries": 41,
+          "archived": 23,
+          "paywalled": 16,
+          "blocked": 2,
+          "unavailable": 0,
+          "not_applicable": 0
+        },
+        {
+          "group": "Terray Blog Posts",
+          "entries": 6,
+          "archived": 6,
+          "paywalled": 0,
+          "blocked": 0,
+          "unavailable": 0,
+          "not_applicable": 0
+        },
+        {
+          "group": "Talks, Patents & Resume Materials",
+          "entries": 13,
+          "archived": 1,
+          "paywalled": 0,
+          "blocked": 1,
+          "unavailable": 3,
+          "not_applicable": 8
+        }
+      ],
+      "notes": "Counts are computed from the YAML catalog. Archived counts include the resume copy; papers can be preprint/accepted-manuscript versions. Direct Scholar coverage is unknown."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Resume document links reconciled",
+      "value": 21,
+      "unit": "links",
+      "target": 21,
+      "definition": "Each explicit PDF annotation URL and TeX material URL maps to a catalog ID; duplicate URLs across sources count separately.",
+      "pass": true
+    },
+    {
+      "name": "Papers and preprints cataloged",
+      "value": 41,
+      "unit": "entries",
+      "target": ">=30",
+      "definition": "Unique paper/preprint works after merging DOI-linked and manually verified versions.",
+      "pass": true
+    },
+    {
+      "name": "Terray articles archived",
+      "value": 6,
+      "unit": "articles",
+      "target": 6,
+      "definition": "Included Terray articles printed as complete local PDFs, including every discovered John Parkhill byline and resume-linked collaboration article.",
+      "pass": true
+    },
+    {
+      "name": "PDF integrity and title checks",
+      "value": 30,
+      "unit": "PDFs",
+      "target": 30,
+      "definition": "All archived files start with %PDF-, exceed 5 KB and contain extracted article text matching a catalog title or verified alternate title.",
+      "pass": true
+    },
+    {
+      "name": "Catalog entries rendered by actual Liquid",
+      "value": 60,
+      "unit": "entries",
+      "target": 60,
+      "definition": "HTML list entries produced by python-liquid from published-work.md, with canonical and local PDF links checked.",
+      "pass": true
+    },
+    {
+      "name": "Existing site pages preserved",
+      "value": 3,
+      "unit": "pages",
+      "target": 3,
+      "definition": "index.markdown, about.markdown and blog.html remain byte-identical to baseline commit 6ea6074.",
+      "pass": true
+    },
+    {
+      "name": "Direct Google Scholar coverage verified",
+      "value": 0,
+      "unit": "profiles",
+      "target": 1,
+      "definition": "Live Scholar list successfully enumerated rather than inferred from the authorized scholarly API fallback. HTTP 429 prevents this check.",
+      "pass": false
+    },
+    {
+      "name": "Substantial blog paragraphs preserved",
+      "value": 151,
+      "unit": "paragraphs",
+      "target": 151,
+      "definition": "Every source article paragraph with at least 100 normalized characters found intact in the corresponding printed PDF.",
+      "pass": true
+    }
+  ],
+  "method": [
+    {
+      "title": "Sources and reconciliation",
+      "body": "Preserved API responses and full Terray index payload are under `artifacts/agt_41423e075e48/sources/`. Run `uv run scripts/published_work/catalog.py` to regenerate YAML and source mappings. OpenAlex author A5026991176, ORCID 0000-0001-5739-9620, Crossref DOI metadata and arXiv author entries were matched by DOI, normalized title and explicit version relationships. Every resume link is enumerated in MANIFEST.json. The two resumes were read only."
+    },
+    {
+      "title": "PDF retrieval and printing",
+      "body": "Run `uv run scripts/published_work/archive.py`, then `uv run scripts/published_work/archive.py --blogs`. These commands intentionally execute sequentially. Public PDFs advertised by repositories/publishers were downloaded without bypassing access controls. Blog printing uses installed macOS Chrome headless with A4 margins, article-only HTML, original images, source URLs and bylines. Navigation icons and footnote back-buttons are removed. Print command parameters and retrieval attempts are preserved in source archive-results.json."
+    },
+    {
+      "title": "Verification",
+      "body": "Run `uv run scripts/published_work/verify.py`. It parses YAML/front matter, renders actual Liquid with Jekyll URL filter equivalents, checks navigation and all canonical/PDF links, verifies every local PDF with PyMuPDF, checks unchanged baseline files, and regenerates this manifest/report/chart from measured data. A full Jekyll build was not available; the Python Liquid check is explicitly scoped to template syntax and generated links."
+    }
+  ],
+  "caveats": [
+    "Google Scholar profile mkEouY4AAAAJ returned HTTP 429; direct profile enumeration and exact Scholar completeness remain unknown. No CAPTCHA or rate-limit bypass was attempted. Authorized OpenAlex/ORCID/Crossref/arXiv fallback was used.",
+    "Both resume files are concise resumes, not 30-item bibliographies. The PDF claims 30+ peer-reviewed publications; every explicit document/material link was reconciled, while the expanded bibliography comes from scholarly APIs.",
+    "OpenAlex returned 43 works in its author query; three DOI-verified records were added from ORCID/arXiv/Crossref. Its author record advertised 46 works. API coverage may differ from Scholar.",
+    "Archived research files can be preprints or accepted manuscripts; version URLs and alternate titles are retained. A missing local file does not imply that a paper does not exist or is permanently inaccessible.",
+    "Paywalled status means no open PDF location was found in the consulted API records, not an exhaustive proof that no author manuscript exists. Advertised open URLs that failed are marked blocked instead.",
+    "Three Terray posts have John Parkhill on the byline. The resume-linked NVIDIA post and two related Terray ML platform posts are also archived, with actual authors and inclusion reasons preserved. Two old insights URLs duplicate current articles.",
+    "The old terraytx.com domain redirects to terraytx.ai. Coverage reflects the complete current news payload, sitemap, resume links, and public web searches; deleted unindexed historical pages cannot be ruled out.",
+    "Latest operator instruction forbids new branches and requests commits to the default branch. Existing checkout is master; it was retained. Canonical page is /published-work/ with a working /published-work.html alias. Conflicts were recorded through Durian A2A."
+  ]
+}
