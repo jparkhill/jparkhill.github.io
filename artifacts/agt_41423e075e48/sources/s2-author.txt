@@ -1,0 +1,1 @@
+{"total": 2, "offset": 0, "data": [{"authorId": "37480331", "name": "John A. Parkhill"}, {"authorId": "69519795", "name": "John T. Parkhill"}]}

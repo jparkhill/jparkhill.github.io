@@ -1,0 +1,471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/iXujt/S5uJWFzZ6/JSOGR5jJkZw</id>
+  <title>arXiv Query: search_query=au:"Parkhill John"&amp;id_list=&amp;start=0&amp;max_results=100</title>
+  <updated>2026-11-26T00:53:56Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=au:%22Parkhill+John%22&amp;start=0&amp;max_results=100&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <opensearch:totalResults>17</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1609.00077v1</id>
+    <title>Cost-effective description of strong correlation: efficient implementations of the perfect quadruples and perfect hextuples models</title>
+    <updated>2016-09-01T01:19:40Z</updated>
+    <link href="https://arxiv.org/abs/1609.00077v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1609.00077v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Novel implementations based on dense tensor storage are presented for the singlet-reference perfect quadruples (PQ) [Parkhill, Lawler, and Head-Gordon, J. Chem. Phys. 130, 084101 (2009)] and perfect hextuples (PH) [Parkhill and Head-Gordon, J. Chem. Phys. 133, 024103 (2010)] models. The methods are obtained as block decompositions of conventional coupled-cluster theory that are exact for four electrons in four orbitals (PQ) and six electrons in six orbitals (PH), but that can also be applied to much larger systems. PQ and PH have storage requirements that scale as the square, and as the cube of the number of active electrons, respectively, and exhibit quartic scaling of the computational effort for large systems. Applications of the new implementations are presented for full-valence calculations on linear polyenes (C n H n+2 ), which highlight the excellent computational scaling of the present implementations that can routinely handle active spaces of hundreds of electrons. The accuracy of the models is studied in the π space of the polyenes, in hydrogen chains (H 50 ), and in the π space of polyacene molecules. In all cases, the results compare favorably to density matrix renormalization group values. With the novel implementation of PQ, active spaces of 140 electrons in 140 orbitals can be solved in a matter of minutes on a single core workstation, and the relatively low polynomial scaling means that very large systems are also accessible using parallel computing.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-01T01:19:40Z</published>
+    <arxiv:comment>13 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <arxiv:journal_ref>J. Chem. Phys. 145, 134110 (2016)</arxiv:journal_ref>
+    <author>
+      <name>Susi Lehtola</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <author>
+      <name>Martin Head-Gordon</name>
+    </author>
+    <arxiv:doi>10.1063/1.4964317</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.4964317" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1112.1665v2</id>
+    <title>Exciton coherence lifetimes from electronic structure</title>
+    <updated>2011-12-13T00:40:56Z</updated>
+    <link href="https://arxiv.org/abs/1112.1665v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1112.1665v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We model the coherent energy transfer of an electronic excitation within covalently linked aromatic homodimers from first-principles, to answer whether the usual models of the bath calculated via detailed electronic structure calculations can reproduce the key dynamics. For these systems the timescales of coherent transport are experimentally known from time-dependent polarization anisotropy measurements, and so we can directly assess the whether current techniques might be predictive for this phenomenon. Two choices of electronic basis states are investigated, and their relative merits discussed regarding the predictions of the perturbative model. The coupling of the electronic degrees of freedom to the nuclear degrees of freedom is calculated rather than assumed, and the fluorescence anisotropy decay is directly reproduced. Surprisingly we find that although TDDFT absolute energies are routinely in error by orders of magnitude more than the coupling energy, the coherent transport properties of these dimers can be semi-quantitatively reproduced from first-principles. The directions which must be pursued to yield predictive and reliable prediction of coherent transport are suggested.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2011-12-07T19:19:37Z</published>
+    <arxiv:comment>22 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <author>
+      <name>David Tempel</name>
+    </author>
+    <author>
+      <name>Alan Aspuru-Guzik</name>
+    </author>
+    <arxiv:doi>10.1063/1.3689858</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.3689858" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1705.01678v3</id>
+    <title>Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear polyacenes</title>
+    <updated>2018-03-07T13:51:33Z</updated>
+    <link href="https://arxiv.org/abs/1705.01678v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1705.01678v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We describe the implementation of orbital optimization for the models in the perfect pairing hierarchy [Lehtola et al, J. Chem. Phys. 145, 134110 (2016)]. Orbital optimization, which is generally necessary to obtain reliable results, is pursued at perfect pairing (PP) and perfect quadruples (PQ) levels of theory for applications on linear polyacenes, which are believed to exhibit strong correlation in the π space. While local minima and σ-π symmetry breaking solutions were found for PP orbitals, no such problems were encountered for PQ orbitals. The PQ orbitals are used for single-point calculations at PP, PQ and perfect hextuples (PH) levels of theory, both only in the π subspace, as well as in the full σπ valence space. It is numerically demonstrated that the inclusion of single excitations is necessary also when optimized orbitals are used. PH is found to yield good agreement with previously published density matrix renormalization group (DMRG) data in the π space, capturing over 95% of the correlation energy. Full-valence calculations made possible by our novel, efficient code reveal that strong correlations are weaker when larger bases or active spaces are employed than in previous calculations. The largest full-valence PH calculations presented correspond to a (192e,192o) problem.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-05-04T02:30:59Z</published>
+    <arxiv:comment>19 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <arxiv:journal_ref>Mol. Phys. 116, 547 (2018)</arxiv:journal_ref>
+    <author>
+      <name>Susi Lehtola</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <author>
+      <name>Martin Head-Gordon</name>
+    </author>
+    <arxiv:doi>10.1080/00268976.2017.1342009</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1080/00268976.2017.1342009" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1206.2567v2</id>
+    <title>A correlated-polaron electronic propagator: open electronic dynamics beyond the Born-Oppenheimer approximation</title>
+    <updated>2012-10-02T23:30:47Z</updated>
+    <link href="https://arxiv.org/abs/1206.2567v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1206.2567v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work we develop a theory of correlated many-electron dynamics dressed by the presence of a finite-temperature harmonic bath. The theory is based on the ab-initio Hamiltonian, and thus well-defined apart from any phenomenological choice of collective basis states or electronic coupling model. The equation-of-motion includes some bath effects non-perturbatively, and can be used to simulate line- shapes beyond the Markovian approximation and open electronic dynamics which are subjects of renewed recent interest. Energy conversion and transport depend critically on the ratio of electron-electron coupling to bath-electron coupling, which is a fitted parameter if a phenomenological basis of many-electron states is used to develop an electronic equation of motion. Since the present work doesn't appeal to any such basis, it avoids this ambiguity. The new theory produces a level of detail beyond the adiabatic Born-Oppenheimer states, but with cost scaling like the Born-Oppenheimer approach. While developing this model we have also applied the time-convolutionless perturbation theory to correlated molecular excitations for the first time. Resonant response properties are given by the formalism without phenomenological parameters. Example propagations with a developmental code are given demonstrating the treatment of electron-correlation in absorption spectra, vibronic structure, and decay in an open system.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2012-06-12T15:32:38Z</published>
+    <arxiv:comment>25 pages 7 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>John A. Parkhill</name>
+    </author>
+    <author>
+      <name>Thomas Markovich</name>
+    </author>
+    <author>
+      <name>David G. Tempel</name>
+    </author>
+    <author>
+      <name>Alan Aspuru-Guzik</name>
+    </author>
+    <arxiv:doi>10.1063/1.4762441</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.4762441" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1509.00062v1</id>
+    <title>The Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks</title>
+    <updated>2015-08-28T16:28:27Z</updated>
+    <link href="https://arxiv.org/abs/1509.00062v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1509.00062v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate a convolutional neural network trained to reproduce the Kohn-Sham kinetic energy of hydrocarbons from electron density. The output of the network is used as a non-local correction to the conventional local and semi-local kinetic functionals. We show that this approximation qualitatively reproduces Kohn-Sham potential energy surfaces when used with conventional exchange correlation functionals. Numerical noise inherited from the non-linearity of the neural network is identified as the major challenge for the model. Finally we examine the features in the density learned by the neural network to anticipate the prospects of generalizing these models.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-08-28T16:28:27Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1711.06385v2</id>
+    <title>The TensorMol-0.1 Model Chemistry: a Neural Network Augmented with Long-Range Physics</title>
+    <updated>2017-11-20T15:12:55Z</updated>
+    <link href="https://arxiv.org/abs/1711.06385v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1711.06385v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Traditional force-fields cannot model chemical reactivity, and suffer from low generality without re-fitting. Neural network potentials promise to address these problems, offering energies and forces with near ab-initio accuracy at low cost. However a data-driven approach is naturally inefficient for long-range interatomic forces that have simple physical formulas. In this manuscript we construct a hybrid model chemistry consisting of a nearsighted Neural-Network potential with screened long-range electrostatic and Van-Der-Waals physics. This trained potential, simply dubbed "TensorMol-0.1", is offered in an open-source python package capable of many of the simulation types commonly used to study chemistry: Geometry optimizations, harmonic spectra, and open or periodic molecular dynamics, Monte Carlo, and nudged elastic band calculations. We describe the robustness and speed of the package, demonstrating millihartree accuracy and scalability to tens-of-thousands of atoms on ordinary laptops. We demonstrate the performance of the model by reproducing vibrational spectra, and simulating molecular dynamics of a protein. Our comparisons with electronic structure theory and experiment demonstrate that neural network molecular dynamics is poised to become an important tool for molecular simulation, lowering the resource barrier to simulate chemistry.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-11-17T03:28:48Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>John E. Herr</name>
+    </author>
+    <author>
+      <name>David W. Toth</name>
+    </author>
+    <author>
+      <name>Ryker Mcintyre</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1307.4407v1</id>
+    <title>More accurate and efficient bath spectral densities from super-resolution</title>
+    <updated>2013-07-16T20:00:27Z</updated>
+    <link href="https://arxiv.org/abs/1307.4407v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1307.4407v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum transport and other phenomena are typically modeled by coupling the system of interest to an environment, or bath, held at thermal equilibrium. Realistic bath models are at least as challenging to construct as models for the quantum systems themselves, since they must incorporate many degrees of freedom that interact with the system on a wide range of timescales. Owing to computational limitations, the environment is often modeled with simple functional forms, with a few parameters fit to experiment to yield semi-quantitative results. Growing computational resources have enabled the construction of more realistic bath models from molecular dynamics (MD) simulations. In this paper, we develop a numerical technique to construct these atomistic bath models with better accuracy and decreased cost. We apply a novel signal processing technique, known as super-resolution, combined with a dictionary of physically-motivated bath modes to derive spectral densities from MD simulations. Our approach reduces the required simulation time and provides a more accurate spectral density than can be obtained via standard Fourier transform methods. Moreover, the spectral density is provided as a convenient closed-form expression which yields an analytic time-dependent bath kernel. Exciton dynamics of the Fenna-Matthews-Olsen light-harvesting complex are simulated with a second order time-convolutionless master equation, and spectral densities constructed via super-resolution are shown to reproduce the dynamics using only a quarter of the amount of MD data.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2013-07-16T20:00:27Z</published>
+    <arxiv:comment>8 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Thomas Markovich</name>
+    </author>
+    <author>
+      <name>Samuel M. Blau</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <author>
+      <name>Christoph Kreisbeck</name>
+    </author>
+    <author>
+      <name>Jacob N. Sanders</name>
+    </author>
+    <author>
+      <name>Xavier Andrade</name>
+    </author>
+    <author>
+      <name>Alán Aspuru-Guzik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1811.00123v1</id>
+    <title>Compressing physical properties of atomic species for improving predictive chemistry</title>
+    <updated>2018-10-31T21:11:40Z</updated>
+    <link href="https://arxiv.org/abs/1811.00123v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1811.00123v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The answers to many unsolved problems lie in the intractable chemical space of molecules and materials. Machine learning techniques are rapidly growing in popularity as a way to compress and explore chemical space efficiently. One of the most important aspects of machine learning techniques is representation through the feature vector, which should contain the most important descriptors necessary to make accurate predictions, not least of which is the atomic species in the molecule or material. In this work we introduce a compressed representation of physical properties for atomic species we call the elemental modes. The elemental modes provide an excellent representation by capturing many of the nuances of the periodic table and the similarity of atomic species. We apply the elemental modes to several different tasks for machine learning algorithms and show that they enable us to make improvements to these tasks even beyond simply achieving higher accuracy predictions.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2018-10-31T21:11:40Z</published>
+    <arxiv:comment>6 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <arxiv:journal_ref>J. Chem. Phys. 151 (2018) 084103</arxiv:journal_ref>
+    <author>
+      <name>John E. Herr</name>
+    </author>
+    <author>
+      <name>Kevin Koh</name>
+    </author>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <arxiv:doi>10.1063/1.5108803</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.5108803" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1411.5324v2</id>
+    <title>How Electronic Dynamics with Pauli Exclusion Produces Fermi-Dirac Statistics</title>
+    <updated>2015-01-15T22:48:08Z</updated>
+    <link href="https://arxiv.org/abs/1411.5324v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1411.5324v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>It is important that any dynamics method approaches the correct population distribution at long times. In this paper, we derive a one-body reduced density matrix dynamics for electrons in energetic contact with a bath. We obtain a remarkable equation of motion which shows that in order to reach equilibrium properly, rates of electron transitions depend on the density matrix. Even though the bath drives the electrons towards a Boltzmann distribution, hole blocking factors in our equation of motion cause the electronic populations to relax to a Fermi-Dirac distribution. These factors are an old concept, but we show how they can be derived with a combination of time-dependent perturbation theory, and the extended normal ordering of Mukherjee and Kutzelnigg. The resulting non-equilibrium kinetic equations generalize the usual Redfield theory to many-electron systems, while ensuring that the orbital occupations remain between zero and one. In numerical applications of our equations, we show that relaxation rates of molecules are not constant because of the blocking effect. Other applications to model atomic chains are also presented which highlight the importance of treating both dephasing and relaxation. Finally we show how the bath localizes the electron density matrix.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-11-19T19:19:48Z</published>
+    <arxiv:comment>Revision #1: 18 pages, 4 figures. Theory sections are revised to include derivation steps</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Triet Nguyen</name>
+    </author>
+    <author>
+      <name>Ravindra Nanguneri</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <arxiv:doi>10.1063/1.4916822</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.4916822" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1306.4332v1</id>
+    <title>Force-Field Functor Theory: Classical Force-Fields which Reproduce Equilibrium Quantum Distributions</title>
+    <updated>2013-06-18T20:00:54Z</updated>
+    <link href="https://arxiv.org/abs/1306.4332v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1306.4332v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Feynman and Hibbs were the first to variationally determine an effective potential whose associated classical canonical ensemble approximates the exact quantum partition function. We examine the existence of a map between the local potential and an effective classical potential which matches the exact quantum equilibrium density and partition function. The usefulness of such a mapping rests in its ability to readily improve Born-Oppenheimer potentials for use with classical sampling. We show that such a map is unique and must exist. To explore the feasibility of using this result to improve classical molecular mechanics, we numerically produce a map from a library of randomly generated one-dimensional potential/effective potential pairs then evaluate its performance on independent test problems. We also apply the map to simulate liquid para-hydrogen, finding that the resulting radial pair distribution functions agree well with path integral Monte Carlo simulations. The surprising accessibility and transferability of the technique suggest a quantitative route to adapting Born-Oppenheimer potentials, with a motivation similar in spirit to the powerful ideas and approximations of density functional theory.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2013-06-18T20:00:54Z</published>
+    <arxiv:comment>10 Pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Ryan Babbush</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <author>
+      <name>Alán Aspuru-Guzik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1609.07072v1</id>
+    <title>The Many-Body Expansion Combined with Neural Networks</title>
+    <updated>2016-09-22T17:09:47Z</updated>
+    <link href="https://arxiv.org/abs/1609.07072v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1609.07072v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fragmentation methods such as the many-body expansion (MBE) are a common strategy to model large systems by partitioning energies into a hierarchy of decreasingly significant contributions. The number of fragments required for chemical accuracy is still prohibitively expensive for ab-initio MBE to compete with force field approximations for applications beyond single-point energies. Alongside the MBE, empirical models of ab-initio potential energy surfaces have improved, especially non-linear models based on neural networks (NN) which can reproduce ab-initio potential energy surfaces rapidly and accurately. Although they are fast, NNs suffer from their own curse of dimensionality; they must be trained on a representative sample of chemical space. In this paper we examine the synergy of the MBE and NN's, and explore their complementarity. The MBE offers a systematic way to treat systems of arbitrary size and intelligently sample chemical space. NN's reduce, by a factor in excess of $10^6$ the computational overhead of the MBE and reproduce the accuracy of ab-initio calculations without specialized force fields. We show they are remarkably general, providing comparable accuracy with drastically different chemical embeddings. To assess this we test a new chemical embedding which can be inverted to predict molecules with desired properties.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-09-22T17:09:47Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>John E. Herr</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <arxiv:doi>10.1063/1.4973380</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.4973380" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1712.07240v1</id>
+    <title>Metadynamics for Training Neural Network Model Chemistries: a Competitive Assessment</title>
+    <updated>2017-12-19T22:17:15Z</updated>
+    <link href="https://arxiv.org/abs/1712.07240v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1712.07240v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neural network (NN) model chemistries (MCs) promise to facilitate the accurate exploration of chemical space and simulation of large reactive systems. One important path to improving these models is to add layers of physical detail, especially long-range forces. At short range, however, these models are data driven and data limited. Little is systematically known about how data should be sampled, and `test data' chosen randomly from some sampling techniques can provide poor information about generality. If the sampling method is narrow `test error' can appear encouragingly tiny while the model fails catastrophically elsewhere. In this manuscript we competitively evaluate two common sampling methods: molecular dynamics (MD), normal-mode sampling (NMS) and one uncommon alternative, Metadynamics (MetaMD), for preparing training geometries. We show that MD is an inefficient sampling method in the sense that additional samples do not improve generality. We also show MetaMD is easily implemented in any NNMC software package with cost that scales linearly with the number of atoms in a sample molecule. MetaMD is a black-box way to ensure samples always reach out to new regions of chemical space, while remaining relevant to chemistry near $k_bT$. It is one cheap tool to address the issue of generalization.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-12-19T22:17:15Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>John E. Herr</name>
+    </author>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>Ryker McIntyre</name>
+    </author>
+    <author>
+      <name>David Toth</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+    <arxiv:doi>10.1063/1.5020067</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1063/1.5020067" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1411.1110v1</id>
+    <title>Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$</title>
+    <updated>2014-11-04T23:33:39Z</updated>
+    <link href="https://arxiv.org/abs/1411.1110v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1411.1110v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the light-absorbing states of the mixed-halide perovskite CH$_{3}$NH$_{3}$PbI$_2$Cl and tri-iodide perovskite CH$_{3}$NH$_{3}$PbI$_3$ with density functional and many-body calculations to explain the desirable photovolatic features of these materials. The short-lived electron-hole bound states produced in this photovoltaic material are of halide to lead electron transfer character, with a Wannier-type exciton. Bethe-Salpeter (GW+BSE) calculations of the absorption cross section reveal strong screening of the electron-hole interaction. The atomic character of the exciton retains ligand-to-metal character within the visible spectrum, with differing degrees of localization outside the unit cell. The average electron-hole separation in the lowest exciton is found to be about 5$A^{\circ}$, slightly larger than the Pb-I bond length. Finally, we determine the role of methylammonium's dipole in the ultrafast relaxation by preparing an atomistic model of the picosecond electronic dynamics in the tri-iodide, PbI$_3$. Our model allows us to identify phonon modes which couple strongly to the electronic excitations, and explain the picosecond timescale intra-band relaxation dynamics seen in recent transient absorption experiments. We largely substantiate the conjectured three band model for the dynamics, but also identify other possible relaxation channels in the tri-iodide.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2014-11-04T23:33:39Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ravindra Nanguneri</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1703.08640v5</id>
+    <title>Bond Energies from a Diatomics-in-Molecules Neural Network</title>
+    <updated>2017-05-03T19:46:16Z</updated>
+    <link href="https://arxiv.org/abs/1703.08640v5" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1703.08640v5" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neural networks are being used to make new types of empirical chemical models as inexpensive as force fields, but with accuracy close to the ab-initio methods used to build them. Besides modeling potential energy surfaces, neural-nets can provide qualitative insights and make qualitative chemical trends quantitatively predictable. In this work we present a neural-network that predicts the energies of molecules as a sum of bond energies. The network learns the total energies of the popular GDB9 dataset to a competitive MAE of 0.94 kcal/mol. The method is naturally linearly scaling, and applicable to molecules of nanoscopic size. More importantly it gives chemical insight into the relative strengths of bonds as a function of their molecular environment, despite only being trained on total energy information. We show that the network makes predictions of relative bond strengths in good agreement with measured trends and human predictions. We show that DIM-NN learns the same heuristic trends in relative bond strength developed by expert synthetic chemists, and ab-initio bond order measures such as NBO analysis.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2017-03-25T02:50:00Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Kun Yao</name>
+    </author>
+    <author>
+      <name>John Herr</name>
+    </author>
+    <author>
+      <name>Seth Brown</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2511.10590v2</id>
+    <title>Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs</title>
+    <updated>2025-11-14T15:52:01Z</updated>
+    <link href="https://arxiv.org/abs/2511.10590v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2511.10590v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Batched synthesis and testing of molecular designs is the key bottleneck of drug development. There has been great interest in leveraging biomolecular foundation models as surrogates to accelerate this process. In this work, we show how to obtain scalable probabilistic surrogates of binding affinity for use in Batch Bayesian Optimization (Batch BO). This demands parallel acquisition functions that hedge between designs and the ability to rapidly sample from a joint predictive density to approximate them. Through the framework of Epistemic Neural Networks (ENNs), we obtain scalable joint predictive distributions of binding affinity on top of representations taken from large structure-informed models. Key to this work is an investigation into the importance of prior networks in ENNs and how to pretrain them on synthetic data to improve downstream performance in Batch BO. Their utility is demonstrated by rediscovering known potent EGFR inhibitors on a semi-synthetic benchmark in up to 5x fewer iterations, as well as potent inhibitors from a real-world small-molecule library in up to 10x fewer iterations, offering a promising solution for large-scale drug discovery applications.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-11-13T18:26:58Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Miles Wang-Henderson</name>
+    </author>
+    <author>
+      <name>Benjamin Kaufman</name>
+    </author>
+    <author>
+      <name>Edward Williams</name>
+    </author>
+    <author>
+      <name>Ryan Pederson</name>
+    </author>
+    <author>
+      <name>Matteo Rossi</name>
+    </author>
+    <author>
+      <name>Owen Howell</name>
+    </author>
+    <author>
+      <name>Carl Underkoffler</name>
+    </author>
+    <author>
+      <name>Narbe Mardirossian</name>
+    </author>
+    <author>
+      <name>John Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.07735v1</id>
+    <title>TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations</title>
+    <updated>2026-02-08T00:01:43Z</updated>
+    <link href="https://arxiv.org/abs/2602.07735v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.07735v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present TerraBind, a foundation model for protein-ligand structure and binding affinity prediction that achieves 26-fold faster inference than state-of-the-art methods while improving affinity prediction accuracy by $\sim$20\%. Current deep learning approaches to structure-based drug design rely on expensive all-atom diffusion to generate 3D coordinates, creating inference bottlenecks that render large-scale compound screening computationally intractable. We challenge this paradigm with a critical hypothesis: full all-atom resolution is unnecessary for accurate small molecule pose and binding affinity prediction. TerraBind tests this hypothesis through a coarse pocket-level representation (protein C$_β$ atoms and ligand heavy atoms only) within a multimodal architecture combining COATI-3 molecular encodings and ESM-2 protein embeddings that learns rich structural representations, which are used in a diffusion-free optimization module for pose generation and a binding affinity likelihood prediction module. On structure prediction benchmarks (FoldBench, PoseBusters, Runs N' Poses), TerraBind matches diffusion-based baselines in ligand pose accuracy. Crucially, TerraBind outperforms Boltz-2 by $\sim$20\% in Pearson correlation for binding affinity prediction on both a public benchmark (CASP16) and a diverse proprietary dataset (18 biochemical/cell assays). We show that the affinity prediction module also provides well-calibrated affinity uncertainty estimates, addressing a critical gap in reliable compound prioritization for drug discovery. Furthermore, this module enables a continual learning framework and a hedged batch selection strategy that, in simulated drug discovery cycles, achieves 6$\times$ greater affinity improvement of selected molecules over greedy-based approaches.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.BM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-08T00:01:43Z</published>
+    <arxiv:comment>31 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Matteo Rossi</name>
+    </author>
+    <author>
+      <name>Ryan Pederson</name>
+    </author>
+    <author>
+      <name>Miles Wang-Henderson</name>
+    </author>
+    <author>
+      <name>Ben Kaufman</name>
+    </author>
+    <author>
+      <name>Edward C. Williams</name>
+    </author>
+    <author>
+      <name>Carl Underkoffler</name>
+    </author>
+    <author>
+      <name>Owen Lewis Howell</name>
+    </author>
+    <author>
+      <name>Adrian Layer</name>
+    </author>
+    <author>
+      <name>Stephan Thaler</name>
+    </author>
+    <author>
+      <name>Narbe Mardirossian</name>
+    </author>
+    <author>
+      <name>John Anthony Parkhill</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1301.2326v2</id>
+    <title>Feynman's clock, a new variational principle, and parallel-in-time quantum dynamics</title>
+    <updated>2013-04-29T15:54:07Z</updated>
+    <link href="https://arxiv.org/abs/1301.2326v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1301.2326v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce a new discrete-time variational principle inspired by the quantum clock originally proposed by Feynman, and use it to write down quantum evolution as a ground state eigenvalue problem. The construction allows one to apply ground state quantum many-body theory to quantum dynamics, extending the reach of many highly developed tools from this fertile research area. Moreover this formalism naturally leads to an algorithm to parallelize quantum simulation over time. We draw an explicit connection between previously known time-dependent variational principles and the new time embedded variational principle presented. Sample calculations are presented applying the idea to a Hydrogen molecule and the spin degrees of freedom of a model inorganic compound demonstrating the parallel speedup of our method as well as its flexibility in applying ground-state methodologies. Finally, we take advantage of the unique perspective of the new variational principle to examine the error of basis approximations in quantum dynamics.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2013-01-10T21:00:02Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Jarrod R. McClean</name>
+    </author>
+    <author>
+      <name>John A. Parkhill</name>
+    </author>
+    <author>
+      <name>Alán Aspuru-Guzik</name>
+    </author>
+    <arxiv:doi>10.1073/pnas.1308069110</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1073/pnas.1308069110" title="doi"/>
+  </entry>
+</feed>

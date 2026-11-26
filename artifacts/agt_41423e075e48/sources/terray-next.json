@@ -1,0 +1,4099 @@
+{
+  "props": {
+    "pageProps": {
+      "page": {
+        "_createdAt": "2026-04-24T18:18:55Z",
+        "_id": "a22c56b4-db3e-47ab-8ecd-82f43f57bd57",
+        "_rev": "1XnFV5jf0TjLbdDtWhSitH",
+        "_system": {
+          "base": {
+            "id": "a22c56b4-db3e-47ab-8ecd-82f43f57bd57",
+            "rev": "5cZY1a9C1ja9kDgsUHN8XL"
+          }
+        },
+        "_type": "page",
+        "_updatedAt": "2026-08-18T23:31:44Z",
+        "content": [
+          {
+            "_key": "905212ef0866",
+            "_type": "heroFeaturedPosts",
+            "background": "white",
+            "content": null,
+            "ctas": null,
+            "heading": "News + Research",
+            "posts": [
+              {
+                "_createdAt": "2026-06-11T00:58:00Z",
+                "_id": "ac435851-0964-4bd6-bde0-62f273616101",
+                "_rev": "NtpMq2H5IGJcBf86rw8CJw",
+                "_system": {
+                  "base": {
+                    "id": "ac435851-0964-4bd6-bde0-62f273616101",
+                    "rev": "5cZY1a9C1ja9kDgsUKv5X9"
+                  }
+                },
+                "_type": "post",
+                "_updatedAt": "2026-06-12T18:08:29Z",
+                "authors": [
+                  {
+                    "_createdAt": "2024-04-19T15:25:10Z",
+                    "_id": "bdda1c7e-21e7-4fd1-b4d2-7699ce1688a3",
+                    "_rev": "yXtPUwiZ1lHhdch3jiaQfB",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "department": {
+                      "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6GNq",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "hasBio": false,
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-fe34d42df7358b1805030b86f4275839210cb73f-1454x2182-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "Miles Wang-Henderson",
+                    "title": "Senior Associate Engineer, ML"
+                  },
+                  {
+                    "_createdAt": "2023-09-13T15:05:34Z",
+                    "_id": "fa56ff0f-b8bb-0e81-5402-17300d364c6b",
+                    "_rev": "NUFXFu05SItJ3lclh3WyNE",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "department": {
+                      "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6JN0",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-d48145411bb2e2a2ffc8262700d34c4fdb80acc5-1454x2182-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "Zack Strater",
+                    "title": "Senior Scientist, Cheminformatics"
+                  },
+                  {
+                    "_key": "b6013f64fbae",
+                    "_type": "guestAuthor",
+                    "name": "John Parkhill"
+                  },
+                  {
+                    "_createdAt": "2023-09-13T15:05:34Z",
+                    "_id": "1b49a960-b6ad-8cfa-6468-b84feb7f1889",
+                    "_rev": "NUFXFu05SItJ3lclh3WyNE",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "department": {
+                      "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6Fu5",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-a2093440d6a27284c79324192480ca6752a48d08-1454x2182-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "Matthew Katcher",
+                    "title": "Associate Director"
+                  },
+                  {
+                    "_key": "9eb55ee73805",
+                    "_type": "guestAuthor",
+                    "name": "Narbe Mardirossian"
+                  }
+                ],
+                "category": {
+                  "_createdAt": "2026-04-24T18:48:46Z",
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "_rev": "NUFXFu05SItJ3lclh3UdTr",
+                  "_type": "postCategory",
+                  "_updatedAt": "2026-04-24T18:48:46Z",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "content": [
+                  {
+                    "_key": "4f3f553a5890",
+                    "_type": "divider",
+                    "visible": true
+                  },
+                  {
+                    "_key": "da00938488a6",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "80d4a9e48e4f",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Introduction"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "ede6c6574abd",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "90a9b22f678c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "In small-molecule drug discovery, the latency of a DMTA (design-make-test-analyze) "
+                      },
+                      {
+                        "_key": "9b779c7ebbe0",
+                        "_type": "span",
+                        "marks": [
+                          "f0cbd7858fbe"
+                        ],
+                        "text": "cycle"
+                      },
+                      {
+                        "_key": "aea75d9cdc97",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " dictates how quickly teams can iterate from hit to clinical candidate. At Terray, we have built our "
+                      },
+                      {
+                        "_key": "24ca65d12693",
+                        "_type": "span",
+                        "marks": [
+                          "908310a4edca"
+                        ],
+                        "text": "EMMI platform"
+                      },
+                      {
+                        "_key": "adff449fc564",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " at the intersection of experimentation and AI, creating an efficient and integrated drug discovery engine to advance our internal and partnered therapeutics programs."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "f0cbd7858fbe",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "db48763e4263",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "56d7c6a98bc6",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "DMTA cycles are the canonical iteration loop in medicinal chemistry; in practice, the \"Make\" step dominates the overall cycle time."
+                              }
+                            ],
+                            "markDefs": [],
+                            "style": "normal"
+                          }
+                        ]
+                      },
+                      {
+                        "_key": "908310a4edca",
+                        "_type": "externalLink",
+                        "href": "/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "f2dfbbbcff2d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "1d48a3aa8a6d",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The \"Make\" step in DMTA is the slowest step, as it involves realizing a virtual design as an experimentally-synthesized molecule. Synthesis times for designs can take anywhere from weeks to a few months for complex AI-generated molecules. Models that incorporate synthetic considerations into the design process have historically been either too slow or too limited in their coverage of chemical space. To realize the promise of AI speeding up small-molecule discovery timelines, we need efficient generative models that are constrained by the design language of synthetic "
+                      },
+                      {
+                        "_key": "f39ffd3df975",
+                        "_type": "span",
+                        "marks": [
+                          "e88321fcebc6"
+                        ],
+                        "text": "chemistry"
+                      },
+                      {
+                        "_key": "3c1b3cfffe9e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "e88321fcebc6",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "b66fb5ba788a",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "6f23654aa489",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Our work can be categorized as direct sequence generation, where routes are represented as a sequence of tokens. See "
+                              },
+                              {
+                                "_key": "c16fa5fe2abb",
+                                "_type": "span",
+                                "marks": [
+                                  "em",
+                                  "ae322c084b1a"
+                                ],
+                                "text": "The Syntax of Matter. Morgunov, et al."
+                              },
+                              {
+                                "_key": "4f6dd1fd5625",
+                                "_type": "span",
+                                "marks": [],
+                                "text": " 2026.\u00a0"
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "ae322c084b1a",
+                                "_type": "externalLink",
+                                "href": "https://chemrxiv.org/doi/10.26434/chemrxiv.15001278"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "e1a170261f46",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "cc1b7cf796c5",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "This is the gap TerraSynth closes. It reconstructs more drug-like chemistry than any prior synthesis planner, and does so roughly 1000x faster than the next best baseline on reconstruction rate. That speed lets us use TerraSynth inside the inner-loop of an optimizer, to decode and score candidates fast enough that synthesis is a native part of the design loop, ensuring that every proposed compound has been optimized for synthesizability."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "d7d0838b6d23",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a1444c1d3595",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Across internal projects at Terray, designs proposed through this loop have reduced synthesis latency by up to 75%."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "3a787138a3ed",
+                    "_type": "figure",
+                    "alt": "Figure 1. Reconstruction rate (%) versus inference wall-time.",
+                    "asset": {
+                      "_ref": "image-1b862e17bff496a617832f2a5749202738270b82-533x366-svg",
+                      "_type": "reference"
+                    },
+                    "caption": "Figure 1. Reconstruction rate (%) versus inference wall-time on a random N=1,000 subset of ChEMBL with 95% bootstrapped CIs for TerraSynth and three established baselines. Times reported using single H100. TerraSynth strikes a good balance between chemical space coverage and speed.",
+                    "useLightbox": false
+                  },
+                  {
+                    "_key": "b2b363acf15a",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7b30f6590da1",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Generative Synthesis Planning"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "839f36430ee4",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "fbf0570b777b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Conventionally, a synthesis planner takes a target molecule and returns a route, which is a sequence of reactions over commercially available building blocks. For our purposes, \"planner\" is shorthand for a generative model over routes, not a retrosynthesis search engine that recurses backwards from the target molecule until purchasable building blocks are "
+                      },
+                      {
+                        "_key": "2a95d6665362",
+                        "_type": "span",
+                        "marks": [
+                          "f12f344223d6"
+                        ],
+                        "text": "reached"
+                      },
+                      {
+                        "_key": "3888e447285d",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "f12f344223d6",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "b7f58d68f7d9",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "fb87c778a840",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Forward synthesis planners can both find routes and design new molecules. They run a synthetic route \"forward\" from its starting materials. Retrosynthesis engines take a molecule and break it up, recursing backwards until plausible starting materials are reached."
+                              }
+                            ],
+                            "markDefs": [],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "d1592b2c92e2",
+                    "_type": "cytoscapeGraph",
+                    "caption": "Figure 2. TerraSynth predicted route for a molecule requiring commonly-used coupling reactions.",
+                    "dataFile": {
+                      "_type": "file",
+                      "asset": {
+                        "_ref": "file-75334fedfa5e1a418614fdfc9ea5e6b34635cb8c-json",
+                        "_type": "reference"
+                      }
+                    },
+                    "label": "Figure 2"
+                  },
+                  {
+                    "_key": "66e9a4f0e22a",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "345dd5db79de",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We want a planner to play two roles at once: (1) To "
+                      },
+                      {
+                        "_key": "bf86264e89f0",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "reconstruct"
+                      },
+                      {
+                        "_key": "5fde837d6463",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " known chemistry, and (2) to "
+                      },
+                      {
+                        "_key": "c762d5d7b534",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "generate"
+                      },
+                      {
+                        "_key": "fc78abb4c75b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " new molecules whose routes are feasible by construction. This ensures both that the chemical space the model operates in is vast and diverse, and that every novel design it proposes is practically realizable at the bench. To do so requires that a planner is:"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "a47a54915c87",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "47bb8adec110",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "Expressive."
+                      },
+                      {
+                        "_key": "c6aef66bd80a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " The model must span the chemistries that medicinal chemists tend to explore. If it cannot reconstruct internal leads or ChEMBL-like molecules, then it cannot propose them when coupled with an optimizer."
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "48d335fbeb75",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "993cd0646c35",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "Feasible."
+                      },
+                      {
+                        "_key": "e88418b8818f",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " Every route the model emits has to use robust reactions and building blocks that are purchasable, with estimable costs."
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "ab80ab4c9314",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "78a90ee0eee8",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "Optimizable."
+                      },
+                      {
+                        "_key": "e0d6083ddad2",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " Designs come from optimizing in a latent space, so the planner has to expose one. We use "
+                      },
+                      {
+                        "_key": "0b4d7d4b38b3",
+                        "_type": "span",
+                        "marks": [
+                          "0036667c7fa4"
+                        ],
+                        "text": "COATI"
+                      },
+                      {
+                        "_key": "d9ce25cb4e3b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " to encode a molecule to a latent and decode to a route that yields the molecule."
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [
+                      {
+                        "_key": "0036667c7fa4",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "2c1383547a9e",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "f030beccb0a0",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "COATI is Terray's multimodal foundation model for small molecules, which produces joint embeddings of strings, molecular graphs, and point clouds. See "
+                              },
+                              {
+                                "_key": "f66223596bdb",
+                                "_type": "span",
+                                "marks": [
+                                  "752b6b6ed1a8"
+                                ],
+                                "text": "Introducing EMMI: Where Experimentation Meets Machine Intelligence"
+                              },
+                              {
+                                "_key": "2bd3e99ab55e",
+                                "_type": "span",
+                                "marks": [],
+                                "text": " and our "
+                              },
+                              {
+                                "_key": "b7929f08cf74",
+                                "_type": "span",
+                                "marks": [
+                                  "4142339d26f0"
+                                ],
+                                "text": "JCIM paper"
+                              },
+                              {
+                                "_key": "865c997b2d42",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "."
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "752b6b6ed1a8",
+                                "_type": "externalLink",
+                                "href": "/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence"
+                              },
+                              {
+                                "_key": "4142339d26f0",
+                                "_type": "externalLink",
+                                "href": "https://pubs.acs.org/doi/10.1021/acs.jcim.3c01753"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "860cc102f0ec",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "e34e7207c794",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "This is challenging because, unlike commonly-used databases of small molecules that are used to pre-train small molecule foundation models, there is little public data that covers full multi-step routes annotated end-to-end."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "2a72ecbfd782",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "08e4b3fbabe4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Recent methods get around this by pre-training on routes generated from synthetic data engines. These routes are obtained by sampling from mutually compatible reaction templates and building-block catalogs. The resulting (product molecule, route) tuples serve as pre-training "
+                      },
+                      {
+                        "_key": "57713121b351",
+                        "_type": "span",
+                        "marks": [
+                          "08bdd3c932b2"
+                        ],
+                        "text": "data"
+                      },
+                      {
+                        "_key": "ceca1c31387e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ". This recipe relies on reaction templates as an inductive bias for feasibility and realism."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "08bdd3c932b2",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "8e07760a731d",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "0f6b67b72916",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Some recent examples include "
+                              },
+                              {
+                                "_key": "d67ee1359ea3",
+                                "_type": "span",
+                                "marks": [
+                                  "613777924f78"
+                                ],
+                                "text": "ReaSyn"
+                              },
+                              {
+                                "_key": "f40657d4959e",
+                                "_type": "span",
+                                "marks": [],
+                                "text": ", "
+                              },
+                              {
+                                "_key": "276c353c5d91",
+                                "_type": "span",
+                                "marks": [
+                                  "f490def87c36"
+                                ],
+                                "text": "PrexSyn"
+                              },
+                              {
+                                "_key": "4b49d144c7a4",
+                                "_type": "span",
+                                "marks": [],
+                                "text": ", and "
+                              },
+                              {
+                                "_key": "e1063928deb5",
+                                "_type": "span",
+                                "marks": [
+                                  "294fc84ba8b2"
+                                ],
+                                "text": "Synformer"
+                              },
+                              {
+                                "_key": "e615d853d6c2",
+                                "_type": "span",
+                                "marks": [],
+                                "text": ". Each is powered by a data engine that uses reaction templates combined with a building-block catalog. ReaSyn inherits the data engine from "
+                              },
+                              {
+                                "_key": "6ff8610381bd",
+                                "_type": "span",
+                                "marks": [
+                                  "0821eaaf4f95"
+                                ],
+                                "text": "ChemProjector"
+                              },
+                              {
+                                "_key": "9ea5a81b080d",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "."
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "613777924f78",
+                                "_type": "externalLink",
+                                "href": "https://arxiv.org/abs/2509.16084"
+                              },
+                              {
+                                "_key": "f490def87c36",
+                                "_type": "externalLink",
+                                "href": "https://arxiv.org/abs/2512.00384"
+                              },
+                              {
+                                "_key": "294fc84ba8b2",
+                                "_type": "externalLink",
+                                "href": "https://arxiv.org/abs/2410.03494"
+                              },
+                              {
+                                "_key": "0821eaaf4f95",
+                                "_type": "externalLink",
+                                "href": "https://github.com/luost26/ChemProjector"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "3e21f600063d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "51744a885992",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraSynth also leverages this recipe but significantly advances along the two axes that matter for practical use in small-molecule drug discovery workflows: spanning all relevant chemistry needed to make small-molecule drugs, and preserving the realism of sampled routes."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "5b22b980a669",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "ea65bbafa011",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Developing TerraSynth"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "06692c368688",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "e3504699e797",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraSynth is a 2B-parameter autoregressive decoder over route tokens that leverages molecular representations from COATI. A target molecule can be encoded via COATI, TerraSynth then emits a sequence of building-block and reaction tokens in post-fix "
+                      },
+                      {
+                        "_key": "5077ea129012",
+                        "_type": "span",
+                        "marks": [
+                          "5f1ffd489e57"
+                        ],
+                        "text": "notation"
+                      },
+                      {
+                        "_key": "290c9e1c003b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ". A key effort was to scale and curate the reaction templates supported to 260 of the most reliable chemical transformations in modern synthesis."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "5f1ffd489e57",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "4f358d6884ed",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "ad83ac130960",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Representing routes as a post-fix token sequence was introduced for synthesis planning by "
+                              },
+                              {
+                                "_key": "fb9f8addacf5",
+                                "_type": "span",
+                                "marks": [
+                                  "9db2f3c1f871"
+                                ],
+                                "text": "ChemProjector (Luo et al., 2024)"
+                              },
+                              {
+                                "_key": "92c1a8448bd7",
+                                "_type": "span",
+                                "marks": [],
+                                "text": ", where each reaction token consumes the preceding building-block/intermediate tokens on the stack."
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "9db2f3c1f871",
+                                "_type": "externalLink",
+                                "href": "https://arxiv.org/abs/2406.04628"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "080e23b8f05b",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "fc7aba2f71a5",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We pre-train on ~30B high-quality route tokens sampled from our data engine, where each route has a depth of up to 6 reactions. We then perform reinforcement learning (RL) against an interpretable reward function that penalizes inconsistencies which violate common synthetic chemistry rules."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "bbdf02f3a1ad",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7aaf91a15e31",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The result is a planner that is fast to inference (>0.05 sec/mol) while emitting routes that are deemed likely to succeed by expert medicinal chemists."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "75414e8081ff",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "2096e0a6b2fe",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Assessing Chemical Space Coverage"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "865e2a713b9e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "5da68c700e9e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The first "
+                      },
+                      {
+                        "_key": "a7ebeed2aeb6",
+                        "_type": "span",
+                        "marks": [
+                          "991a6b1b83dd"
+                        ],
+                        "text": "criterion"
+                      },
+                      {
+                        "_key": "cc7cac8fb7ce",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " for any practical synthesis planner is expressiveness, which we measure by reconstruction. Can the planner emit a route whose product matches any drug-like molecule that we would like to evaluate?"
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "991a6b1b83dd",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "6d84553c1cde",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "cf013e63d346",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "We say that a molecule is reconstructed or \"solved\" if the planner proposes a sequence of chemically plausible transformations to reach the target. The second criterion is whether the route is realistic enough, and passes checks like selectivity that make it feasible to execute in practice. In the "
+                              },
+                              {
+                                "_key": "52e9ecf5d15b",
+                                "_type": "span",
+                                "marks": [
+                                  "e456b295c25e"
+                                ],
+                                "text": "Syntax of Matter"
+                              },
+                              {
+                                "_key": "dc2224450354",
+                                "_type": "span",
+                                "marks": [],
+                                "text": ", the first and second criteria are referred to as Solv-1 and Solv-2."
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "e456b295c25e",
+                                "_type": "externalLink",
+                                "href": "https://ischemist.com/syntax-of-matter/validity"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "63266ca6eb0d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "444a1b048f28",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "By benchmarking reconstruction on common virtual catalogs like WuXi GalaXi and Enamine REAL, we can ensure that when paired with an optimizer, TerraSynth rarely precludes desirable molecules from being reached."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "b2b1595650ce",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "bb425a769aa3",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Speed matters as much as reconstruction here. Recent works like PrexSyn ("
+                      },
+                      {
+                        "_key": "9c6879cc8773",
+                        "_type": "span",
+                        "marks": [
+                          "858dd4a90475"
+                        ],
+                        "text": "Luo & Coley, 2025"
+                      },
+                      {
+                        "_key": "ccb50548d21f",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ") have made progress along this axis. TerraSynth sits in the same speed regime while reconstructing significantly more relevant chemical matter to span a wider chemical space."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "858dd4a90475",
+                        "_type": "externalLink",
+                        "href": "https://arxiv.org/abs/2512.00384"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "7038b1c325ce",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "832ed00c17fe",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We evaluate synthesis planners on random subsets of virtual catalogs and chemical repositories, as well as Terray's own internal program leads. Enamine REAL molecules use a limited set of reactions and building blocks, so are easily reconstructed by most baselines. On collections with more complex molecules, like ChEMBL or Wuxi GalaXi, TerraSynth achieves almost double the reconstruction rate of the next best baseline."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "b9b2c87487df",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "297e3f2a01fa",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Notably, TerraSynth is able to expend additional compute at test-time by re-sampling routes or searching over a conditional latent to improve reconstruction."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "59c68027e1e0",
+                    "_type": "htmlBlock",
+                    "caption": "Table 1. Reconstruction rate (%) on N=1,000 subsets of each dataset (with 95% bootstrapped CIs) for TerraSynth and three established baselines, where a target counts as reconstructed if any sampled route's product matches the target by exact canonical SMILES. TerraSynth outperforms all baselines across the four considered datasets. Baselines run on author-recommended configs: PrexSyn samples 256 routes per target; SynLlama uses greedy sampling; ReaSyn uses BU+TD+EB with num_cycles=12. We show three scaling regimes for TerraSynth where speed can be traded for performance. (1) greedy M=1 sampling, (2) M=256 routes per target, (3) test-time search (TTS) over latent. We use M=256 as the standard variant for TerraSynth applications. The smaller grey value beneath each reconstruction rate is the inference wall-time (s/mol), reported on a single H100.",
+                    "html": "<table class=\"bench-table\">\n  <caption style=\"font-weight:bold;\">Reconstruction Benchmark</caption>\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Dataset</th>\n      <th rowspan=\"2\">PrexSyn</th>\n      <th rowspan=\"2\">SynLlama</th>\n      <th rowspan=\"2\">ReaSyn</th>\n      <th colspan=\"3\" class=\"ts-group\">TerraSynth</th>\n    </tr>\n    <tr>\n      <th class=\"ts-col\">M=256</th>\n      <th class=\"ts-col-fast\">Greedy</th>\n      <th class=\"ts-col\">TTS</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td>ChEMBL</td><td>24.0<span class=\"ci\">\u00b12.7</span><span class=\"wt\">0.43 s/mol</span></td><td>13.6<span class=\"ci\">\u00b12.1</span><span class=\"wt\">29 s/mol</span></td><td>32.1<span class=\"ci\">\u00b12.9</span><span class=\"wt\">413 s/mol</span></td><td class=\"ts-col\">53.8<span class=\"ci\">\u00b13.1</span><span class=\"wt\">0.41 s/mol</span></td><td class=\"ts-col-fast\">39.8<span class=\"ci\">\u00b12.9</span><span class=\"wt\">0.05 s/mol</span></td><td class=\"ts-col best\">57.5<span class=\"ci\">\u00b13.1</span><span class=\"wt\">7.4 s/mol</span></td></tr>\n    <tr><td>Enamine REAL</td><td>88.6<span class=\"ci\">\u00b12.0</span><span class=\"wt\">0.30 s/mol</span></td><td>27.1<span class=\"ci\">\u00b12.7</span><span class=\"wt\">37 s/mol</span></td><td>95.2<span class=\"ci\">\u00b11.4</span><span class=\"wt\">46 s/mol</span></td><td class=\"ts-col best\">99.0<span class=\"ci\">\u00b10.6</span><span class=\"wt\">0.38 s/mol</span></td><td class=\"ts-col-fast\">83.0<span class=\"ci\">\u00b12.4</span><span class=\"wt\">0.06 s/mol</span></td><td class=\"ts-col\">98.3<span class=\"ci\">\u00b10.8</span><span class=\"wt\">5.9 s/mol</span></td></tr>\n    <tr><td>Terray Program Leads</td><td>43.7<span class=\"ci\">\u00b13.0</span><span class=\"wt\">0.40 s/mol</span></td><td>19.9<span class=\"ci\">\u00b12.5</span><span class=\"wt\">26 s/mol</span></td><td>43.2<span class=\"ci\">\u00b13.1</span><span class=\"wt\">416 s/mol</span></td><td class=\"ts-col\">85.8<span class=\"ci\">\u00b12.2</span><span class=\"wt\">0.42 s/mol</span></td><td class=\"ts-col-fast\">71.5<span class=\"ci\">\u00b12.8</span><span class=\"wt\">0.06 s/mol</span></td><td class=\"ts-col best\">86.9<span class=\"ci\">\u00b12.1</span><span class=\"wt\">7.0 s/mol</span></td></tr>\n    <tr><td>WuXi GalaXi</td><td>41.6<span class=\"ci\">\u00b13.0</span><span class=\"wt\">0.41 s/mol</span></td><td>27.7<span class=\"ci\">\u00b12.8</span><span class=\"wt\">34 s/mol</span></td><td>55.1<span class=\"ci\">\u00b13.0</span><span class=\"wt\">277 s/mol</span></td><td class=\"ts-col best\">96.5<span class=\"ci\">\u00b11.2</span><span class=\"wt\">0.48 s/mol</span></td><td class=\"ts-col-fast\">79.3<span class=\"ci\">\u00b12.5</span><span class=\"wt\">0.07 s/mol</span></td><td class=\"ts-col\">96.0<span class=\"ci\">\u00b11.3</span><span class=\"wt\">7.6 s/mol</span></td></tr>\n  </tbody>\n</table>",
+                    "label": "Reconstruction Benchmark Table"
+                  },
+                  {
+                    "_key": "50d06a0e4e82",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "960a3d10e898",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Balancing Potency and Synthesizability"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "8e4d029ad800",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "d78de8ca643a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "A natural concern with synthesis-constrained optimization is that there is a strong trade-off between potency and synthesizability. In simulation, we find that TerraSynth is able to retrieve potent molecules that are also easy to synthesize."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c0bb6c658244",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "f3d1ea425493",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "To check this, we ran a simple experiment to verify that TerraSynth could reach potent chemical matter compared to an unconstrained baseline. We used "
+                      },
+                      {
+                        "_key": "7e55c36bd1e7",
+                        "_type": "span",
+                        "marks": [
+                          "3cfe6f359b6b"
+                        ],
+                        "text": "TerraBind"
+                      },
+                      {
+                        "_key": "6b172d7b9efe",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ", our universal potency model, to predict pIC50. We then used a genetic algorithm (GA) over COATI latents as the optimizer, where the objective was to maximize predicted pIC50. We then ablated the decoder used in this design loop, using either COATI (unconstrained by synthesis) or TerraSynth."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "3cfe6f359b6b",
+                        "_type": "externalLink",
+                        "href": "/news-and-research/introducing-emmi-predict-terrabind"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "868ac84935df",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "ef051bd4d671",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "As an independent proxy for synthesizability, we used the retrosynthesis engine "
+                      },
+                      {
+                        "_key": "8bc8e938f4ff",
+                        "_type": "span",
+                        "marks": [
+                          "94654155ffd9"
+                        ],
+                        "text": "AiZynthFinder (AZF)"
+                      },
+                      {
+                        "_key": "80fbff5259ca",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " to infer the route length of generated designs. To be comparable, we also provided AZF with the same TerraSynth building-block stock. Since AZF-predicted routes are independent of TerraSynth routes, AZF route lengths served as an unbiased proxy for synthetic difficulty."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "94654155ffd9",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "94a67ed04ff0",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "1deb2ae6087f",
+                                "_type": "span",
+                                "marks": [
+                                  "7ed4242fc515"
+                                ],
+                                "text": "AiZynthFinder"
+                              },
+                              {
+                                "_key": "9d8564c69840",
+                                "_type": "span",
+                                "marks": [],
+                                "text": " is an open-source retrosynthesis engine that performs MCTS over backward reaction templates; mean CPU time is ~30 sec/mol. Unlike TerraSynth, it cannot be used to generate new designs.\u00a0"
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "7ed4242fc515",
+                                "_type": "externalLink",
+                                "href": "https://github.com/MolecularAI/aizynthfinder"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "cd76dcee2ac9",
+                    "_type": "figure",
+                    "alt": "Figure 3. TerraBind predicted pIC50 of designs against a kinase target.",
+                    "asset": {
+                      "_ref": "image-c03c7a024e0bab5190ce28d6b6f29c89c2c0f3cb-785x410-svg",
+                      "_type": "reference"
+                    },
+                    "caption": "Figure 3. TerraBind predicted pIC50 of designs against a kinase target (BTK: UniProt Q06187) versus AZF route length. TerraSynth is able to retrieve potent molecules that are also easy to synthesize. Designs are obtained by genetic algorithm over COATI latent. TerraSynth decodes molecules with routes. Unconstrained baseline uses COATI to decode molecules and does not produce routes. Solid line traces the step-wise Pareto front (max pIC50 achievable in \u2264 k AZF reactions). AZF-unsolved designs are in the rightmost bin. 62% of molecules from the unconstrained baseline are unsolved, versus 38% from TerraSynth.",
+                    "useLightbox": false
+                  },
+                  {
+                    "_key": "7ec8296c2e1f",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7079e028b46c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraSynth proposes more potent molecules that take fewer reactions to make (median 2 vs. 4), and the majority of them are also AZF-solvable. Most molecules produced by the unconstrained baseline, however, are not AZF-"
+                      },
+                      {
+                        "_key": "61a8a9f41720",
+                        "_type": "span",
+                        "marks": [
+                          "af92c392fb28"
+                        ],
+                        "text": "solved"
+                      },
+                      {
+                        "_key": "da66f4d209e8",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "af92c392fb28",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "3e23bf9451c3",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "f567a60cb696",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Here \"solved\" refers to the "
+                              },
+                              {
+                                "_key": "3d3c1d31759c",
+                                "_type": "span",
+                                "marks": [
+                                  "3cf368bf58a4"
+                                ],
+                                "text": "Solv-1"
+                              },
+                              {
+                                "_key": "1253d64339dd",
+                                "_type": "span",
+                                "marks": [],
+                                "text": " metric for retrosynthesis engines: if the backward search from the target molecule terminates at only purchasable building-blocks in the stock set.\u00a0"
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "3cf368bf58a4",
+                                "_type": "externalLink",
+                                "href": "https://ischemist.com/syntax-of-matter/validity"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "f715ea51a8cc",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a3faedc7613e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "As seen in this setup, using TerraSynth in a loop to constrain designs to synthesizable chemistry does not hinder our ability to reach potent compounds."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c9913276039e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "1674778dc052",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Accelerating DMTA Cycles"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "6732c58199f8",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "6e4b5b3ce4c4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The ultimate test of a synthesis planner is whether it actually shortens the \"Make\" step in practice. For this prospective assessment, we looked at 17 internal projects requiring custom synthesis at Terray."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "6628c55192b5",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "0fa69fb3b074",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Eight of these projects contained compounds generated via an unconstrained decoder that does not jointly plan a synthetic route (before TerraSynth was developed). Five of these projects contained compounds proposed by our initial rollout of TerraSynth, and four of these projects contained compounds proposed by an optimized TerraSynth workflow that incorporates our latest learnings."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "279ca90689ff",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "663855498f51",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Compared to the unconstrained projects, using TerraSynth yielded a meaningful shift in cumulative synthesis rate. Time to reach 50% completion is halved from 8 weeks to 4 weeks."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "32383de64c14",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "df500bb7478b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Notably, the 2-week synthesis rate jumps from 13% to 33% (roughly 2.5\u00d7), and by 16 weeks the gap widens to 66% vs 90%. This represents a nearly +24% lift on complex compounds that would otherwise stall on a missing intermediate or a low-yielding step. In aggregate, this is months recovered per design cycle."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c57d44e86607",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "b7b7a1ab823c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "With the optimized TerraSynth workflow, the set of molecules proposed are optimized to share building-blocks in order to reduce their complexity and share intermediates. In addition, out of 22 initial designs per project, 15 are selected by a chemist based on synthetic difficulty as the final set."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "5d0e74010c85",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "704b22d7d2b4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "These projects yielded a 90% synthesis rate within 4 weeks, which is 4x faster compared to the initial TerraSynth workflow."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "9fa1a6d890a9",
+                    "_type": "figure",
+                    "alt": "Figure 4. Internal projects requiring singleton synthesis. ",
+                    "asset": {
+                      "_ref": "image-08494e3542793bcf4839536114161e4df52f10b0-720x432-svg",
+                      "_type": "reference"
+                    },
+                    "caption": "Figure 4. Cumulative synthesis rate by week from synthesis start, pooled across projects, for internal projects requiring singleton synthesis. Designs proposed by TerraSynth were synthesized up to 2-4x faster relative to unconstrained counterparts. Unconstrained: 8 projects, N=112 compounds. TerraSynth: 5 projects, N=72 compounds. TerraSynth + Selection: 4 projects, N=60 compounds. Bands are 95% Wilson binomial CIs. TerraSynth projects are assigned by date cutoff. Projects have overlapping target classes across cutoff, and comparable molecular weight + complexity.",
+                    "useLightbox": false
+                  },
+                  {
+                    "_key": "fddeadb8c91d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "34a0bf9ad164",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The Data Engine Advantage"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "07f22e4ac398",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "49a2ffd0985f",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "During pre-training, the design of a route sampler strongly shapes the prior chemical space the model is able to recapitulate. Compared to other works, the TerraSynth data engine samples molecules that are closer to drug-like chemistry."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "ac8999f37c25",
+                    "_type": "figure",
+                    "alt": "Figure 5. UMAP of COATI embeddings.",
+                    "asset": {
+                      "_ref": "image-14adfb5126e117543ae8bb798974f089642567e0-900x461-svg",
+                      "_type": "reference"
+                    },
+                    "caption": "Figure 5. UMAP of COATI embeddings, with per-sampler density overlaid on samples from reference catalogs. TerraSynth's data engine has good mutual support and concentrates on the reference catalog distribution tightly. ReaSyn's data engine inherits from ChemProjector.",
+                    "useLightbox": false
+                  },
+                  {
+                    "_key": "d7ea9b25ac60",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "fd8444d4cd78",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We can examine where the TerraSynth data engine's products actually land by embedding them with COATI, projecting to 2D with UMAP, and overlaying their density against a reference that consists of ChEMBL, Enamine REAL, and WuXi GalaXi molecules. Here, linear routes are sampled with a max-depth of 6 reactions (convergent routes may have more)."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "08bacbb60c8b",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "d6ea1490f1d2",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "As shown above, TerraSynth's sampled molecules are closer in distribution to the reference, covering similar modes."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "b2c49e6cd8f6",
+                    "_type": "htmlBlock",
+                    "caption": "Table 2. MMD (top, unbiased, RBF \u03c3 from median heuristic) and FID (below) of each data engine's COATI embeddings against the reference; lower is better, best per row in bold. MMD computed on 5k samples from each generator vs 5k from each reference; FID computed on 50k generated vs 10k reference.",
+                    "html": "<table class=\"bench-table\">\n  <thead>\n    <tr>\n      <th>Reference</th>\n      <th>PrexSyn</th>\n      <th>ReaSyn / ChemProjector</th>\n      <th class=\"ts-col\">TerraSynth</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr><td>ChEMBL</td><td>0.028<span class=\"wt\">FID 10.5</span></td><td>0.050<span class=\"wt\">FID 15.5</span></td><td class=\"ts-col best\">0.023<span class=\"wt\">FID 9.5</span></td></tr>\n    <tr><td>Enamine REAL</td><td class=\"best\">0.067<span class=\"wt\">FID 23.8</span></td><td>0.095<span class=\"wt\">FID 29.6</span></td><td class=\"ts-col\">0.071<span class=\"wt\">FID 24.3</span></td></tr>\n    <tr><td>WuXi GalaXi</td><td>0.058<span class=\"wt\">FID 22.0</span></td><td>0.071<span class=\"wt\">FID 24.1</span></td><td class=\"ts-col best\">0.051<span class=\"wt\">FID 19.3</span></td></tr>\n  </tbody>\n</table>",
+                    "label": "MMD table"
+                  },
+                  {
+                    "_key": "3708428ac4eb",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "23402268c90e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The same gap shows up on standard physicochemical descriptors. Samples from TerraSynth's data engine have marginals that track ChEMBL and land in drug-like chemical space."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "38ddc137613a",
+                    "_type": "figure",
+                    "alt": "Figure 6. Physchem descriptor marginals.",
+                    "asset": {
+                      "_ref": "image-021348d94a877f1a65819c581e74e6f3ae616b52-778x518-svg",
+                      "_type": "reference"
+                    },
+                    "caption": "Figure 6. Physchem descriptor marginals of 10K randomly sampled ChEMBL molecules against 50K sampled molecules from the data engines of TerraSynth, PrexSyn, and ReaSyn. Distributions that overlap with ChEMBL are desirable, as it is representative of drug-like molecules.",
+                    "useLightbox": false
+                  },
+                  {
+                    "_key": "4f26fe8458c0",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "48b38b1da9d4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Reasoning for Synthetic Route Realism"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "684f2ca1ad9a",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "c7a409b74d13",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "While exact reconstruction rate is a useful metric for assessing breadth of chemical space coverage, it does not evaluate the realism of routes sampled by synthesis planners, which is an equally important direction of development. One can take many routes to reach the same target molecule, many of which would not be feasible. "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "72d2e36ab79d",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "417e02ddeabc",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Analogous to LLM-RL for mathematical reasoning, we want to ensure that routes are consistent under the logic of synthetic chemistry. This is the next frontier for synthesis planning in the "
+                      },
+                      {
+                        "_key": "e806a25d9ff9",
+                        "_type": "span",
+                        "marks": [
+                          "a254f9a5592c"
+                        ],
+                        "text": "\"Era of Validity\""
+                      },
+                      {
+                        "_key": "32dbcf0e6c32",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "a254f9a5592c",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "7971f2cb1052",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "b2ff6c56f3b6",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "Beyond brute-forcing one of many degenerate routes to a molecule, in the Era of Validity we want to ensure that those routes are chemically correct and can be executed in practice. In this work we reach Solv-2C and Solv-2R level of the hierarchy. See "
+                              },
+                              {
+                                "_key": "d82a4e2a52fa",
+                                "_type": "span",
+                                "marks": [
+                                  "06b144c8858a"
+                                ],
+                                "text": "ischemist.com/syntax-of-matter/validity"
+                              },
+                              {
+                                "_key": "20c0e4b0c9c5",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "."
+                              }
+                            ],
+                            "markDefs": [
+                              {
+                                "_key": "06b144c8858a",
+                                "_type": "externalLink",
+                                "href": "https://ischemist.com/syntax-of-matter/validity"
+                              }
+                            ],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "bb75f98550e3",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "17db0780cf7f",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "To address this, we perform RL on a reward function that penalizes some of the most common issues observed in inferred routes. These failures are coarsely categorized here either as route economy, chemoselectivity, or site-selectivity."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "029598f52459",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "8695312d9259",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We also leverage the test-time gains shown previously and use a \"lightly off-policy\" setup where the behavior policy performs test-time search (TTS) to sample high quality routes that reconstruct the target. We then use "
+                      },
+                      {
+                        "_key": "da9a93e82bff",
+                        "_type": "span",
+                        "marks": [
+                          "bf44e4b354ee"
+                        ],
+                        "text": "masked importance sampling"
+                      },
+                      {
+                        "_key": "bd24d81dd8d6",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " (seq-MIS) to discard trajectories whose likelihood ratios indicate excessive off-policy mismatch. This lets us absorb the quality gains from search while keeping updates close enough to the learner\u2019s distribution to remain stable."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "bf44e4b354ee",
+                        "_type": "externalLink",
+                        "href": "https://arxiv.org/abs/2512.23075"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "ccb2950a7bf6",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "ea7375c7ff90",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "On a random N=1,000 subset of Enamine REAL, the post-training stage reduces mean occurrence across all failure categories."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c8d19b5693cf",
+                    "_type": "htmlBlock",
+                    "caption": "Figure 7. Mean per-route occurrences of each failure category on a random N=1,000 subset of Enamine REAL; lower is better. Post-training shortens route lengths and reduces redundant intermediate construction (route economy). Selectivity errors which depend on more subtle context like protecting-group state shrink more modestly.",
+                    "html": "<div class=\"rubric-chart\">\n  <div class=\"rubric-row\">\n    <div class=\"rubric-label\">Route economy</div>\n    <div class=\"rubric-bars\">\n      <div class=\"rubric-bar base\" style=\"--w:95.3%;\"><span class=\"rubric-val\">0.50</span></div>\n      <div class=\"rubric-bar rl\" style=\"--w:27.2%;\"><span class=\"rubric-val\">0.14</span></div>\n    </div>\n  </div>\n  <div class=\"rubric-row\">\n    <div class=\"rubric-label\">Chemoselectivity</div>\n    <div class=\"rubric-bars\">\n      <div class=\"rubric-bar base\" style=\"--w:76.1%;\"><span class=\"rubric-val\">0.40</span></div>\n      <div class=\"rubric-bar rl\" style=\"--w:56.5%;\"><span class=\"rubric-val\">0.30</span></div>\n    </div>\n  </div>\n  <div class=\"rubric-row\">\n    <div class=\"rubric-label\">Site-selectivity</div>\n    <div class=\"rubric-bars\">\n      <div class=\"rubric-bar base\" style=\"--w:82.0%;\"><span class=\"rubric-val\">0.43</span></div>\n      <div class=\"rubric-bar rl\" style=\"--w:52.9%;\"><span class=\"rubric-val\">0.28</span></div>\n    </div>\n  </div>\n  <div class=\"rubric-legend\">\n    <span class=\"rubric-swatch base\"></span>Base model\n    <span class=\"rubric-swatch rl\"></span>After post-training\n  </div>\n</div>",
+                    "label": "Rubric Chart"
+                  },
+                  {
+                    "_key": "448e3eab8d29",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a27a3d5393ea",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The two routes below illustrate an instance of a site-selectivity failure that we address via this post-training stage. The pre-trained model (top) samples a route with an amidation step that has a site-selectivity issue. The presence of two acids on one of the reactants would produce multiple products, requiring a separation step. After post-training (bottom), the model chooses a parsimonious route that avoids producing a reactant with multiple degenerate functional groups."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "19e5c16e3ca0",
+                    "_type": "cytoscapeGraph",
+                    "caption": "Sampled route from base model",
+                    "dataFile": {
+                      "_type": "file",
+                      "asset": {
+                        "_ref": "file-168dbd952a9ca396454cab3e2a25e814f6c090a5-json",
+                        "_type": "reference"
+                      }
+                    },
+                    "label": "Sampled route from base model"
+                  },
+                  {
+                    "_key": "fb84be714498",
+                    "_type": "cytoscapeGraph",
+                    "caption": "After post-training",
+                    "dataFile": {
+                      "_type": "file",
+                      "asset": {
+                        "_ref": "file-45898756e30719768073fab2888366b8a9d71a32-json",
+                        "_type": "reference"
+                      }
+                    },
+                    "label": "After post-training"
+                  },
+                  {
+                    "_key": "7a569278de08",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "05360ebf8249",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Future Directions"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "8931ab26f01e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "e3b532fb2e92",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraSynth was built to close the loop between molecular design and synthesis. It delivers a step change in synthetic planning performance by balancing two critical capabilities: being expressive enough to span all relevant chemical space, and sampling realistic routes that adhere to the logic of synthetic chemistry."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "d689a1b060f6",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "2d9246f09914",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "On the ChEMBL dataset, its reconstruction rate is 67% higher relative to the rate of the next best synthesis planner, at roughly 1/1000th of the cost. This efficiency allows it to be used inside the inner-loop of an optimizer, ensuring synthetic feasibility of every AI-generated compound. On real drug discovery projects at Terray, designs proposed this way were synthesized up to 2-4x faster relative to unconstrained counterparts."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "a071990d080e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "54fb2c212c34",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We are actively pursuing several exciting directions to fully unlock the "
+                      },
+                      {
+                        "_key": "c8cf242646c4",
+                        "_type": "span",
+                        "marks": [
+                          "832ed14af374"
+                        ],
+                        "text": "Solv-3"
+                      },
+                      {
+                        "_key": "01b69e0d2094",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " capability of TerraSynth, as well as post-train the model for specific design tasks. In the meantime, we plan to release a forthcoming technical report."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "832ed14af374",
+                        "_type": "footnote",
+                        "content": [
+                          {
+                            "_key": "b09b3db2461c",
+                            "_type": "block",
+                            "children": [
+                              {
+                                "_key": "a19eeb25604a",
+                                "_type": "span",
+                                "marks": [],
+                                "text": "The route is experimentally viable: using practical conditions, acceptable per-step yields, workable purification methods."
+                              }
+                            ],
+                            "markDefs": [],
+                            "style": "normal"
+                          }
+                        ]
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "62e5472a4801",
+                    "_type": "divider",
+                    "visible": true
+                  },
+                  {
+                    "_key": "692e1af5bc70",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "63381a5a76c7",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "How to cite this"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "5ba0f8b3c720",
+                    "_type": "codeBlock",
+                    "code": "@misc{terraytx2026terrasynth,\n  title        = {TerraSynth: Closing the Loop from Design to Synthesis},\n  author       = {Miles Wang-Henderson, Zack Strater},\n  year         = {2026},\n  month        = {May},\n  howpublished = {\\url{https://www.terraytx.ai/news-and-research/terrasynth}},\n}",
+                    "label": "Citation"
+                  },
+                  {
+                    "_key": "450b6e928bb7",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "2e0bfb055d3b",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "Thank you to Anton Morgunov for insightful discussion on Syntax of Matter and feedback on evaluating forward synthesis planners. Thank you to Shitong Luo for insightful discussion on synthesis planners and development of PrexSyn. Thank you to Ryan Pederson for help with experiments using TerraBind. Thank you to Yoshito Takahashi for reviewing TerraSynth designs and providing feedback."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ],
+                "cta": {
+                  "_type": "link",
+                  "type": "internal"
+                },
+                "date": "2026-06-11T00:58:06.411Z",
+                "displayTitle": "TerraSynth: Accelerating the Synthesis of AI-designed Small Molecules",
+                "heroCaption": "Small-molecule drug discovery is bottlenecked by how fast chemists can actually make virtually designed molecules. TerraSynth is a generative synthesis planner that proposes new molecules together with a recipe for making them, so designs don't get stuck waiting on synthesis. Its reconstruction of drug-like molecules is 67% higher relative to the rate of the next best model, while being 1000x faster. This efficiency allows it to be used inside an optimizer, ensuring that AI-generated compounds are synthetically feasible. On real drug discovery projects at Terray, designs proposed this way were synthesized up to 2-4x faster relative to unconstrained counterparts, driving faster iteration cycles that speed up the progression of our internal and partnered programs.",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-034a6a7ec67bdd2adf9a1c120fb105b76383b57e-2273x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": "TerraSynth: Accelerating the Synthesis of AI-designed Small Molecules",
+                "meta": {
+                  "_type": "meta",
+                  "image": {
+                    "_type": "image",
+                    "asset": {
+                      "_ref": "image-034a6a7ec67bdd2adf9a1c120fb105b76383b57e-2273x1200-png",
+                      "_type": "reference"
+                    }
+                  },
+                  "noIndex": false
+                },
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terrasynth"
+                },
+                "sourceType": "internal",
+                "subtitle": "Accelerating the Synthesis of AI-designed Small Molecules",
+                "title": "TerraSynth",
+                "video": {
+                  "_type": "video",
+                  "controls": "minimal",
+                  "file": {
+                    "_type": "mux.video",
+                    "asset": {
+                      "_ref": "f8ec3d04-f773-4ffb-bb92-313b8bc5405a",
+                      "_type": "reference",
+                      "_weak": true
+                    }
+                  }
+                }
+              },
+              {
+                "_createdAt": "2026-05-04T16:11:35Z",
+                "_id": "4bab4719-c2a9-4295-bd09-651b72b1ca58",
+                "_rev": "106M7PSkwVu1w39RhloCcL",
+                "_system": {
+                  "base": {
+                    "id": "4bab4719-c2a9-4295-bd09-651b72b1ca58",
+                    "rev": "106M7PSkwVu1w39RhliEEd"
+                  }
+                },
+                "_type": "post",
+                "_updatedAt": "2026-06-05T03:05:18Z",
+                "authors": [
+                  {
+                    "_createdAt": "2023-09-13T15:05:34Z",
+                    "_id": "702164fc-6f80-6a74-cac0-5b1b5848c6bc",
+                    "_rev": "NUFXFu05SItJ3lclh3WyNE",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "department": {
+                      "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6E2M",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-1dbac249cb7eccd5c4a2fcf3972526ebc8a1b85b-1454x2182-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "Ryan Pederson Ph.D.",
+                    "title": "Engineer, ML"
+                  },
+                  {
+                    "_createdAt": "2024-08-29T11:39:44Z",
+                    "_id": "62b38bbf-9816-42f5-b4ca-8a8e68cd36c7",
+                    "_rev": "NUFXFu05SItJ3lclh3WyNE",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "departments": [
+                      {
+                        "_key": "c34449c60e86",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "hasBio": false,
+                    "name": "Matteo\u00a0Rossi M.S.",
+                    "title": "Senior Associate Engineer, ML"
+                  },
+                  {
+                    "_createdAt": "2023-09-13T15:05:34Z",
+                    "_id": "24782f10-3b2f-187f-b393-faf0667b9016",
+                    "_rev": "yXtPUwiZ1lHhdch3jiaQfB",
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "department": {
+                      "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6JQJ",
+                        "_ref": "9ac5fd6a-b136-4cc0-849d-6394fbcdc477",
+                        "_type": "reference"
+                      }
+                    ],
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-523a0765905b708622225477231ee93855daaaa3-1454x2182-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "John Parkhill, Ph.D.",
+                    "title": "Director"
+                  },
+                  {
+                    "_createdAt": "2023-09-13T15:05:34Z",
+                    "_id": "34b5fbfc-cc89-f1e6-ff17-ad46f6528cab",
+                    "_rev": "NUFXFu05SItJ3lclh3WyD0",
+                    "_system": {
+                      "base": {
+                        "id": "34b5fbfc-cc89-f1e6-ff17-ad46f6528cab",
+                        "rev": "W5ybicyWb8725ljBDuJxDP"
+                      }
+                    },
+                    "_type": "teamMember",
+                    "_updatedAt": "2026-05-18T15:42:56Z",
+                    "bio": [
+                      {
+                        "_key": "9fab37628068",
+                        "_type": "block",
+                        "children": [
+                          {
+                            "_key": "8b4da7691e1f0",
+                            "_type": "span",
+                            "marks": [],
+                            "text": "As Chief Technology Officer, Narbe oversees the extensive computational and AI platform that supports Terray\u2019s drug discovery and development pipeline. From processing data off of Terray's experimental platforms to developing predictive and generative AI models, his team has developed the AI infrastructure that complements and powers Terray's experimental wet lab process. He leads a diverse team of experts \u2013 from medicinal chemists turned computational scientists to data scientists, machine learning specialists, and quantum chemists."
+                          }
+                        ],
+                        "markDefs": [],
+                        "style": "normal"
+                      },
+                      {
+                        "_key": "ed2f9f733933",
+                        "_type": "block",
+                        "children": [
+                          {
+                            "_key": "0d4889a531cb0",
+                            "_type": "span",
+                            "marks": [],
+                            "text": ""
+                          }
+                        ],
+                        "markDefs": [],
+                        "style": "normal"
+                      },
+                      {
+                        "_key": "a63310e81345",
+                        "_type": "block",
+                        "children": [
+                          {
+                            "_key": "20473300a6230",
+                            "_type": "span",
+                            "marks": [],
+                            "text": "Prior to joining Terray in 2020, Narbe was a Senior Scientist at Amgen. In this role, he was responsible for supporting all aspects of computational small-molecule drug discovery, including the development of advanced quantum mechanics and machine learning methods, as well as cloud-based solutions to support high-throughput, data-driven workflows. While at Amgen, Narbe contributed to the development of an MTA-cooperative PRMT5 inhibitor (AMG 193), which is currently in clinical trials for patients with MTAP-deleted solid tumors. Narbe is also an author on a seminal work at the intersection of machine learning and quantum chemistry, with an approach to Density Functional Theory (called \u03c9B97M-V) that is currently in use by top AI companies. His publications have been cited over 13,000 times. He received his B.S. in Chemical Engineering from UC Berkeley, his Ph.D. in Quantum Chemistry from UC Berkeley, and was a postdoc in Chemical Physics at Caltech. Narbe lives with his family in Southern California."
+                          }
+                        ],
+                        "markDefs": [],
+                        "style": "normal"
+                      }
+                    ],
+                    "department": {
+                      "_ref": "687634a9-7247-45a6-96c1-c33270435275",
+                      "_type": "reference"
+                    },
+                    "departments": [
+                      {
+                        "_key": "J2jfPLDrd0Ij3I6B2X6FdY",
+                        "_ref": "687634a9-7247-45a6-96c1-c33270435275",
+                        "_type": "reference"
+                      }
+                    ],
+                    "hasBio": true,
+                    "image": {
+                      "_type": "image",
+                      "asset": {
+                        "_ref": "image-0a8df763bb793b7553f2c0bf0bfd98377134ee59-1581x2282-jpg",
+                        "_type": "reference"
+                      }
+                    },
+                    "name": "Narbe Mardirossian, Ph.D.",
+                    "slug": {
+                      "_type": "slug",
+                      "current": "team/narbe-mardirossian-phd"
+                    },
+                    "socialLinks": [
+                      {
+                        "_key": "5066e082c945",
+                        "_type": "iconLink",
+                        "icon": {
+                          "_type": "iconPicker",
+                          "name": "FaLinkedinIn",
+                          "provider": "fa"
+                        },
+                        "label": "LinkedIn",
+                        "url": "https://www.linkedin.com/in/narbe-mardirossian/"
+                      }
+                    ],
+                    "title": "Chief Technology Officer"
+                  }
+                ],
+                "category": {
+                  "_createdAt": "2026-05-04T16:12:25Z",
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "_rev": "toueVnIELFWdkvUdlV5kJm",
+                  "_system": {
+                    "base": {
+                      "id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                      "rev": "LO5yQENXHa0BYkxKShD6Qj"
+                    }
+                  },
+                  "_type": "postCategory",
+                  "_updatedAt": "2026-06-09T02:50:26Z",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "content": [
+                  {
+                    "_key": "79a608da1d21",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "31e56ff956bb",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "One of the holy grails of computational drug discovery has been the ability to accurately predict the binding affinity between a small molecule and a protein target. Rapid progress has been made in the post-AlphaFold era, with models that infer potency from generative all-atom structure models. Simpler models based on ligand-only representations and docking have been effectively rendered obsolete, and structural transformer-based approaches now compete with free-energy models at a tiny fraction of the cost."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "eb19d3a8aa89",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "0f95ec63c07a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "At Terray, we\u2019ve developed and integrated our own predictive models deeply into our internal and partnered programs and learned that the architecture used throughout the field is limiting for drug design. AlphaFold and its open-source co-folding frameworks (Boltz-1, NeuralPlexer, SeedFold, OpenFold) focus on the protein structure prediction problem. While this was the original grand challenge, the connection between structure prediction and actual potency isn't direct. Modern \u201cuniversal potency models\u201d represent the current frontier, utilizing all-atom diffusion to derive both pose and potency. However, while this paradigm yields high-fidelity, all-atom structures, the computational overhead of diffusion is substantial. This limited inference throughput constrains the searchable chemical space, diminishing the model\u2019s practical utility for prioritizing candidates during synthesis selection. Especially today, there is a growing need to evaluate thousands to millions of small molecules at all stages of the discovery process: hit identification, hit-to-lead, and even lead optimization."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "9b8ddb25b230",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "f238668938c6",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "This raises a critical question: "
+                      },
+                      {
+                        "_key": "f531957f40ce",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "Do we really need a human-interpretable, all-atom pose (e.g., via diffusion) to achieve accurate potency predictions?"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "9664a139f591",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "42e70e67df73",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Our hypothesis was \u201cno.\u201d Poses may help with ideation, but if the goal is to screen millions of compounds and rank them for potency, a visualization-quality pose for every single input molecule is unnecessary. You need speed, you need ranking accuracy, and you need error quantification \u2013 an often-overlooked but practical necessity for moving programs forward quickly and efficiently."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "4a94b847332e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a248e0f7ab1a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Today, we are introducing "
+                      },
+                      {
+                        "_key": "51cfce308da9",
+                        "_type": "span",
+                        "marks": [
+                          "strong"
+                        ],
+                        "text": "EMMI Predict: TerraBind"
+                      },
+                      {
+                        "_key": "e23ffca92c6c",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ", a new model that retains the rich structural information provided by protein-ligand interactions without the computational bottleneck of diffusion, and enables the uncertainty quantification necessary for driving decisions in practical drug discovery processes. To read a detailed account of the architecture and performance of TerraBind, see our "
+                      },
+                      {
+                        "_key": "4f5190e8673f",
+                        "_type": "span",
+                        "marks": [
+                          "435907a57bb8"
+                        ],
+                        "text": "arXiv paper"
+                      },
+                      {
+                        "_key": "3031c2c98f47",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ". "
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "435907a57bb8",
+                        "_type": "externalLink",
+                        "href": "https://arxiv.org/abs/2602.07735"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c2bf453884a8",
+                    "_type": "divider",
+                    "visible": true
+                  },
+                  {
+                    "_key": "b54f6744d296",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "d9f13e8d1818",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "The TerraBind Approach: Potency Over Pose"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "7fd0422fe558",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "dc603935a579",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "At Terray, we conceptualize potency prediction as fit-for-purpose tools. For large scale virtual screens, you have sequence-only models. Our in-house model is TerraBind-Seq, which combines protein representations from ESM-2 with molecular representations from COATI-3, our latest chemical foundation model, which has been pretrained on over one billion small molecules. These kinds of models are fast but lack explicit structural context. For ideation on a few high priority molecules, you have diffusion models (like Boltz-2), which are structurally rich and produce all-atom poses, but too slow for the typical large-scale chemical space evaluations that accompany small molecule design campaigns."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "27aeeb695961",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "b4d5d5ae73bf",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "For everything in between, TerraBind-Struct (TerraBind) hits the sweet spot. It learns rich structural representations at a coarse-grained level (protein C\u03b2 atoms and ligand heavy atoms only) within a "
+                      },
+                      {
+                        "_key": "13c1c6dc6c5e",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "Pairformer"
+                      },
+                      {
+                        "_key": "3ebc1402774e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " "
+                      },
+                      {
+                        "_key": "bab679c63241",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "Trunk"
+                      },
+                      {
+                        "_key": "a4454614f952",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ", then maps those representations directly to binding affinity. Because we bypass diffusion entirely \u2014 no iterative denoising, no all-atom coordinate generation \u2014 we unlock a 26x speedup without sacrificing the structural information that drives accurate potency prediction. The results are a massive leap forward in efficiency without sacrificing rigor. And, when combined with our TerraBind-Seq model (which is significantly faster than TerraBind-Struct), this funneled approach allows us to routinely and accurately evaluate chemical spaces that are in the billions of molecules."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "23191b5712cd",
+                    "_type": "divider",
+                    "visible": false
+                  },
+                  {
+                    "_key": "63e64674e31f",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "11e8376ce2b0",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Speed: Unlocking Million-Scale Screening"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h3"
+                  },
+                  {
+                    "_key": "c1dcfed2ccf7",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "928d4c5d9971",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "By eliminating the diffusion bottleneck, TerraBind-Struct achieves a dramatic reduction in inference time."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "76031c6873bd",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7dc75fe50540",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ""
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "eea6dd6fbf2c",
+                    "_type": "figure",
+                    "align": "right",
+                    "asset": {
+                      "_ref": "image-e4e093a059eac0523e2c5fcdeadc54b5acd1665e-742x595-png",
+                      "_type": "reference"
+                    },
+                    "maxWidth": 450,
+                    "useLightbox": true
+                  },
+                  {
+                    "_key": "a5071e7b7427",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7c02d618ce9d",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "We observe a 26x speedup compared to Boltz-2 (end-to-end inference time per complex on a single A6000 GPU using 196 tokens, 10 samples, and NVIDIA cuEquivariance kernels). This efficiency gain transforms the model\u2019s utility. "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "dfcfad40daab",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a2f97cbf2b59",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Instead of reserving high-accuracy structure-based scoring for a few thousand filtered hits, you can now screen chemical spaces 26 times larger using the same resources \u2013 or screen the same space at 96% lower compute cost."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "6a7152256170",
+                    "_type": "divider",
+                    "visible": false
+                  },
+                  {
+                    "_key": "69e94f1f09c8",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "95889d8de293",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Potency: Higher Accuracy for Ranking"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h3"
+                  },
+                  {
+                    "_key": "56e4329f4102",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "592f76354bf0",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Counterintuitively, bypassing the diffusion step doesn\u2019t hurt accuracy. By removing the diffusion head, we force the Pairformer to fully resolve structural features rather than "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "19fdfb386b8e",
+                    "_type": "figure",
+                    "align": "left",
+                    "asset": {
+                      "_ref": "image-162b32f4ea9c18c163b75a768c474c886714eb5e-656x580-png",
+                      "_type": "reference"
+                    },
+                    "maxWidth": 450,
+                    "useLightbox": true
+                  },
+                  {
+                    "_key": "77fe78f60330",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "0c4b77f7bc61",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "offloading refinement to a downstream generative step. Combined with a strong ligand encoder (COATI-3) and expanded synthetic protein-ligand structural training data, the resulting model outperformed the diffusion baseline."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "63f1b2a48d9b",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "4dc9abce87cb",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "On two independent held-out test sets, TerraBind demonstrated a 16\u201320% improvement in Pearson correlation relative to Boltz-2. These include the public CASP16 binding affinity challenge and a proprietary dataset of over 25,000 assay readouts spanning 18 distinct targets. In the latter, we found that TerraBind outperformed Boltz-2 in 15 out of the 18 targets."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "7befa382339e",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a8ff290b505a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Notably, a few days after our preprint appeared on arXiv, Isomorphic Labs announced their latest potency model, IsoDDE. On the same CASP16 benchmark where we surpass Boltz-2 accuracy by 16%, TerraBind matches the performance of IsoDDE. We cannot directly compare IsoDDE and TerraBind on speed/cost and affinity uncertainty quantification, as neither is described for IsoDDE, but we assume that IsoDDE retains the diffusion step that limits scaling due to speed/cost, and lacks uncertainty quantification for affinity."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "38f78b2d9d52",
+                    "_type": "divider",
+                    "visible": false
+                  },
+                  {
+                    "_key": "a506f80fb6b9",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "51ba238d581b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Structure: Retaining Physical Relevance"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h3"
+                  },
+                  {
+                    "_key": "dc9a8852f913",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "3d3a7d60ec1a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "For any significant architectural changes, such as the ones that accompany TerraBind, it is very important to ensure that the gains in performance are still grounded in physical reality. We assess this via pose accuracy, which gives us a way to evaluate the quality of TerraBind\u2019s structural features (Pairformer) and to produce interpretable binding modes. To generate 3D coordinates from the output predicted by the Pairformer, we developed a simple optimization routine that requires no learnable parameters."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "1ef7820ad23a",
+                    "_type": "figure",
+                    "align": "right",
+                    "asset": {
+                      "_ref": "image-7581acc00bf7d8c3d8ac9e2a7548047d927a81d4-315x188-png",
+                      "_type": "reference"
+                    },
+                    "maxWidth": 450,
+                    "useLightbox": true
+                  },
+                  {
+                    "_key": "df2215b3b5b5",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "d57570fdc12e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "While TerraBind sacrifices the granular, all-atom detail found in diffusion outputs, it consistently captures the coarse structural features essential for reliable pose prediction and affinity. We show performance on a popular metric (% of ligands with RMSD < 2\u00c5) across 2,687 complexes in the Runs N\u2019 Poses dataset, comparing four models with the same training cutoff (September 30, 2021):"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "a110812717f1",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "7acfc5413ae4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Boltz-1: Full diffusion-based pipeline"
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "0f3985984602",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "db9f9ff3afd4",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Boltz-1 Trunk: Boltz Pairformer features evaluated directly with our optimization routine, without diffusion"
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "e34b75c14cd1",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "df30428063e5",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraBind Pocket: A streamlined variant that focuses only on the binding site, using either a TerraBind-predicted pocket or a known pocket from drug discovery programs"
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "798a0aa95689",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "a7599e4ccbe1",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraBind: Our coarse-grained structural model"
+                      }
+                    ],
+                    "level": 1,
+                    "listItem": "bullet",
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "68d242b2150c",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "55ee0a27ac47",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraBind matches the full diffusion pipeline while significantly outperforming Boltz-1 Trunk \u2013 evidence that our Pairformer learns richer structural representations, and that coarse-grained geometry is sufficient for accurate pose prediction."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "46321eb81121",
+                    "_type": "divider",
+                    "visible": false
+                  },
+                  {
+                    "_key": "4658ddbf1b42",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "8591066a59e5",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "Beyond Greedy: Uncertainty Quantification for Optimal Selections"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h3"
+                  },
+                  {
+                    "_key": "59df541faf28",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "c42c30bc92fb",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "In hit-to-lead and lead optimization campaigns, a purely greedy selection approach (picking the compounds that rank highest for a given metric) often underperforms in practice "
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "15da68261dca",
+                    "_type": "figure",
+                    "align": "right",
+                    "asset": {
+                      "_ref": "image-83ba25341938a3ee568f96cb279cf0eaf21aac1e-779x568-png",
+                      "_type": "reference"
+                    },
+                    "maxWidth": 450,
+                    "useLightbox": true
+                  },
+                  {
+                    "_key": "7e867ad48434",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "6cbee6553222",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "since it insufficiently samples chemical space and does not hedge against predictive uncertainty."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "22aef945efef",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "b449685648be",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "TerraBind natively leverages epistemic neural networks (Epinets) to estimate model uncertainty for every affinity inference, which is not available for existing models like Boltz-2 affinity."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "17767383f0b9",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "68996bf44919",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "While these uncertainty estimates offer intrinsic value by adding perspective to individual predictions, the distinct advantage is that this allows TerraBind to predict joint affinity distributions across a batch of molecules. This enables the use of specialized acquisition functions like Expected Maximum (EMAX), which can better account for correlated uncertainties and diversity when making molecule selection decisions in practical Design-Make-Test-Analyze (DMTA) cycles. See our "
+                      },
+                      {
+                        "_key": "985a8013ea45",
+                        "_type": "span",
+                        "marks": [
+                          "8402997d09e3"
+                        ],
+                        "text": "recent paper"
+                      },
+                      {
+                        "_key": "375d517e0d70",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " and associated "
+                      },
+                      {
+                        "_key": "abe7030a07ff",
+                        "_type": "span",
+                        "marks": [
+                          "cc6379b03b34"
+                        ],
+                        "text": "blog"
+                      },
+                      {
+                        "_key": "10425167ea9e",
+                        "_type": "span",
+                        "marks": [],
+                        "text": " for more info. Furthermore, TerraBind is amenable to "
+                      },
+                      {
+                        "_key": "bb6a8deee363",
+                        "_type": "span",
+                        "marks": [
+                          "em"
+                        ],
+                        "text": "continual learning, "
+                      },
+                      {
+                        "_key": "79ba5e240ba6",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "allowing rapid Bayesian conditioning on new experimental observations without the expense or complication of naive retraining or finetuning."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "8402997d09e3",
+                        "_type": "externalLink",
+                        "href": "https://arxiv.org/abs/2511.10590"
+                      },
+                      {
+                        "_key": "cc6379b03b34",
+                        "_ref": "a8cc1fd6-e53d-4dc4-9115-85b36ec214c4",
+                        "_type": "internalLink"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "c4ed43572589",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "10bcb747e13b",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "In our internal benchmark, this continual and EMAX-based approach yielded a 6x improvement in selection performance (maximizing IC50) compared to standard greedy methods."
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "5d55cdffd71c",
+                    "_type": "divider",
+                    "visible": true
+                  },
+                  {
+                    "_key": "79ec7999a639",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "688023bc1835",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "What's Next?"
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "h2"
+                  },
+                  {
+                    "_key": "61454188dc22",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "4e04b7e86245",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "At Terray, TerraBind is not an academic exercise. TerraBind-Seq and TerraBind-Struct are already central to our operations. We use these models continuously to drive decisions across our pipeline, allowing us to navigate massive chemical spaces with a level of speed and confidence that was previously unattainable. And we never rest, continually enhancing all of "
+                      },
+                      {
+                        "_key": "4673b91e1b32",
+                        "_type": "span",
+                        "marks": [
+                          "bdfe1e63bbcc"
+                        ],
+                        "text": "EMMI"
+                      },
+                      {
+                        "_key": "4c9ce9d8592a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": "\u2019s capabilities to more effectively deliver medicines to patients in need."
+                      }
+                    ],
+                    "markDefs": [
+                      {
+                        "_key": "bdfe1e63bbcc",
+                        "_ref": "b61962c6-6f1b-41e9-8ab7-90650f7d713b",
+                        "_type": "internalLink"
+                      }
+                    ],
+                    "style": "normal"
+                  },
+                  {
+                    "_key": "5cdddf0d72ca",
+                    "_type": "block",
+                    "children": [
+                      {
+                        "_key": "dfdaceb5df4a",
+                        "_type": "span",
+                        "marks": [],
+                        "text": ""
+                      }
+                    ],
+                    "markDefs": [],
+                    "style": "normal"
+                  }
+                ],
+                "cta": {
+                  "_type": "link",
+                  "type": "internal"
+                },
+                "date": "2026-02-12T12:30:00.000Z",
+                "displayTitle": "Introducing EMMI Predict: TerraBind",
+                "excerpt": "Universal Potency Prediction at The Scale Necessary For Small Molecule Drug Development ",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-bf305736ef390e7e442116cfafe84bf3ad1ff685-5760x3240-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "meta": {
+                  "_type": "meta",
+                  "noIndex": false
+                },
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/introducing-emmi-predict-terrabind"
+                },
+                "sourceType": "internal",
+                "title": "Introducing EMMI Predict: TerraBind"
+              },
+              {
+                "_createdAt": "2026-08-18T23:04:11Z",
+                "_id": "97b48bc1-4070-4705-afff-bdd12e49f8d9",
+                "_rev": "7HLlVOkYQ4RIMeff7ITPaD",
+                "_type": "post",
+                "_updatedAt": "2026-08-18T23:26:30Z",
+                "authors": null,
+                "category": {
+                  "_createdAt": "2026-04-24T18:48:15Z",
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "_rev": "aEyPLl0XBQiwfrwGhYOe8o",
+                  "_system": {
+                    "base": {
+                      "id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                      "rev": "6DbtrAh3K0tskaZezjB7i6"
+                    }
+                  },
+                  "_type": "postCategory",
+                  "_updatedAt": "2026-06-09T02:49:25Z",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "cta": {
+                  "_type": "link",
+                  "type": "internal"
+                },
+                "date": "2026-07-23T23:09:00.000Z",
+                "displayTitle": "Eli Berlin on Terray's Approach to AI Drug Discovery",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-959ac03f61042b9d14fa0f40573a65eb87bc9e99-2270x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "meta": {
+                  "_type": "meta",
+                  "noIndex": false
+                },
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/eli-berlin-on-terrays-approach-to-ai-drug-discovery"
+                },
+                "sourceLabel": "NYSE TV",
+                "sourceType": "external",
+                "sourceUrl": "https://www.youtube.com/watch?v=t2ddpFhcx28 ",
+                "title": "Eli Berlin on Terray's Approach to AI Drug Discovery",
+                "video": {
+                  "_type": "video",
+                  "controls": "minimal"
+                }
+              }
+            ],
+            "sectionHeading": null
+          },
+          {
+            "_key": "453b0b67b430",
+            "_type": "paginatedPosts",
+            "allItems": [
+              {
+                "_id": "b81cc3d2-88eb-425b-9953-200c573811d6",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2026-11-16T16:00:00.000Z",
+                "displayTitle": "Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-8da2f9d6113dcd256a179feb7dc30cfac3f1f877-9459x5000-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": "Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA",
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA BioNeMo"
+              },
+              {
+                "_id": "5dc37586-b565-4f87-9f91-4916a7151f4e",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2026-10-15T15:04:00.000Z",
+                "displayTitle": "Enhanced Parsing of Chemical Reaction Diagrams",
+                "excerpt": "Building off the modeling approach established by RxnCaption, we show in this collaboration state-of-the-art performance on the Reaction Diagram Parsing task by finetuning NVIDIA Nemotron Omni, improving the previous state of the art HybridMatch F1 from 59.8 to 63.4 on RxnCaption's own benchmark test set, and clearing every previously published number across sets it was benchmarked against. We also report an early result from NVIDIA Nemotron 3.5 Super VL, where a single run beats the matched Omni arm across the benchmarks. Additionally, we discuss data augmentations for improving performance in practical settings. Finally, we highlight how these models fit into end-to-end processing of chemical data.",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Enhanced Parsing of Chemical Reaction Diagrams"
+              },
+              {
+                "_id": "53e66ce2-cbd7-4663-9274-b196a5ae92ac",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2026-10-09T23:30:00.000Z",
+                "displayTitle": "Terray to Present at Fall Investor Conferences",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-948a1ef1d51fadd4e61f168acc6268e1658f4ddc-2270x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-to-present-at-fall-investor-conferences"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray to Present at Fall Investor Conferences"
+              },
+              {
+                "_id": "a5226066-687e-483e-b646-d5f4afa83889",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2026-10-06T17:39:00.000Z",
+                "displayTitle": "CTO, Narbe Mardirossian, Named 40 Under 40 Winner",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-d75d97a1825500ce89bf4b565dce24573b948585-1080x1080-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/cto-narbe-mardirossian-BioSpace-40-under-40-"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "CTO, Narbe Mardirossian, Named 40 Under 40 Winner"
+              },
+              {
+                "_id": "704f82b0-c690-4b55-ac98-2f830c7a1317",
+                "_type": "post",
+                "category": {
+                  "_id": "9235e362-f552-42ac-b6e3-d43abc723524",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "press-release"
+                  },
+                  "title": "Press Release"
+                },
+                "date": "2026-08-29T22:13:00.000Z",
+                "displayTitle": "Terray to Speak at September Investor Conferences ",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-58de1d56bc2447db29e8687290dade71c355beeb-2270x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-to-speak-at-september-investor-conferences"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray to Speak at September Investor Conferences "
+              },
+              {
+                "_id": "97b48bc1-4070-4705-afff-bdd12e49f8d9",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2026-07-23T23:09:00.000Z",
+                "displayTitle": "Eli Berlin on Terray's Approach to AI Drug Discovery",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-959ac03f61042b9d14fa0f40573a65eb87bc9e99-2270x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/eli-berlin-on-terrays-approach-to-ai-drug-discovery"
+                },
+                "sourceLabel": "NYSE TV",
+                "sourceType": "external",
+                "sourceUrl": "https://www.youtube.com/watch?v=t2ddpFhcx28 ",
+                "title": "Eli Berlin on Terray's Approach to AI Drug Discovery"
+              },
+              {
+                "_id": "affab7db-bce9-4014-83d0-3af263eb6eb0",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2026-06-15T14:52:00.000Z",
+                "displayTitle": "Terray Appoints Lisa L. Decker, Ph.D. as Chief Business Officer",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-appoints-lisa-l-decker-phd-as-chief-business-officer"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Appoints Lisa L. Decker, Ph.D. as Chief Business Officer"
+              },
+              {
+                "_id": "ac435851-0964-4bd6-bde0-62f273616101",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2026-06-11T00:58:06.411Z",
+                "displayTitle": "TerraSynth: Accelerating the Synthesis of AI-designed Small Molecules",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-034a6a7ec67bdd2adf9a1c120fb105b76383b57e-2273x1200-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": "TerraSynth: Accelerating the Synthesis of AI-designed Small Molecules",
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terrasynth"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "TerraSynth"
+              },
+              {
+                "_id": "d4cd2cc1-1a0f-495a-a454-382f75515dc2",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2026-06-03T21:21:00.000Z",
+                "displayTitle": "Terray \u2013 Built at the Intersection",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-eb5a6b697b7af9fb816274272f98e2da0a73c3f8-1920x1080-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-built-at-the-intersection"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray \u2013 Built at the Intersection"
+              },
+              {
+                "_id": "5fc9a150-1e6a-4587-8492-d3c99e722305",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2026-04-13T16:38:00.000Z",
+                "displayTitle": "Jacob Berlin on why chemistry is the last frontier for AI drug discovery",
+                "excerpt": null,
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-a1d162915d6d3843ce3ba0823c493f2614375592-5760x3240-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/jacob-berlin-on-why-chemistry-is-the-last-frontier-for-ai-drug-discovery"
+                },
+                "sourceLabel": "Transcribed Podcast",
+                "sourceType": "external",
+                "sourceUrl": "https://www.benchling.com/transcribed/jacob-berlin-why-chemistry-for-AI-drug-discovery",
+                "title": "Jacob Berlin on why chemistry is the last frontier for AI drug discovery"
+              },
+              {
+                "_id": "f6019eaa-6baa-4413-a9b2-cd0783bcc4b6",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2026-02-12T17:36:00.000Z",
+                "displayTitle": "Terray says its AI model beats a popular open-source model at predicting how molecules bind with proteins",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-says-its-ai-model-beats-a-popular-open-source-model-at-predicting-how-molecules-bind-with-proteins"
+                },
+                "sourceLabel": "EndPoints",
+                "sourceType": "external",
+                "sourceUrl": "https://endpoints.news/terray-says-its-ai-model-beats-boltz-2-at-binding-affinity-prediction/",
+                "title": "Terray says its AI model beats a popular open-source model at predicting how molecules bind with proteins"
+              },
+              {
+                "_id": "4bab4719-c2a9-4295-bd09-651b72b1ca58",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2026-02-12T12:30:00.000Z",
+                "displayTitle": "Introducing EMMI Predict: TerraBind",
+                "excerpt": "Universal Potency Prediction at The Scale Necessary For Small Molecule Drug Development ",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-bf305736ef390e7e442116cfafe84bf3ad1ff685-5760x3240-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/introducing-emmi-predict-terrabind"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Introducing EMMI Predict: TerraBind"
+              },
+              {
+                "_id": "d2a161a4-db81-443d-9e24-27d11a93afbd",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2026-02-08T17:23:00.000Z",
+                "displayTitle": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terrabind-fast-and-accurate-binding-affinity-prediction-through-coarse-structural-representations"
+                },
+                "sourceLabel": "Terray",
+                "sourceType": "external",
+                "sourceUrl": "https://arxiv.org/abs/2602.07735",
+                "title": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations"
+              },
+              {
+                "_id": "79b1bb5d-f208-4432-88cd-098cb2dacd33",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2026-01-25T17:40:00.000Z",
+                "displayTitle": "At the Intersection: Jacob and Eli Berlin on How Terray Merges Chemistry and Compute to Drive Drug Discovery",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/at-the-intersection-jacob-and-eli-berlin-on-how-terray-merges-chemistry-and-compute-to-drive-drug-discovery"
+                },
+                "sourceLabel": "Bain Capital Future of Healthcare podcast",
+                "sourceType": "external",
+                "sourceUrl": "https://www.baincapital.com/healthcare/media-library/podcasts/jacob-berlin-phd-ceo-and-eli-berlin-cfocoo-terray-therapeutics",
+                "title": "At the Intersection: Jacob and Eli Berlin on How Terray Merges Chemistry and Compute to Drive Drug Discovery"
+              },
+              {
+                "_id": "2187aece-afca-413c-8cdb-24b076517a7e",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2025-12-04T17:37:00.000Z",
+                "displayTitle": "Terray\u2019s AI Platform Finds Drugs in Unseen Chemical Space, Achieves BMS Milestone",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terrays-ai-platform-finds-drugs-in-unseen-chemical-space-achieves-bms-milestone"
+                },
+                "sourceLabel": "GEN",
+                "sourceType": "external",
+                "sourceUrl": "https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-platform-finds-drugs-in-unseen-chemical-space-achieves-bms-milestone/",
+                "title": "Terray\u2019s AI Platform Finds Drugs in Unseen Chemical Space, Achieves BMS Milestone"
+              },
+              {
+                "_id": "ea2f546e-86b6-4b8b-a522-ff872d703b56",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2025-12-03T18:00:00.000Z",
+                "displayTitle": "Terray Therapeutics Achieves AI-Enabled Drug Discovery Milestone in Collaboration with Bristol Myers Squibb",
+                "excerpt": "Success demonstrates the power of EMMI, Terray\u2019s proprietary AI platform integrated with its rapidly expanding 13B+ target-ligand binding database and highly automated lab",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-achieves-ai-enabled-drug-discovery-milestone-in-collaboration-with-bristol-myers-squibb"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Achieves AI-Enabled Drug Discovery Milestone in Collaboration with Bristol Myers Squibb"
+              },
+              {
+                "_id": "a4414e8e-439e-4ad6-a3cc-5f3c7c0fff1e",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2025-11-17T17:36:00.000Z",
+                "displayTitle": "AI can dream up molecules. Terray develops a way to figure out which ones to make",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/ai-can-dream-up-molecules-terray-develops-a-way-to-figure-out-which-ones-to-make"
+                },
+                "sourceLabel": "EndPoints",
+                "sourceType": "external",
+                "sourceUrl": "https://endpoints.news/terray-therapeutics-unveils-ai-platform-emmi-selection-model/",
+                "title": "AI can dream up molecules. Terray develops a way to figure out which ones to make"
+              },
+              {
+                "_id": "53a8d570-9c5b-4c3c-816c-82d8bc56a409",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2025-11-17T08:00:00.000Z",
+                "displayTitle": "Introducing EMMI: Where Experimentation Meets Machine Intelligence",
+                "excerpt": "Terray\u2019s AI-Native Platform is Turning the Impossible into Predictable to Deliver for Patients",
+                "image": {
+                  "_type": "image",
+                  "asset": {
+                    "_ref": "image-a372679dc51600b19a90beeb912630d2a492012a-3840x2160-png",
+                    "_type": "reference"
+                  }
+                },
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Introducing EMMI: Where Experimentation Meets Machine Intelligence"
+              },
+              {
+                "_id": "4e417dfc-e286-4b7a-bd2c-7d54f9966cd6",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2025-11-17T07:00:00.000Z",
+                "displayTitle": "How To Select The Right Molecules To Make And Test",
+                "excerpt": "Introducing EMMI Select",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/how-to-select-the-right-molecules-to-make-and-test"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "How To Select The Right Molecules To Make And Test"
+              },
+              {
+                "_id": "241a1afa-4506-49e3-bb95-e00024d91459",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2025-11-13T17:20:00.000Z",
+                "displayTitle": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/pretrained-joint-predictions-for-scalable-batch-bayesian-optimization-of-molecular-designs"
+                },
+                "sourceLabel": "Terray",
+                "sourceType": "external",
+                "sourceUrl": "https://arxiv.org/abs/2511.10590",
+                "title": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs"
+              },
+              {
+                "_id": "bae0435a-c25f-4753-8ed3-9980362d7ce3",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2025-09-23T17:00:00.000Z",
+                "displayTitle": "Terray Therapeutics Expands Board of Directors with Appointment of Biotechnology Leader Wendy Young, Ph.D.",
+                "excerpt": "Dr. Young brings more than 30 years of drug discovery leadership and expertise, as Terray\u2019s AI-driven internal and partnered programs continue to accelerate toward patients in need. ",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-expands-board-of-directors-with-appointment-of-biotechnology-leader-wendy-young-phd"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Expands Board of Directors with Appointment of Biotechnology Leader Wendy Young, Ph.D."
+              },
+              {
+                "_id": "9a12b789-de50-448f-910b-2e3fee0ffe30",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2025-04-08T15:48:00.000Z",
+                "displayTitle": "Terray Therapeutics Appoints Elliott Levy, MD, to Scientific Advisory Board",
+                "excerpt": "Development and clinical trial biopharma expert joins Terray as a member of the Company\u2019s Scientific Advisory Board.",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-appoints-elliott-levy-md-to-scientific-advisory-board"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Appoints Elliott Levy, MD, to Scientific Advisory Board"
+              },
+              {
+                "_id": "2da03b6e-8388-4adb-9551-988a02f64a22",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2025-01-07T17:39:00.000Z",
+                "displayTitle": "Jacob Berlin on the AI-Powered Future of Medicine",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/jacob-berlin-on-the-ai-powered-future-of-medicine"
+                },
+                "sourceLabel": "Founded & Funded podcast",
+                "sourceType": "external",
+                "sourceUrl": "https://www.madrona.com/terray-jacob-berlin-on-the-ai-powered-future-of-medicine/",
+                "title": "Jacob Berlin on the AI-Powered Future of Medicine"
+              },
+              {
+                "_id": "1dee66ef-273f-49e9-8e87-cd7839cb5dd1",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2024-12-17T16:54:00.000Z",
+                "displayTitle": "Gilead and Terray Therapeutics Announce Multi-Target Research Collaboration to Discover and Develop Novel Small Molecule Therapies",
+                "excerpt": "Gilead and Terray Will Leverage Terray\u2019s tNova Drug Discovery Platform to Identify Small Molecule Therapeutics Against Targets of Interest",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/gilead-and-terray-therapeutics-announce-multi-target-research-collaboration-to-discover-and-develop-novel-small-molecule-therapies"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Gilead and Terray Therapeutics Announce Multi-Target Research Collaboration to Discover and Develop Novel Small Molecule Therapies"
+              },
+              {
+                "_id": "8b09eef1-4af5-4dbf-8ffd-2689ca34307a",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2024-10-28T15:57:00.000Z",
+                "displayTitle": "Odyssey Therapeutics and Terray Therapeutics Enter Strategic Collaboration to Jointly Discover and Develop First-in-Class Transcription Factor Therapies",
+                "excerpt": "Collaboration combines Odyssey\u2019s expertise in immunology and transcription factor biology with Terray\u2019s complementary expertise in immunology and integrated AI platform, tNova, which leverages proprietary experimental data at scale to power its AI capabilities.",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/odyssey-therapeutics-and-terray-therapeutics-enter-strategic-collaboration-to-jointly-discover-and-develop-first-in-class-transcription-factor-therapies"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Odyssey Therapeutics and Terray Therapeutics Enter Strategic Collaboration to Jointly Discover and Develop First-in-Class Transcription Factor Therapies"
+              },
+              {
+                "_id": "6255ed73-f617-4ef1-9b55-a7bad8102a57",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2024-10-17T16:00:00.000Z",
+                "displayTitle": "Terray Therapeutics Closes Oversubscribed $120M Series B to Advance Its Generative AI Pipeline of Small Molecule Therapeutics to the Clinic",
+                "excerpt": "Financing will also expand Terray\u2019s integrated AI platform, tNova. \n\nFinancing brings total equity financing since inception to over $200 million.",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-closes-oversubscribed-dollar120m-series-b-to-advance-its-generative-ai-pipeline-of-small-molecule-therapeutics-to-the-clinic"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Closes Oversubscribed $120M Series B to Advance Its Generative AI Pipeline of Small Molecule Therapeutics to the Clinic"
+              },
+              {
+                "_id": "0c79b6d8-86e5-467e-b30d-8cc245173549",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2024-08-22T16:30:00.000Z",
+                "displayTitle": "Latent Diffusion for Conditional Generation of Molecules",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/latent-diffusion-for-conditional-generation-of-molecules"
+                },
+                "sourceLabel": "Terray",
+                "sourceType": "external",
+                "sourceUrl": "https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1",
+                "title": "Latent Diffusion for Conditional Generation of Molecules"
+              },
+              {
+                "_id": "deab56e2-df34-49ee-82bf-4148d975b5be",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2024-06-17T16:34:00.000Z",
+                "displayTitle": "How A.I. Is Revolutionizing Drug Development",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/how-ai-is-revolutionizing-drug-development"
+                },
+                "sourceLabel": "The New York Times",
+                "sourceType": "external",
+                "sourceUrl": "https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html?searchResultPosition=1",
+                "title": "How A.I. Is Revolutionizing Drug Development"
+              },
+              {
+                "_id": "4b80df9a-d5da-4961-b559-029a8df2a6f0",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2024-04-25T16:41:00.000Z",
+                "displayTitle": "The Difference Is the Data: Drug Discovery\u2019s AI Revolution",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/the-difference-is-the-data-drug-discoverys-ai-revolution"
+                },
+                "sourceLabel": "GEN",
+                "sourceType": "external",
+                "sourceUrl": "https://www.genengnews.com/topics/drug-discovery/the-difference-is-the-data-drug-discoverys-ai-revolution/",
+                "title": "The Difference Is the Data: Drug Discovery\u2019s AI Revolution"
+              },
+              {
+                "_id": "bf2226fe-b2bb-45c9-83a8-1a4cb43e7b79",
+                "_type": "post",
+                "category": {
+                  "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "research"
+                  },
+                  "title": "Research"
+                },
+                "date": "2024-02-05T17:33:00.000Z",
+                "displayTitle": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/coati-multimodal-contrastive-pretraining-for-representing-and-traversing-chemical-space"
+                },
+                "sourceLabel": "Terray",
+                "sourceType": "external",
+                "sourceUrl": "https://pubs.acs.org/doi/10.1021/acs.jcim.3c01753",
+                "title": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space"
+              },
+              {
+                "_id": "50173c6e-9116-46aa-be38-8d344c10c0da",
+                "_type": "post",
+                "category": {
+                  "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "in-the-news"
+                  },
+                  "title": "In the News"
+                },
+                "date": "2024-01-13T17:40:00.000Z",
+                "displayTitle": "Terray Therapeutics' CEO on designing computational and experimental platforms to supercharge small molecule discovery",
+                "excerpt": null,
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-ceo-on-designing-computational-and-experimental-platforms-to-supercharge-small-molecule-discovery"
+                },
+                "sourceLabel": "Biotech TV",
+                "sourceType": "external",
+                "sourceUrl": " https://www.biotechtv.com/post/terray-therapeutics-january-31-2024",
+                "title": "Terray Therapeutics' CEO on designing computational and experimental platforms to supercharge small molecule discovery"
+              },
+              {
+                "_id": "d9b9e887-2f6d-4206-8950-aad59e566e15",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2023-12-14T17:02:00.000Z",
+                "displayTitle": "Terray Therapeutics Announces Multi-Target Collaboration with Bristol Myers Squibb",
+                "excerpt": "Companies to leverage Terray\u2019s tNova drug discovery platform to identify small molecule therapeutics against targets of interest. The collaboration includes an upfront payment and performance-based milestone payments, as well as royalties on global net sales of products.",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-announces-multi-target-collaboration-with-bristol-myers-squibb"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Announces Multi-Target Collaboration with Bristol Myers Squibb"
+              },
+              {
+                "_id": "c94dfe91-209c-4954-baa8-60d49bfd3c4f",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2023-11-09T17:08:00.000Z",
+                "displayTitle": "Terray Therapeutics Announces Investment from NVIDIA to Enable Generative AI Design for Drug Discovery",
+                "excerpt": "Investment supported by additional financing from a strong syndicate of new and existing institutional investors, along with industry leaders\n",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-announces-investment-from-nvidia-to-enable-generative-ai-design-for-drug-discovery"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Announces Investment from NVIDIA to Enable Generative AI Design for Drug Discovery"
+              },
+              {
+                "_id": "713a8932-a5f9-43a3-b4fa-bebd1d820936",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2022-12-13T17:07:00.000Z",
+                "displayTitle": "Terray Therapeutics Appoints John Maraganore, Ph.D., as Strategic Advisor",
+                "excerpt": "John Maraganore, Ph.D., founding CEO of Alnylam Pharmaceuticals and veteran biotech industry leader, joins Terray as Strategic Advisor to the Board of Directors and Leadership Team",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-appoints-john-maraganore-phd-as-strategic-advisor"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Appoints John Maraganore, Ph.D., as Strategic Advisor"
+              },
+              {
+                "_id": "eddfd1ce-cf0a-4544-a71e-cf9217471377",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2022-11-30T17:04:00.000Z",
+                "displayTitle": "Terray Therapeutics Strengthens Leadership with Appointment of Bassil Dahiyat, Ph.D., as Board Independent Director",
+                "excerpt": "Bassil Dahiyat, Ph.D., CEO of Xencor and biotech industry leader, joins the Board of Directors",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-strengthens-leadership-with-appointment-of-bassil-dahiyat-phd-as-board-independent-director"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Strengthens Leadership with Appointment of Bassil Dahiyat, Ph.D., as Board Independent Director"
+              },
+              {
+                "_id": "0ac13a85-1772-4d86-bed5-e8ad4f04fb68",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2022-10-12T16:05:00.000Z",
+                "displayTitle": "Terray Therapeutics and Calico Enter into a Multi-Target Collaboration to Discover Small Molecule Therapeutics for Age-Related Diseases",
+                "excerpt": "Collaboration combines Calico\u2019s deep expertise in target biology with Terray\u2019s proprietary drug discovery and development platform to identify novel therapeutics for patients affected by serious diseases of aging, including cancer",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-and-calico-enter-into-a-multi-target-collaboration-to-discover-small-molecule-therapeutics-for-age-related-diseases"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics and Calico Enter into a Multi-Target Collaboration to Discover Small Molecule Therapeutics for Age-Related Diseases"
+              },
+              {
+                "_id": "7ee01c0d-ceda-4338-817e-8c722ef7884c",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2022-07-12T16:06:00.000Z",
+                "displayTitle": "Terray Therapeutics Expands Scientific Advisory Board to Advance AI-Driven Small Molecule Drug Discovery",
+                "excerpt": "Fiona Black, PhD to join Terray\u2019s Scientific Advisory Board",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-expands-scientific-advisory-board-to-advance-ai-driven-small-molecule-drug-discovery"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Expands Scientific Advisory Board to Advance AI-Driven Small Molecule Drug Discovery"
+              },
+              {
+                "_id": "6ced5092-8254-4853-90d1-016c4668ddff",
+                "_type": "post",
+                "category": {
+                  "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                  "slug": {
+                    "_type": "slug",
+                    "current": "announcements"
+                  },
+                  "title": "Announcements"
+                },
+                "date": "2022-02-15T17:05:00.000Z",
+                "displayTitle": "Terray Therapeutics Launches with $60M to Deliver Premium Chemical Data at Unrivaled Scale, Unlocking the Potential of AI-Driven Small Molecule Drug Discovery",
+                "excerpt": "tNova platform leverages the world\u2019s most dense and precise microarray to discover and develop transformative therapeutics, Series A Financing led by Madrona Venture Group with strong investor syndicate",
+                "image": null,
+                "listTitle": null,
+                "slug": {
+                  "_type": "slug",
+                  "current": "news-and-research/terray-therapeutics-launches-with-dollar60m-to-deliver-premium-chemical-data-at-unrivaled-scale-unlocking-the-potential-of-ai-driven-small-molecule-drug-discovery"
+                },
+                "sourceLabel": null,
+                "sourceType": "internal",
+                "sourceUrl": null,
+                "title": "Terray Therapeutics Launches with $60M to Deliver Premium Chemical Data at Unrivaled Scale, Unlocking the Potential of AI-Driven Small Molecule Drug Discovery"
+              }
+            ],
+            "background": "white",
+            "categories": [
+              {
+                "_id": "1caad0ea-e222-4bff-a604-99c8607de5c2",
+                "slug": {
+                  "_type": "slug",
+                  "current": "announcements"
+                },
+                "title": "Announcements"
+              },
+              {
+                "_id": "a98eba02-1ad9-4825-8352-92a3f4892285",
+                "slug": {
+                  "_type": "slug",
+                  "current": "in-the-news"
+                },
+                "title": "In the News"
+              },
+              {
+                "_id": "9235e362-f552-42ac-b6e3-d43abc723524",
+                "slug": {
+                  "_type": "slug",
+                  "current": "press-release"
+                },
+                "title": "Press Release"
+              },
+              {
+                "_id": "010bcfaa-bff6-4a3e-8b05-6a0ce7abbe69",
+                "slug": {
+                  "_type": "slug",
+                  "current": "research"
+                },
+                "title": "Research"
+              }
+            ],
+            "category": null,
+            "content": null,
+            "ctas": null,
+            "postsPerPage": 8,
+            "sectionHeading": null
+          }
+        ],
+        "isLight": true,
+        "meta": {
+          "_type": "meta",
+          "noIndex": false
+        },
+        "slug": {
+          "_type": "slug",
+          "current": "news-and-research"
+        },
+        "title": "News + Research"
+      },
+      "settings": {
+        "_createdAt": "2023-09-12T20:44:24Z",
+        "_id": "settings",
+        "_rev": "6DbtrAh3K0tskaZezjLCgU",
+        "_system": {
+          "base": {
+            "id": "settings",
+            "rev": "5FidA9IxWSkicVFAt2xh3A"
+          }
+        },
+        "_type": "settings",
+        "_updatedAt": "2026-06-03T15:27:37Z",
+        "ctas": null,
+        "defaultMeta": {
+          "_type": "meta",
+          "description": "Built at the Intersection of AI and Experimentation",
+          "image": {
+            "_type": "image",
+            "asset": {
+              "_ref": "image-6a7bab2418ccdd5b8e62033bd052698f2bb12dae-1200x630-jpg",
+              "_type": "reference"
+            }
+          },
+          "title": "Terray Therapeutics"
+        },
+        "legalLinks": [
+          {
+            "_key": "0a2c43df32f4",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "privacy-policy"
+              },
+              "title": "Privacy Policy"
+            },
+            "title": "Privacy",
+            "type": "internal"
+          },
+          {
+            "_key": "32d7866ca664",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "terms-of-use"
+              },
+              "title": "Terms of Use"
+            },
+            "title": "Terms",
+            "type": "internal"
+          }
+        ],
+        "legalName": "Terray Therapeutics, Inc.",
+        "links": [
+          {
+            "_key": "bd54bd21b7f2",
+            "_type": "link",
+            "link": {
+              "_type": "externalLink",
+              "href": "mailto:info@terraytx.ai"
+            },
+            "page": null,
+            "title": "info@terraytx.ai",
+            "type": "external"
+          },
+          {
+            "_key": "310d25905702",
+            "_type": "link",
+            "link": {
+              "_type": "externalLink",
+              "blank": true,
+              "href": "https://www.linkedin.com/company/terray-therapeutics/"
+            },
+            "page": null,
+            "title": "LinkedIn",
+            "type": "external"
+          },
+          {
+            "_key": "2e1ac7cbbc86",
+            "_type": "link",
+            "link": {
+              "_type": "externalLink",
+              "href": "https://x.com/Terray_Tx"
+            },
+            "page": null,
+            "title": "X",
+            "type": "external"
+          }
+        ],
+        "mainNav": [
+          {
+            "_key": "3a0b8cfdb01e",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "emmi-platform"
+              },
+              "title": "EMMI Platform"
+            },
+            "title": "EMMI Platform",
+            "type": "internal"
+          },
+          {
+            "_key": "47c0411ee640",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "pipeline"
+              },
+              "title": "Pipeline"
+            },
+            "title": "Pipeline",
+            "type": "internal"
+          },
+          {
+            "_key": "0f55778af70b",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "team"
+              },
+              "title": "Team"
+            },
+            "title": "Team",
+            "type": "internal"
+          },
+          {
+            "_key": "2a1c02457216",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "careers"
+              },
+              "title": "Careers"
+            },
+            "title": "Careers",
+            "type": "internal"
+          },
+          {
+            "_key": "2fd765fbe623",
+            "_type": "link",
+            "page": {
+              "_type": "page",
+              "slug": {
+                "_type": "slug",
+                "current": "news-and-research"
+              },
+              "title": "News + Research"
+            },
+            "title": "News + Research",
+            "type": "internal"
+          }
+        ],
+        "navCollapseWidth": 871
+      },
+      "preview": false,
+      "token": ""
+    },
+    "__N_SSG": true
+  },
+  "page": "/[...slug]",
+  "query": {
+    "slug": [
+      "news-and-research"
+    ]
+  },
+  "buildId": "rQHYYSlhdDXXoDt_RD3A7",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gsp": true,
+  "scriptLoader": []
+}

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-strengthens-leadership-with-appointment-of-bassil-dahiyat-phd-as-board-independent-director</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-launches-with-60m-to-deliver-premium-chemical-data-at-unrivaled-scale-unlocking-the-potential-of-ai-driven-small-molecule-drug-discovery</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-announces-multi-target-collaboration-with-bristol-myers-squibb</loc>
+      <lastmod>2023-12-14</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/gilead-and-terray-therapeutics-announce-multi-target-research-collaboration-to-discover-and-develop-novel-small-molecule-therapies</loc>
+      <lastmod>2024-12-17</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-appoints-elliott-levy-md-to-scientific-advisory-board</loc>
+      <lastmod>2025-04-08</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-expands-scientific-advisory-board-to-advance-ai-driven-small-molecule-drug-discovery</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-closes-oversubscribed-120m-series-b-to-advance-its-generative-ai-pipeline-of-small-molecule-therapeutics-to-the-clinic</loc>
+      <lastmod>2024-10-17</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/odyssey-therapeutics-and-terray-therapeutics-enter-strategic-collaboration-to-jointly-discover-and-develop-first-in-class-transcription-factor-therapies</loc>
+      <lastmod>2024-10-28</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/emmi-platform</loc>
+      <lastmod>2026-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/terms-of-use</loc>
+      <lastmod>2026-04-28</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-expands-leadership-team-with-fez-ujjainwalla-phd-as-head-of-business</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-achieves-ai-enabled-drug-discovery-milestone-in-collaboration-with-bristol-myers-squibb</loc>
+      <lastmod>2025-12-03</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-appoints-john-maraganore-phd-as-strategic-advisor</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/pipeline</loc>
+      <lastmod>2026-10-17</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-announces-investment-from-nvidia-to-enable-generative-ai-design-for-drug-discovery</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/news-and-research</loc>
+      <lastmod>2026-08-18</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/insights/EpiNets-EMAX-how-to-select-the-right-molecules-to-make-and-test</loc>
+      <lastmod>2026-05-18</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-therapeutics-and-calico-enter-into-a-multi-target-collaboration-to-discover-small-molecule-therapeutics-for-age-related-diseases</loc>
+      <lastmod>2023-11-10</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/team</loc>
+      <lastmod>2026-09-25</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/insights/introducing-emmi-where-experimentation-meets-machine-intelligence</loc>
+      <lastmod>2026-05-18</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/press/terray-appointments-wendy-young-phd-to-board</loc>
+      <lastmod>2025-09-23</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/privacy-policy</loc>
+      <lastmod>2026-09-24</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/</loc>
+      <lastmod>2026-05-29</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/careers</loc>
+      <lastmod>2026-05-29</lastmod>
+    
+                    </url>
+                  <url>
+                      
+      <loc>https://www.terraytx.ai/insights/emmi-predict-terrabind</loc>
+      <lastmod>2026-05-18</lastmod>
+    
+                    </url>
+                  
+    </urlset>
+    

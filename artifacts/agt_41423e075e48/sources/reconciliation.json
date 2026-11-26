@@ -1,0 +1,1367 @@
+{
+  "source_matches": [
+    {
+      "source": "openalex",
+      "source_id": "W2026172453",
+      "title": "Advances in molecular quantum chemistry contained in the Q-Chem 4 program package",
+      "catalog_id": "W2026172453",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W3193988690",
+      "title": "Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package",
+      "catalog_id": "W3193988690",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2768213699",
+      "title": "The TensorMol-0.1 model chemistry: a neural network augmented with long-range physics",
+      "catalog_id": "W2768213699",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2745140596",
+      "title": "Origin of the Size-Dependent Stokes Shift in CsPbBr 3 Perovskite Nanocrystals",
+      "catalog_id": "W2745140596",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W1911433256",
+      "title": "Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks",
+      "catalog_id": "W1911433256",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2620906374",
+      "title": "Intrinsic Bond Energies from a Bonds-in-Molecules Neural Network",
+      "catalog_id": "W2620906374",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2526734845",
+      "title": "The many-body expansion combined with neural networks",
+      "catalog_id": "W2526734845",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2089476110",
+      "title": "Benchmark results for empirical post-GGA functionals: Difficult exchange problems and independent tests",
+      "catalog_id": "W2089476110",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W4391568364",
+      "title": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space",
+      "catalog_id": "W4391568364",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2779474077",
+      "title": "Metadynamics for training neural network model chemistries: A competitive assessment",
+      "catalog_id": "W2779474077",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2064851837",
+      "title": "The perfect quadruples model for electron correlation in a valence active space",
+      "catalog_id": "W2064851837",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W1989551593",
+      "title": "A tractable and accurate electronic structure method for static correlations: The perfect hextuples model",
+      "catalog_id": "W1989551593",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2138441913",
+      "title": "Feynman\u2019s clock, a new variational principle, and parallel-in-time quantum dynamics",
+      "catalog_id": "W2138441913",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2330580962",
+      "title": "Black-Box, Real-Time Simulations of Transient Absorption Spectroscopy",
+      "catalog_id": "W2330580962",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2032109301",
+      "title": "A truncation hierarchy of coupled cluster models of strongly correlated systems based on perfect-pairing references: The singles+doubles models",
+      "catalog_id": "W2032109301",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2573441567",
+      "title": "Detection of electron tunneling across plasmonic nanoparticle\u2013film junctions using nitrile vibrations",
+      "catalog_id": "W2573441567",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2513225733",
+      "title": "Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples and perfect hextuples models",
+      "catalog_id": "W2513225733",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2151703051",
+      "title": "Near\u2010Infrared Spectroscopy of Nitrogenated Polycyclic Aromatic Hydrocarbon Cations from 0.7 to 2.5 \u03bcm",
+      "catalog_id": "W2151703051",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2294453824",
+      "title": "Nonadiabatic Dynamics for Electrons at Second-Order: Real-Time TDDFT and OSCF2",
+      "catalog_id": "W2294453824",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2899038370",
+      "title": "Compressing physics with an autoencoder: Creating an atomic species representation to improve machine learning models in the chemical sciences",
+      "catalog_id": "W2899038370",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2069236402",
+      "title": "How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics",
+      "catalog_id": "W2069236402",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2511615933",
+      "title": "Accelerating the computation of bath spectral densities with super-resolution",
+      "catalog_id": "W2511615933",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2513949554",
+      "title": "Nonradiative Relaxation in Real-Time Electronic Dynamics OSCF2: Organolead Triiodide Perovskite",
+      "catalog_id": "W2513949554",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W7128476783",
+      "title": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations",
+      "catalog_id": "W7128476783",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2152743532",
+      "title": "Penalty functions for combining coupled-cluster and perturbation amplitudes in local correlation methods with optimized orbitals",
+      "catalog_id": "W2152743532",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2738892235",
+      "title": "Accelerating Realtime TDDFT with Block-Orthogonalized Manby\u2013Miller Embedding Theory",
+      "catalog_id": "W2738892235",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2123811497",
+      "title": "Modeling Coherent Anti-Stokes Raman Scattering with Time-Dependent Density Functional Theory: Vacuum and Surface Enhancement.",
+      "catalog_id": "W2123811497",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2906385732",
+      "title": "On the border between localization and delocalization: tris(iminoxolene)titanium(iv)",
+      "catalog_id": "W2906385732",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2066866806",
+      "title": "A sparse framework for the derivation and implementation of fermion algebra",
+      "catalog_id": "W2066866806",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W1970652046",
+      "title": "The exchange energy of a uniform electron gas experiencing a new, flexible range separation",
+      "catalog_id": "W1970652046",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2032893827",
+      "title": "Force-field functor theory: classical force-fields which reproduce equilibrium quantum distributions",
+      "catalog_id": "W2032893827",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2105051112",
+      "title": "Measurement of the third\u2010order nonlinear optical susceptibility \u03c7(3) for the 1002\u2010cm\u20131 mode of benzenethiol using coherent anti\u2010Stokes Raman scattering with continuous\u2010wave diode lasers",
+      "catalog_id": "W2105051112",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2049712715",
+      "title": "The numerical condition of electron correlation theories when only active pairs of electrons are spin-unrestricted",
+      "catalog_id": "W2049712715",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2008618439",
+      "title": "The formulation and performance of a perturbative correction to the perfect quadruples model",
+      "catalog_id": "W2008618439",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W4401828945",
+      "title": "Latent Diffusion for Conditional Generation of Molecules",
+      "catalog_id": "W4401828945",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W1650659216",
+      "title": "Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$",
+      "catalog_id": "W1650659216",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2731573197",
+      "title": "Bond Energies from a Diatomics-in-Molecules Neural Network",
+      "catalog_id": "W2620906374",
+      "match": "merged version"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W4416339368",
+      "title": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs",
+      "catalog_id": "W4416339368",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2017309665",
+      "title": "Response to Commentary on \u201cForce-field functor theory: classical force-fields which reproduce equilibrium quantum distributions\u201d",
+      "catalog_id": "W2017309665",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2245173478",
+      "title": "Local Models for Strongly Correlated Molecules",
+      "catalog_id": "W2245173478",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2619156602",
+      "title": "Transient Spectra in TDDFT: Corrections and Correlations",
+      "catalog_id": "W2619156602",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W3105032437",
+      "title": "Exciton Coherence Lifetimes from Electronic Structure",
+      "catalog_id": "W2150504126",
+      "match": "merged version"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W4397481433",
+      "title": "CCDC 1845533: Experimental Crystal Structure Determination",
+      "catalog_id": "W4397481433",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2130221969",
+      "title": "A correlated-polaron electronic propagator: Open electronic dynamics beyond the Born-Oppenheimer approximation",
+      "catalog_id": "W2130221969",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2150504126",
+      "title": "Exciton coherence lifetimes from electronic structure",
+      "catalog_id": "W2150504126",
+      "match": "included"
+    },
+    {
+      "source": "openalex",
+      "source_id": "W2611266782",
+      "title": "Orbital optimisation in the perfect pairing hierarchy: applications to full-valence calculations on linear polyacenes",
+      "catalog_id": "W2611266782",
+      "match": "included"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.5108803",
+      "title": "Compressing physics with an autoencoder: Creating an atomic species representation to improve machine learning models in the chemical sciences",
+      "catalog_id": "W2899038370",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.5020067",
+      "title": "Metadynamics for training neural network model chemistries: A competitive assessment",
+      "catalog_id": "W2779474077",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4964317",
+      "title": "Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples and perfect hextuples models",
+      "catalog_id": "W2513225733",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jcim.3c01753",
+      "title": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space",
+      "catalog_id": "W4391568364",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/5.0055522",
+      "title": "Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package",
+      "catalog_id": "W3193988690",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4916822",
+      "title": "How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics",
+      "catalog_id": "W2069236402",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1039/c7sc04934j",
+      "title": "The TensorMol-0.1 model chemistry: a neural network augmented with long-range physics",
+      "catalog_id": "W2768213699",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4973380",
+      "title": "The many-body expansion combined with neural networks",
+      "catalog_id": "W2526734845",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1039/c8dt04528c",
+      "title": "On the border between localization and delocalization: tris(iminoxolene)titanium(\n                    <scp>iv</scp>\n                    )",
+      "catalog_id": "W2906385732",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1101/2024.08.22.609169",
+      "title": "Latent Diffusion for Conditional Generation of Molecules",
+      "catalog_id": "W4401828945",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.26434/chemrxiv-2023-bdkgm",
+      "title": "COATI: multi-modal contrastive pre-training for representing and traversing chemical space",
+      "catalog_id": "W4391568364",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.15278/isms.2017.wb02",
+      "title": "BLACK BOX REAL-TIME TRANSIENT ABSORPTION SPECTROSCOPY AND ELECTRON CORRELATION",
+      "catalog_id": "work-10a77603047e",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jctc.5b01011",
+      "title": "Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks",
+      "catalog_id": "W1911433256",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jctc.5b00262",
+      "title": "Nonadiabatic Dynamics for Electrons at Second-Order: Real-Time TDDFT and OSCF2",
+      "catalog_id": "W2294453824",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jpca.6b06937",
+      "title": "Nonradiative Relaxation in Real-Time Electronic Dynamics OSCF2: Organolead Triiodide Perovskite",
+      "catalog_id": "W2513949554",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4973380",
+      "title": "The many-body expansion combined with neural networks",
+      "catalog_id": "W2526734845",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3483556",
+      "title": "A truncation hierarchy of coupled cluster models of strongly correlated systems based on perfect-pairing references: The singles+doubles models",
+      "catalog_id": "W2032109301",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1080/00268971003662896",
+      "title": "A sparse framework for the derivation and implementation of fermion algebra",
+      "catalog_id": "W2066866806",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3456001",
+      "title": "A tractable and accurate electronic structure method for static correlations: The perfect hextuples model",
+      "catalog_id": "W1989551593",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4964317",
+      "title": "Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples and perfect hextuples models",
+      "catalog_id": "W2513225733",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.4916822",
+      "title": "How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics",
+      "catalog_id": "W2069236402",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1080/00268976.2017.1342009",
+      "title": "Orbital optimisation in the perfect pairing hierarchy: applications to full-valence calculations on linear polyacenes",
+      "catalog_id": "W2611266782",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.3389/fchem.2013.00026",
+      "title": "Force-field functor theory: classical force-fields which reproduce equilibrium quantum distributions",
+      "catalog_id": "W2032893827",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.5108803",
+      "title": "Compressing physics with an autoencoder: Creating an atomic species representation to improve machine learning models in the chemical sciences",
+      "catalog_id": "W2899038370",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.3389/fchem.2013.00033",
+      "title": "Response to Commentary on \u201cForce-field functor theory: classical force-fields which reproduce equilibrium quantum distributions\u201d",
+      "catalog_id": "W2017309665",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3086027",
+      "title": "The perfect quadruples model for electron correlation in a valence active space",
+      "catalog_id": "W2064851837",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jpclett.7b01072",
+      "title": "Intrinsic Bond Energies from a Bonds-in-Molecules Neural Network",
+      "catalog_id": "W2620906374",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3582729",
+      "title": "The formulation and performance of a perturbative correction to the perfect quadruples model",
+      "catalog_id": "W2008618439",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1039/c1cp21635j",
+      "title": "Benchmark results for empirical post-GGA functionals: Difficult exchange problems and independent tests",
+      "catalog_id": "W2089476110",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/jz2005573",
+      "title": "Modeling Coherent Anti-Stokes Raman Scattering with Time-Dependent Density Functional Theory: Vacuum and Surface Enhancement.",
+      "catalog_id": "W2123811497",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1021/acs.jctc.7b00494",
+      "title": "Accelerating Realtime TDDFT with Block-Orthogonalized Manby\u2013Miller Embedding Theory",
+      "catalog_id": "W2738892235",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3134223",
+      "title": "The numerical condition of electron correlation theories when only active pairs of electrons are spin-unrestricted",
+      "catalog_id": "W2049712715",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1063/1.3689858",
+      "title": "Exciton coherence lifetimes from electronic structure",
+      "catalog_id": "W2150504126",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.15278/isms.2017.wb02",
+      "title": "BLACK BOX REAL-TIME TRANSIENT ABSORPTION SPECTROSCOPY AND ELECTRON CORRELATION",
+      "catalog_id": "work-10a77603047e",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "crossref",
+      "source_id": "10.1080/00268976.2014.952696",
+      "title": "Advances in molecular quantum chemistry contained in the Q-Chem 4 program package",
+      "catalog_id": "W2026172453",
+      "match": "included / DOI or verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1609.00077",
+      "title": "Cost-effective description of strong correlation: efficient implementations of the perfect quadruples and perfect hextuples models",
+      "catalog_id": "W2513225733",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1112.1665",
+      "title": "Exciton coherence lifetimes from electronic structure",
+      "catalog_id": "W2150504126",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1705.01678",
+      "title": "Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear polyacenes",
+      "catalog_id": "W2611266782",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1206.2567",
+      "title": "A correlated-polaron electronic propagator: open electronic dynamics beyond the Born-Oppenheimer approximation",
+      "catalog_id": "W2130221969",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1509.00062",
+      "title": "The Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks",
+      "catalog_id": "W1911433256",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1711.06385",
+      "title": "The TensorMol-0.1 Model Chemistry: a Neural Network Augmented with Long-Range Physics",
+      "catalog_id": "W2768213699",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1307.4407",
+      "title": "More accurate and efficient bath spectral densities from super-resolution",
+      "catalog_id": "W2511615933",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1811.00123",
+      "title": "Compressing physical properties of atomic species for improving predictive chemistry",
+      "catalog_id": "W2899038370",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1411.5324",
+      "title": "How Electronic Dynamics with Pauli Exclusion Produces Fermi-Dirac Statistics",
+      "catalog_id": "W2069236402",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1306.4332",
+      "title": "Force-Field Functor Theory: Classical Force-Fields which Reproduce Equilibrium Quantum Distributions",
+      "catalog_id": "W2032893827",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1609.07072",
+      "title": "The Many-Body Expansion Combined with Neural Networks",
+      "catalog_id": "W2526734845",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1712.07240",
+      "title": "Metadynamics for Training Neural Network Model Chemistries: a Competitive Assessment",
+      "catalog_id": "W2779474077",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1411.1110",
+      "title": "Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$",
+      "catalog_id": "W1650659216",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1703.08640",
+      "title": "Bond Energies from a Diatomics-in-Molecules Neural Network",
+      "catalog_id": "W2620906374",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "2511.10590",
+      "title": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs",
+      "catalog_id": "W4416339368",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "2602.07735",
+      "title": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations",
+      "catalog_id": "W7128476783",
+      "match": "verified version"
+    },
+    {
+      "source": "arxiv",
+      "source_id": "1301.2326",
+      "title": "Feynman's clock, a new variational principle, and parallel-in-time quantum dynamics",
+      "catalog_id": "W2138441913",
+      "match": "verified version"
+    },
+    {
+      "source": "orcid",
+      "source_id": "60795874",
+      "title": "Compressing physics with an autoencoder: Creating an atomic species representation to improve machine learning models in the chemical sciences",
+      "catalog_id": "W2899038370",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "52471548",
+      "title": "On the border between localization and delocalization: tris(iminoxolene)titanium(iv)",
+      "catalog_id": "W2906385732",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "42669400",
+      "title": "Metadynamics for training neural network model chemistries: A competitive assessment",
+      "catalog_id": "W2779474077",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "41094637",
+      "title": "The TensorMol-0.1 model chemistry: a neural network augmented with long-range physics",
+      "catalog_id": "W2768213699",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "29227346",
+      "title": "The many-body expansion combined with neural networks",
+      "catalog_id": "W2526734845",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "27246872",
+      "title": "Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples and perfect hextuples models",
+      "catalog_id": "W2513225733",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894241",
+      "title": "How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics",
+      "catalog_id": "W2069236402",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894244",
+      "title": "Advances in molecular quantum chemistry contained in the Q-Chem 4 program package",
+      "catalog_id": "W2026172453",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894210",
+      "title": "Force-field functor theory: classical force-fields which reproduce equilibrium quantum distributions",
+      "catalog_id": "W2032893827",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894246",
+      "title": "A correlated-polaron electronic propagator: Open electronic dynamics beyond the Born-Oppenheimer approximation",
+      "catalog_id": "W2130221969",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894254",
+      "title": "Exciton coherence lifetimes from electronic structure",
+      "catalog_id": "W2150504126",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894250",
+      "title": "Measurement of the third-order nonlinear optical susceptibility X(3) for the 1002 mode of benzenethiol using coherent anti-Stokes Raman scattering with continuous-wave diode lasers",
+      "catalog_id": "W2105051112",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894255",
+      "title": "Benchmark results for empirical post-GGA functionals: Difficult exchange problems and independent tests",
+      "catalog_id": "W2089476110",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894260",
+      "title": "The formulation and performance of a perturbative correction to the perfect quadruples model",
+      "catalog_id": "W2008618439",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894218",
+      "title": "A sparse framework for the derivation and implementation of fermion algebra",
+      "catalog_id": "W2066866806",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894269",
+      "title": "A sparse framework for the derivation and implementation of fermion algebra",
+      "catalog_id": "W2066866806",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894258",
+      "title": "A tractable and accurate electronic structure method for static correlations: The perfect hextuples model",
+      "catalog_id": "W1989551593",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894257",
+      "title": "A truncation hierarchy of coupled cluster models of strongly correlated systems based on perfect-pairing references: The singles + doubles models",
+      "catalog_id": "W2032109301",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894266",
+      "title": "The exchange energy of a uniform electron gas experiencing a new, flexible range separation",
+      "catalog_id": "W1970652046",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894272",
+      "title": "The numerical condition of electron correlation theories when only active pairs of electrons are spin-unrestricted",
+      "catalog_id": "W2049712715",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894271",
+      "title": "The perfect quadruples model for electron correlation in a valence active space",
+      "catalog_id": "W2064851837",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894274",
+      "title": "Near-Infrared Spectroscopy of Nitrogenated Polycyclic Aromatic Hydrocarbon Cations from 0.7 to 2.5 &mu;m",
+      "catalog_id": "W2151703051",
+      "match": "DOI / normalized title"
+    },
+    {
+      "source": "orcid",
+      "source_id": "21894264",
+      "title": "Penalty functions for combining coupled-cluster and perturbation amplitudes in local correlation methods with optimized orbitals",
+      "catalog_id": "W2152743532",
+      "match": "DOI / normalized title"
+    }
+  ],
+  "resume_matches": [
+    {
+      "source": "resume_pdf",
+      "url": "https://scholar.google.com/citations?user=mkEouY4AAAAJ",
+      "catalog_id": "work-636bd379fca1",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://arxiv.org/html/2511.10590v2",
+      "catalog_id": "W4416339368",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron",
+      "catalog_id": "terray-enhanced-parsing-of-chemical-reaction-diagrams",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://arxiv.org/abs/2602.07735",
+      "catalog_id": "W7128476783",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://chemrxiv.org/engage/chemrxiv/article-details/64e8137fdd1a73847f73f7aa",
+      "catalog_id": "W4391568364",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1",
+      "catalog_id": "W4401828945",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://github.com/jparkhill/TensorMol",
+      "catalog_id": "work-93ca3730cc89",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://www.chemistryworld.com/news/neural-network-predicts-bond-energies-like-a-pro/3007598.article",
+      "catalog_id": "work-9836c825acb8",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://arxiv.org/abs/1509.00062",
+      "catalog_id": "W1911433256",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://doi.org/10.1021/jacs.7b05683",
+      "catalog_id": "W2745140596",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://web.archive.org/web/20150928033434/http://aspuru.chem.harvard.edu/john-parkhill/",
+      "catalog_id": "work-699438f88378",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf",
+      "catalog_id": "W2245173478",
+      "match": "included"
+    },
+    {
+      "source": "resume_pdf",
+      "url": "http://www.q-chem.com",
+      "catalog_id": "work-642756199c56",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://scholar.google.com/citations?user=mkEouY4AAAAJ",
+      "catalog_id": "work-636bd379fca1",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://arxiv.org/html/2511.10590v2",
+      "catalog_id": "W4416339368",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://arxiv.org/abs/2602.07735",
+      "catalog_id": "W7128476783",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://chemrxiv.org/engage/chemrxiv/article-details/64e8137fdd1a73847f73f7aa",
+      "catalog_id": "W4391568364",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1",
+      "catalog_id": "W4401828945",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://github.com/jparkhill/TensorMol",
+      "catalog_id": "work-93ca3730cc89",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "https://arxiv.org/abs/1509.00062",
+      "catalog_id": "W1911433256",
+      "match": "included"
+    },
+    {
+      "source": "resume_tex",
+      "url": "http://www.q-chem.com",
+      "catalog_id": "work-642756199c56",
+      "match": "included"
+    }
+  ],
+  "resume_pdf_links": [
+    "https://scholar.google.com/citations?user=mkEouY4AAAAJ",
+    "https://arxiv.org/html/2511.10590v2",
+    "https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron",
+    "https://arxiv.org/abs/2602.07735",
+    "https://chemrxiv.org/engage/chemrxiv/article-details/64e8137fdd1a73847f73f7aa",
+    "https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1",
+    "https://github.com/jparkhill/TensorMol",
+    "https://www.chemistryworld.com/news/neural-network-predicts-bond-energies-like-a-pro/3007598.article",
+    "https://arxiv.org/abs/1509.00062",
+    "https://doi.org/10.1021/jacs.7b05683",
+    "https://web.archive.org/web/20150928033434/http://aspuru.chem.harvard.edu/john-parkhill/",
+    "https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf",
+    "http://www.q-chem.com"
+  ],
+  "resume_tex_links": [
+    "https://scholar.google.com/citations?user=mkEouY4AAAAJ",
+    "https://arxiv.org/html/2511.10590v2",
+    "https://arxiv.org/abs/2602.07735",
+    "https://chemrxiv.org/engage/chemrxiv/article-details/64e8137fdd1a73847f73f7aa",
+    "https://www.biorxiv.org/content/10.1101/2024.08.22.609169v1",
+    "https://github.com/jparkhill/TensorMol",
+    "https://arxiv.org/abs/1509.00062",
+    "http://www.q-chem.com"
+  ],
+  "terray_inventory": [
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo",
+      "final_url": "https://www.terraytx.ai/news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo",
+      "status": 200,
+      "title": "Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA BioNeMo",
+      "parkhill": false,
+      "disposition": "Related Terray ML platform context; byline preserved",
+      "catalog_id": "terray-accelerating-terrabind-and-generating-synthetic-training-data-economically-with-nvidia-bionemo"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron",
+      "final_url": "https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron",
+      "status": 200,
+      "title": "Enhanced Parsing of Chemical Reaction Diagrams",
+      "parkhill": false,
+      "disposition": "Resume-linked collaboration",
+      "catalog_id": "terray-enhanced-parsing-of-chemical-reaction-diagrams"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-to-present-at-fall-investor-conferences",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-to-present-at-fall-investor-conferences",
+      "status": 200,
+      "title": "Terray to Present at Fall Investor Conferences",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/cto-narbe-mardirossian-BioSpace-40-under-40-",
+      "final_url": "https://www.terraytx.ai/news-and-research/cto-narbe-mardirossian-BioSpace-40-under-40-",
+      "status": 200,
+      "title": "CTO, Narbe Mardirossian, Named 40 Under 40 Winner",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-to-speak-at-september-investor-conferences",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-to-speak-at-september-investor-conferences",
+      "status": 200,
+      "title": "Terray to Speak at September Investor Conferences",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/eli-berlin-on-terrays-approach-to-ai-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/eli-berlin-on-terrays-approach-to-ai-drug-discovery",
+      "status": 200,
+      "title": "Eli Berlin on Terray's Approach to AI Drug Discovery",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-appoints-lisa-l-decker-phd-as-chief-business-officer",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-appoints-lisa-l-decker-phd-as-chief-business-officer",
+      "status": 200,
+      "title": "Terray Appoints Lisa L. Decker, Ph.D. as Chief Business Officer",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terrasynth",
+      "final_url": "https://www.terraytx.ai/news-and-research/terrasynth",
+      "status": 200,
+      "title": "TerraSynth",
+      "parkhill": true,
+      "disposition": "John Parkhill byline",
+      "catalog_id": "terray-terrasynth"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-built-at-the-intersection",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-built-at-the-intersection",
+      "status": 200,
+      "title": "Terray \u2013 Built at the Intersection",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/jacob-berlin-on-why-chemistry-is-the-last-frontier-for-ai-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/jacob-berlin-on-why-chemistry-is-the-last-frontier-for-ai-drug-discovery",
+      "status": 200,
+      "title": "Jacob Berlin on why chemistry is the last frontier for AI drug discovery",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-says-its-ai-model-beats-a-popular-open-source-model-at-predicting-how-molecules-bind-with-proteins",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-says-its-ai-model-beats-a-popular-open-source-model-at-predicting-how-molecules-bind-with-proteins",
+      "status": 200,
+      "title": "Terray says its AI model beats a popular open-source model at predicting how molecules bind with proteins",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/introducing-emmi-predict-terrabind",
+      "final_url": "https://www.terraytx.ai/news-and-research/introducing-emmi-predict-terrabind",
+      "status": 200,
+      "title": "Introducing EMMI Predict: TerraBind",
+      "parkhill": true,
+      "disposition": "John Parkhill byline",
+      "catalog_id": "terray-introducing-emmi-predict-terrabind"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terrabind-fast-and-accurate-binding-affinity-prediction-through-coarse-structural-representations",
+      "final_url": "https://www.terraytx.ai/news-and-research/terrabind-fast-and-accurate-binding-affinity-prediction-through-coarse-structural-representations",
+      "status": 200,
+      "title": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations",
+      "parkhill": false,
+      "disposition": "scholarly link already cataloged",
+      "catalog_id": "W7128476783"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/at-the-intersection-jacob-and-eli-berlin-on-how-terray-merges-chemistry-and-compute-to-drive-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/at-the-intersection-jacob-and-eli-berlin-on-how-terray-merges-chemistry-and-compute-to-drive-drug-discovery",
+      "status": 200,
+      "title": "At the Intersection: Jacob and Eli Berlin on How Terray Merges Chemistry and Compute to Drive Drug Discovery",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terrays-ai-platform-finds-drugs-in-unseen-chemical-space-achieves-bms-milestone",
+      "final_url": "https://www.terraytx.ai/news-and-research/terrays-ai-platform-finds-drugs-in-unseen-chemical-space-achieves-bms-milestone",
+      "status": 200,
+      "title": "Terray\u2019s AI Platform Finds Drugs in Unseen Chemical Space, Achieves BMS Milestone",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-achieves-ai-enabled-drug-discovery-milestone-in-collaboration-with-bristol-myers-squibb",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-achieves-ai-enabled-drug-discovery-milestone-in-collaboration-with-bristol-myers-squibb",
+      "status": 200,
+      "title": "Terray Therapeutics Achieves AI-Enabled Drug Discovery Milestone in Collaboration with Bristol Myers Squibb",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/ai-can-dream-up-molecules-terray-develops-a-way-to-figure-out-which-ones-to-make",
+      "final_url": "https://www.terraytx.ai/news-and-research/ai-can-dream-up-molecules-terray-develops-a-way-to-figure-out-which-ones-to-make",
+      "status": 200,
+      "title": "AI can dream up molecules. Terray develops a way to figure out which ones to make",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence",
+      "final_url": "https://www.terraytx.ai/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence",
+      "status": 200,
+      "title": "Introducing EMMI: Where Experimentation Meets Machine Intelligence",
+      "parkhill": false,
+      "disposition": "Related Terray ML platform context; byline preserved",
+      "catalog_id": "terray-introducing-emmi-where-experimentation-meets-machine-intelligence"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/how-to-select-the-right-molecules-to-make-and-test",
+      "final_url": "https://www.terraytx.ai/news-and-research/how-to-select-the-right-molecules-to-make-and-test",
+      "status": 200,
+      "title": "How To Select The Right Molecules To Make And Test",
+      "parkhill": true,
+      "disposition": "John Parkhill byline",
+      "catalog_id": "terray-how-to-select-the-right-molecules-to-make-and-test"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/pretrained-joint-predictions-for-scalable-batch-bayesian-optimization-of-molecular-designs",
+      "final_url": "https://www.terraytx.ai/news-and-research/pretrained-joint-predictions-for-scalable-batch-bayesian-optimization-of-molecular-designs",
+      "status": 200,
+      "title": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs",
+      "parkhill": false,
+      "disposition": "scholarly link already cataloged",
+      "catalog_id": "W4416339368"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-expands-board-of-directors-with-appointment-of-biotechnology-leader-wendy-young-phd",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-expands-board-of-directors-with-appointment-of-biotechnology-leader-wendy-young-phd",
+      "status": 200,
+      "title": "Terray Therapeutics Expands Board of Directors with Appointment of Biotechnology Leader Wendy Young, Ph.D.",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-appoints-elliott-levy-md-to-scientific-advisory-board",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-appoints-elliott-levy-md-to-scientific-advisory-board",
+      "status": 200,
+      "title": "Terray Therapeutics Appoints Elliott Levy, MD, to Scientific Advisory Board",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/jacob-berlin-on-the-ai-powered-future-of-medicine",
+      "final_url": "https://www.terraytx.ai/news-and-research/jacob-berlin-on-the-ai-powered-future-of-medicine",
+      "status": 200,
+      "title": "Jacob Berlin on the AI-Powered Future of Medicine",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/gilead-and-terray-therapeutics-announce-multi-target-research-collaboration-to-discover-and-develop-novel-small-molecule-therapies",
+      "final_url": "https://www.terraytx.ai/news-and-research/gilead-and-terray-therapeutics-announce-multi-target-research-collaboration-to-discover-and-develop-novel-small-molecule-therapies",
+      "status": 200,
+      "title": "Gilead and Terray Therapeutics Announce Multi-Target Research Collaboration to Discover and Develop Novel Small Molecule Therapies",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/odyssey-therapeutics-and-terray-therapeutics-enter-strategic-collaboration-to-jointly-discover-and-develop-first-in-class-transcription-factor-therapies",
+      "final_url": "https://www.terraytx.ai/news-and-research/odyssey-therapeutics-and-terray-therapeutics-enter-strategic-collaboration-to-jointly-discover-and-develop-first-in-class-transcription-factor-therapies",
+      "status": 200,
+      "title": "Odyssey Therapeutics and Terray Therapeutics Enter Strategic Collaboration to Jointly Discover and Develop First-in-Class Transcription Factor Therapies",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-closes-oversubscribed-dollar120m-series-b-to-advance-its-generative-ai-pipeline-of-small-molecule-therapeutics-to-the-clinic",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-closes-oversubscribed-dollar120m-series-b-to-advance-its-generative-ai-pipeline-of-small-molecule-therapeutics-to-the-clinic",
+      "status": 200,
+      "title": "Terray Therapeutics Closes Oversubscribed $120M Series B to Advance Its Generative AI Pipeline of Small Molecule Therapeutics to the Clinic",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/latent-diffusion-for-conditional-generation-of-molecules",
+      "final_url": "https://www.terraytx.ai/news-and-research/latent-diffusion-for-conditional-generation-of-molecules",
+      "status": 200,
+      "title": "Latent Diffusion for Conditional Generation of Molecules",
+      "parkhill": false,
+      "disposition": "scholarly link already cataloged",
+      "catalog_id": "W4401828945"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/how-ai-is-revolutionizing-drug-development",
+      "final_url": "https://www.terraytx.ai/news-and-research/how-ai-is-revolutionizing-drug-development",
+      "status": 200,
+      "title": "How A.I. Is Revolutionizing Drug Development",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/the-difference-is-the-data-drug-discoverys-ai-revolution",
+      "final_url": "https://www.terraytx.ai/news-and-research/the-difference-is-the-data-drug-discoverys-ai-revolution",
+      "status": 200,
+      "title": "The Difference Is the Data: Drug Discovery\u2019s AI Revolution",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/coati-multimodal-contrastive-pretraining-for-representing-and-traversing-chemical-space",
+      "final_url": "https://www.terraytx.ai/news-and-research/coati-multimodal-contrastive-pretraining-for-representing-and-traversing-chemical-space",
+      "status": 200,
+      "title": "COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space",
+      "parkhill": false,
+      "disposition": "scholarly link already cataloged",
+      "catalog_id": "W4391568364"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-ceo-on-designing-computational-and-experimental-platforms-to-supercharge-small-molecule-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-ceo-on-designing-computational-and-experimental-platforms-to-supercharge-small-molecule-discovery",
+      "status": 200,
+      "title": "Terray Therapeutics' CEO on designing computational and experimental platforms to supercharge small molecule discovery",
+      "parkhill": false,
+      "disposition": "external news / no Parkhill byline"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-announces-multi-target-collaboration-with-bristol-myers-squibb",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-announces-multi-target-collaboration-with-bristol-myers-squibb",
+      "status": 200,
+      "title": "Terray Therapeutics Announces Multi-Target Collaboration with Bristol Myers Squibb",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-announces-investment-from-nvidia-to-enable-generative-ai-design-for-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-announces-investment-from-nvidia-to-enable-generative-ai-design-for-drug-discovery",
+      "status": 200,
+      "title": "Terray Therapeutics Announces Investment from NVIDIA to Enable Generative AI Design for Drug Discovery",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-appoints-john-maraganore-phd-as-strategic-advisor",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-appoints-john-maraganore-phd-as-strategic-advisor",
+      "status": 200,
+      "title": "Terray Therapeutics Appoints John Maraganore, Ph.D., as Strategic Advisor",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-strengthens-leadership-with-appointment-of-bassil-dahiyat-phd-as-board-independent-director",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-strengthens-leadership-with-appointment-of-bassil-dahiyat-phd-as-board-independent-director",
+      "status": 200,
+      "title": "Terray Therapeutics Strengthens Leadership with Appointment of Bassil Dahiyat, Ph.D., as Board Independent Director",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-and-calico-enter-into-a-multi-target-collaboration-to-discover-small-molecule-therapeutics-for-age-related-diseases",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-and-calico-enter-into-a-multi-target-collaboration-to-discover-small-molecule-therapeutics-for-age-related-diseases",
+      "status": 200,
+      "title": "Terray Therapeutics and Calico Enter into a Multi-Target Collaboration to Discover Small Molecule Therapeutics for Age-Related Diseases",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-expands-scientific-advisory-board-to-advance-ai-driven-small-molecule-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-expands-scientific-advisory-board-to-advance-ai-driven-small-molecule-drug-discovery",
+      "status": 200,
+      "title": "Terray Therapeutics Expands Scientific Advisory Board to Advance AI-Driven Small Molecule Drug Discovery",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-launches-with-dollar60m-to-deliver-premium-chemical-data-at-unrivaled-scale-unlocking-the-potential-of-ai-driven-small-molecule-drug-discovery",
+      "final_url": "https://www.terraytx.ai/news-and-research/terray-therapeutics-launches-with-dollar60m-to-deliver-premium-chemical-data-at-unrivaled-scale-unlocking-the-potential-of-ai-driven-small-molecule-drug-discovery",
+      "status": 200,
+      "title": "Terray Therapeutics Launches with $60M to Deliver Premium Chemical Data at Unrivaled Scale, Unlocking the Potential of AI-Driven Small Molecule Drug Discovery",
+      "parkhill": false,
+      "disposition": "No Parkhill byline or mention; unrelated company news"
+    },
+    {
+      "url": "https://www.terraytx.ai/insights/EpiNets-EMAX-how-to-select-the-right-molecules-to-make-and-test",
+      "final_url": "https://www.terraytx.ai/insights/EpiNets-EMAX-how-to-select-the-right-molecules-to-make-and-test",
+      "status": 200,
+      "title": "How To Select The Right Molecules To Make And Test",
+      "parkhill": true,
+      "disposition": "duplicate insights URL",
+      "catalog_id": "terray-how-to-select-the-right-molecules-to-make-and-test"
+    },
+    {
+      "url": "https://www.terraytx.ai/insights/introducing-emmi-where-experimentation-meets-machine-intelligence",
+      "final_url": "https://www.terraytx.ai/insights/introducing-emmi-where-experimentation-meets-machine-intelligence",
+      "status": 200,
+      "title": "Introducing EMMI: Where Experimentation Meets Machine Intelligence",
+      "parkhill": false,
+      "disposition": "duplicate insights URL",
+      "catalog_id": "terray-introducing-emmi-where-experimentation-meets-machine-intelligence"
+    },
+    {
+      "url": "https://www.terraytx.ai/insights/emmi-predict-terrabind",
+      "final_url": "https://www.terraytx.ai/insights/emmi-predict-terrabind",
+      "status": 200,
+      "title": "Introducing EMMI Predict: TerraBind",
+      "parkhill": true,
+      "disposition": "duplicate insights URL",
+      "catalog_id": "terray-introducing-emmi-predict-terrabind"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "crossref-author",
+      "doi": "10.1016/s0020-7837(73)80017-2",
+      "reason": "Different author / urban library publication in 1973"
+    },
+    {
+      "source": "openalex-orbital.txt",
+      "doi": "10.1080/00268976.2018.1448947",
+      "reason": "Exploratory DOI lookup resolved to unrelated authors; not used"
+    },
+    {
+      "source": "pubmed-search.txt",
+      "reason": "Initial-based query matched Julian Parkhill; all ten results excluded"
+    },
+    {
+      "source": "arxiv-all",
+      "reason": "Two other Parkhill authors, speech synthesis and visual-experience datasets; excluded"
+    }
+  ]
+}

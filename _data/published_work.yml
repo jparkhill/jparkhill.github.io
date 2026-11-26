@@ -1,0 +1,1967 @@
+- title: Papers & Preprints
+  id: papers
+  entries:
+  - id: W7128476783
+    source:
+    - openalex:W7128476783
+    - arxiv:2602.07735
+    - terray-research-index
+    - resume_pdf
+    - resume_tex
+    alternate_urls:
+    - https://raw.githubusercontent.com/mlresearch/v306/main/assets/rossi26a/rossi26a.pdf
+    - https://proceedings.mlr.press/v306/rossi26a.html
+    - https://arxiv.org/pdf/2602.07735
+    - http://arxiv.org/abs/2602.07735
+    - https://arxiv.org/abs/2602.07735v1
+    - https://www.terraytx.ai/news-and-research/terrabind-fast-and-accurate-binding-affinity-prediction-through-coarse-structural-representations
+    alternate_titles:
+    - 'TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations'
+    pdf_candidates:
+    - https://arxiv.org/pdf/2602.07735
+    - https://raw.githubusercontent.com/mlresearch/v306/main/assets/rossi26a/rossi26a.pdf
+    openalex_ids:
+    - W7128476783
+    title: 'TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations'
+    authors:
+    - Rossi, Matteo
+    - Pederson, Ryan
+    - Wang-Henderson, Miles
+    - Kaufman, Ben
+    - Williams, Edward C.
+    - Underkoffler, Carl
+    - Howell, Owen Lewis
+    - Layer, Adrian
+    - Thaler, Stephan
+    - Mardirossian, Narbe
+    - Parkhill, John Anthony
+    year: 2026
+    venue: International Conference on Machine Learning
+    url: https://doi.org/10.48550/arxiv.2602.07735
+    doi: 10.48550/arxiv.2602.07735
+    kind: conference-paper
+    oa_reported: true
+    pdf: /assets/published-work/papers/w7128476783.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W4416339368
+    source:
+    - openalex:W4416339368
+    - arxiv:2511.10590
+    - terray-research-index
+    - resume_pdf
+    - resume_tex
+    alternate_urls:
+    - https://arxiv.org/pdf/2511.10590
+    - http://arxiv.org/abs/2511.10590
+    - https://arxiv.org/abs/2511.10590v2
+    - https://www.terraytx.ai/news-and-research/pretrained-joint-predictions-for-scalable-batch-bayesian-optimization-of-molecular-designs
+    alternate_titles:
+    - Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs
+    pdf_candidates:
+    - https://arxiv.org/pdf/2511.10590
+    openalex_ids:
+    - W4416339368
+    title: Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs
+    authors:
+    - Wang-Henderson, Miles
+    - Kaufman, Benjamin
+    - Williams, Edward
+    - Pederson, Ryan
+    - Rossi, Matteo
+    - Howell, Owen
+    - Underkoffler, Carl
+    - Mardirossian, Narbe
+    - Parkhill, John
+    year: 2025
+    venue: arXiv
+    url: https://doi.org/10.48550/arxiv.2511.10590
+    doi: 10.48550/arxiv.2511.10590
+    kind: preprint
+    oa_reported: true
+    pdf: /assets/published-work/papers/w4416339368.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W4391568364
+    source:
+    - openalex:W4391568364
+    - crossref:10.1021/acs.jcim.3c01753
+    - crossref:10.26434/chemrxiv-2023-bdkgm
+    - terray-research-index
+    - resume_pdf
+    - resume_tex
+    alternate_urls:
+    - https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf
+    - https://doi.org/10.26434/chemrxiv-2023-bdkgm
+    - https://pubmed.ncbi.nlm.nih.gov/38316665
+    - https://www.terraytx.ai/news-and-research/coati-multimodal-contrastive-pretraining-for-representing-and-traversing-chemical-space
+    alternate_titles: []
+    pdf_candidates:
+    - https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf
+    openalex_ids:
+    - W4391568364
+    title: 'COATI: Multimodal Contrastive Pretraining for Representing and Traversing Chemical Space'
+    authors:
+    - Benjamin Kaufman
+    - Edward C. Williams
+    - Carl Underkoffler
+    - Ryan Pederson
+    - Narbe Mardirossian
+    - Ian Watson
+    - John Parkhill
+    year: 2024
+    venue: Journal of Chemical Information and Modeling
+    url: https://doi.org/10.1021/acs.jcim.3c01753
+    doi: 10.1021/acs.jcim.3c01753
+    kind: article
+    oa_reported: true
+    pdf_status: blocked
+    pdf_note: Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.
+  - id: W4401828945
+    source:
+    - openalex:W4401828945
+    - crossref:10.1101/2024.08.22.609169
+    - terray-research-index
+    - resume_pdf
+    - resume_tex
+    alternate_urls:
+    - https://www.biorxiv.org/content/biorxiv/early/2024/08/22/2024.08.22.609169.full.pdf
+    - https://www.terraytx.ai/news-and-research/latent-diffusion-for-conditional-generation-of-molecules
+    alternate_titles: []
+    pdf_candidates:
+    - https://www.biorxiv.org/content/biorxiv/early/2024/08/22/2024.08.22.609169.full.pdf
+    openalex_ids:
+    - W4401828945
+    title: Latent Diffusion for Conditional Generation of Molecules
+    authors:
+    - Benjamin Kaufman
+    - Edward C. Williams
+    - Ryan Pederson
+    - Carl Underkoffler
+    - Zahid Panjwani
+    - Miles Wang-Henderson
+    - Narbe Mardirossian
+    - Matthew H. Katcher
+    - Zack Strater
+    - Jean-Marc Grandjean
+    - Bryan Lee
+    - John Parkhill
+    year: 2024
+    venue: bioRxiv (Cold Spring Harbor Laboratory)
+    url: https://doi.org/10.1101/2024.08.22.609169
+    doi: 10.1101/2024.08.22.609169
+    kind: preprint
+    oa_reported: true
+    pdf: /assets/published-work/papers/w4401828945.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W3193988690
+    source:
+    - openalex:W3193988690
+    - crossref:10.1063/5.0055522
+    alternate_urls:
+    - https://aip.scitation.org/doi/pdf/10.1063/5.0055522
+    - https://nottingham-repository.worktribe.com/preview/6395461/Epifanovsky2021_Software%20for%20the%20frontiers%20of%20quantum%20chemistry.pdf
+    - https://ora.ox.ac.uk/objects/uuid:204d34bc-d34a-4955-bdb9-0402fdfb3fc2/files/r44558d840
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC9984241/
+    - https://pubmed.ncbi.nlm.nih.gov/34470363
+    - http://hdl.handle.net/10138/335096
+    - https://lirias.kuleuven.be/handle/123456789/681082
+    - https://research.rug.nl/en/publications/e8660781-79b4-4f4e-92e0-2dd90c54183b
+    - https://orca.cardiff.ac.uk/id/eprint/143847/1/5.0055522.pdf
+    - https://escholarship.org/content/qt8104w62b/qt8104w62b.pdf
+    - https://escholarship.org/uc/item/8104w62b
+    - https://orbilu.uni.lu/bitstream/10993/49352/1/5.0055522.pdf
+    - https://orbilu.uni.lu/handle/10993/49352
+    - https://authors.library.caltech.edu/110673/
+    - https://oasis.library.unlv.edu/chem_fac_articles/417
+    - https://scholarworks.utrgv.edu/chem_fac/147
+    - https://hdl.handle.net/11250/3690342
+    - http://hdl.handle.net/2078.1/289261
+    - https://hdl.handle.net/1721.1/141338
+    - https://figshare.com/articles/journal_contribution/Software_for_the_frontiers_of_quantum_chemistry_An_overview_of_developments_in_the_Q-Chem_5_package/16635184
+    - https://www.osti.gov/biblio/1825251
+    - https://publications.rwth-aachen.de/search?p=id:%22RWTH-2021-08781%22
+    - https://orbit.dtu.dk/en/publications/26ccfa56-a14c-4ef4-98ea-6de5a1483f6b
+    - https://archive-ouverte.unige.ch/unige:180195
+    - https://zenodo.org/record/5484917
+    alternate_titles: []
+    pdf_candidates:
+    - https://aip.scitation.org/doi/pdf/10.1063/5.0055522
+    - https://nottingham-repository.worktribe.com/preview/6395461/Epifanovsky2021_Software%20for%20the%20frontiers%20of%20quantum%20chemistry.pdf
+    - https://ora.ox.ac.uk/objects/uuid:204d34bc-d34a-4955-bdb9-0402fdfb3fc2/files/r44558d840
+    - https://escholarship.org/content/qt8104w62b/qt8104w62b.pdf
+    - https://orbilu.uni.lu/bitstream/10993/49352/1/5.0055522.pdf
+    - https://europepmc.org/articles/PMC9984241?pdf=render
+    openalex_ids:
+    - W3193988690
+    title: 'Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package'
+    authors:
+    - Evgeny Epifanovsky
+    - Andrew T. B. Gilbert
+    - Xintian Feng
+    - Joonho Lee
+    - Yuezhi Mao
+    - Narbe Mardirossian
+    - Pavel Pokhilko
+    - Alec F. White
+    - Marc P. Coons
+    - Adrian L. Dempwolff
+    - Zhengting Gan
+    - Diptarka Hait
+    - Paul R. Horn
+    - Leif D. Jacobson
+    - Ilya Kaliman
+    - Jörg Kussmann
+    - Adrian W. Lange
+    - Ka Un Lao
+    - Daniel S. Levine
+    - Jie Liu
+    - Simon C. McKenzie
+    - Adrian F. Morrison
+    - Kaushik D. Nanda
+    - Felix Plasser
+    - Dirk R. Rehn
+    - Marta L. Vidal
+    - Zhi-Qiang You
+    - Ying Zhu
+    - Bushra Alam
+    - Benjamin J. Albrecht
+    - Abdulrahman Aldossary
+    - Ethan Alguire
+    - Josefine H. Andersen
+    - Vishikh Athavale
+    - Dennis Barton
+    - Khadiza Begam
+    - Andrew Behn
+    - Nicole Bellonzi
+    - Yves A. Bernard
+    - Eric J. Berquist
+    - Hugh G. A. Burton
+    - Abel Carreras
+    - Kay Carter-Fenk
+    - Romit Chakraborty
+    - Alan D. Chien
+    - Kristina D. Closser
+    - Vale Cofer-Shabica
+    - Saswata Dasgupta
+    - Marc de Wergifosse
+    - Jia Deng
+    - Michael Diedenhofen
+    - Hainam Do
+    - Sebastian Ehlert
+    - Po-Tung Fang
+    - Shervin Fatehi
+    - Qingguo Feng
+    - Triet Friedhoff
+    - James Gayvert
+    - Qinghui Ge
+    - Gergely Gidofalvi
+    - Matthew Goldey
+    - Joe Gomes
+    - Cristina E. González-Espinoza
+    - Sahil Gulania
+    - Anastasia O. Gunina
+    - Magnus W. D. Hanson-Heine
+    - Phillip H. P. Harbach
+    - Andreas Hauser
+    - Michael F. Herbst
+    - Mario Hernández Vera
+    - Manuel Hodecker
+    - Zachary C. Holden
+    - Shannon Houck
+    - Xunkun Huang
+    - Kerwin Hui
+    - Bang C. Huynh
+    - Maxim Ivanov
+    - Ádám Jász
+    - Hyunjun Ji
+    - Hanjie Jiang
+    - Benjamin Kaduk
+    - Sven Kähler
+    - Kirill Khistyaev
+    - Jaehoon Kim
+    - Gergely Kis
+    - Phil Klunzinger
+    - Zsuzsanna Koczor-Benda
+    - Joong Hoon Koh
+    - Dimitri Kosenkov
+    - Laura Koulias
+    - Tim Kowalczyk
+    - Caroline M. Krauter
+    - Karl Kue
+    - Alexander Kunitsa
+    - Thomas Kus
+    - István Ladjánszki
+    - Arie Landau
+    - Keith V. Lawler
+    - Daniel Lefrancois
+    - Susi Lehtola
+    - Run R. Li
+    - Yi-Pei Li
+    - Jiashu Liang
+    - Marcus Liebenthal
+    - Hung-Hsuan Lin
+    - You-Sheng Lin
+    - Fenglai Liu
+    - Kuan-Yu Liu
+    - Matthias Loipersberger
+    - Arne Luenser
+    - Aaditya Manjanath
+    - Prashant Manohar
+    - Erum Mansoor
+    - Sam F. Manzer
+    - Shan-Ping Mao
+    - Aleksandr V. Marenich
+    - Thomas Markovich
+    - Stephen Mason
+    - Simon A. Maurer
+    - Peter F. McLaughlin
+    - Maximilian F. S. J. Menger
+    - Jan-Michael Mewes
+    - Stefanie A. Mewes
+    - Pierpaolo Morgante
+    - J. Wayne Mullinax
+    - Katherine J. Oosterbaan
+    - Garrette Paran
+    - Alexander C. Paul
+    - Suranjan K. Paul
+    - Fabijan Pavošević
+    - Zheng Pei
+    - Stefan Prager
+    - Emil I. Proynov
+    - Ádám Rák
+    - Eloy Ramos-Cordoba
+    - Bhaskar Rana
+    - Alan E. Rask
+    - Adam Rettig
+    - Ryan M. Richard
+    - Fazle Rob
+    - Elliot Rossomme
+    - Tarek Scheele
+    - Maximilian Scheurer
+    - Matthias Schneider
+    - Nickolai Sergueev
+    - Shaama M. Sharada
+    - Wojciech Skomorowski
+    - David W. Small
+    - Christopher J. Stein
+    - Yu-Chuan Su
+    - Eric J. Sundstrom
+    - Zhen Tao
+    - Jonathan Thirman
+    - Gábor J. Tornai
+    - Takashi Tsuchimochi
+    - Norm M. Tubman
+    - Srimukh Prasad Veccham
+    - Oleg Vydrov
+    - Jan Wenzel
+    - Jon Witte
+    - Atsushi Yamada
+    - Kun Yao
+    - Sina Yeganeh
+    - Shane R. Yost
+    - Alexander Zech
+    - Igor Ying Zhang
+    - Xing Zhang
+    - Yu Zhang
+    - Dmitry Zuev
+    - Alán Aspuru-Guzik
+    - Alexis T. Bell
+    - Nicholas A. Besley
+    - Ksenia B. Bravaya
+    - Bernard R. Brooks
+    - David Casanova
+    - Jeng-Da Chai
+    - Sonia Coriani
+    - Christopher J. Cramer
+    - György Cserey
+    - A. Eugene DePrince
+    - Robert A. DiStasio
+    - Andreas Dreuw
+    - Barry D. Dunietz
+    - Thomas R. Furlani
+    - William A. Goddard
+    - Sharon Hammes-Schiffer
+    - Teresa Head-Gordon
+    - Warren J. Hehre
+    - Chao-Ping Hsu
+    - Thomas-C. Jagau
+    - Yousung Jung
+    - Andreas Klamt
+    - Jing Kong
+    - Daniel S. Lambrecht
+    - WanZhen Liang
+    - Nicholas J. Mayhall
+    - C. William McCurdy
+    - Jeffrey B. Neaton
+    - Christian Ochsenfeld
+    - John A. Parkhill
+    - Roberto Peverati
+    - Vitaly A. Rassolov
+    - Yihan Shao
+    - Lyudmila V. Slipchenko
+    - Tim Stauch
+    - Ryan P. Steele
+    - Joseph E. Subotnik
+    - Alex J. W. Thom
+    - Alexandre Tkatchenko
+    - Donald G. Truhlar
+    - Troy Van Voorhis
+    - Tomasz A. Wesolowski
+    - K. Birgitta Whaley
+    - H. Lee Woodcock
+    - Paul M. Zimmerman
+    - Shirin Faraji
+    - Peter M. W. Gill
+    - Martin Head-Gordon
+    - John M. Herbert
+    - Anna I. Krylov
+    year: 2021
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/5.0055522
+    doi: 10.1063/5.0055522
+    kind: article
+    oa_reported: true
+    author_list_source: Crossref complete author list (OpenAlex truncates at 100 authors)
+    pdf: /assets/published-work/papers/w3193988690.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2899038370
+    source:
+    - openalex:W2899038370
+    - crossref:10.1063/1.5108803
+    - arxiv:1811.00123
+    - orcid:60795874
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/31470722
+    - https://arxiv.org/pdf/1811.00123
+    - http://arxiv.org/abs/1811.00123
+    - https://arxiv.org/abs/1811.00123v1
+    alternate_titles:
+    - Compressing physical properties of atomic species for improving predictive chemistry
+    pdf_candidates:
+    - https://arxiv.org/pdf/1811.00123
+    openalex_ids:
+    - W2899038370
+    title: 'Compressing physics with an autoencoder: Creating an atomic species representation to improve machine
+      learning models in the chemical sciences'
+    authors:
+    - John E. Herr
+    - Kevin Koh
+    - Kun Yao
+    - John Parkhill
+    year: 2019
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.5108803
+    doi: 10.1063/1.5108803
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2899038370.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2906385732
+    source:
+    - openalex:W2906385732
+    - crossref:10.1039/c8dt04528c
+    - orcid:52471548
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/30628607
+    alternate_titles:
+    - "On the border between localization and delocalization: tris(iminoxolene)titanium(\n                    iv\n\
+      \                    )"
+    pdf_candidates: []
+    openalex_ids:
+    - W2906385732
+    title: 'On the border between localization and delocalization: tris(iminoxolene)titanium(iv)'
+    authors:
+    - Travis Marshall-Roth
+    - Kun Yao
+    - John A. Parkhill
+    - Seth N. Brown
+    year: 2019
+    venue: Dalton Transactions
+    url: https://doi.org/10.1039/c8dt04528c
+    doi: 10.1039/c8dt04528c
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2779474077
+    source:
+    - openalex:W2779474077
+    - crossref:10.1063/1.5020067
+    - arxiv:1712.07240
+    - orcid:42669400
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/29960377
+    - https://arxiv.org/pdf/1712.07240
+    - http://arxiv.org/abs/1712.07240
+    - https://arxiv.org/abs/1712.07240v1
+    alternate_titles:
+    - 'Metadynamics for Training Neural Network Model Chemistries: a Competitive Assessment'
+    pdf_candidates:
+    - https://arxiv.org/pdf/1712.07240
+    openalex_ids:
+    - W2779474077
+    title: 'Metadynamics for training neural network model chemistries: A competitive assessment'
+    authors:
+    - John E. Herr
+    - Kun Yao
+    - Ryker McIntyre
+    - David W. Toth
+    - John Parkhill
+    year: 2018
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.5020067
+    doi: 10.1063/1.5020067
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2779474077.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2768213699
+    source:
+    - openalex:W2768213699
+    - crossref:10.1039/c7sc04934j
+    - arxiv:1711.06385
+    - orcid:41094637
+    alternate_urls:
+    - https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc04934j
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/5897848
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC5897848/
+    - https://pubmed.ncbi.nlm.nih.gov/29719699
+    - https://arxiv.org/pdf/1711.06385
+    - http://arxiv.org/abs/1711.06385
+    - https://arxiv.org/abs/1711.06385v2
+    alternate_titles:
+    - 'The TensorMol-0.1 Model Chemistry: a Neural Network Augmented with Long-Range Physics'
+    pdf_candidates:
+    - https://arxiv.org/pdf/1711.06385
+    - https://pubs.rsc.org/en/content/articlepdf/2018/sc/c7sc04934j
+    - https://europepmc.org/articles/PMC5897848?pdf=render
+    openalex_ids:
+    - W2768213699
+    title: 'The TensorMol-0.1 model chemistry: a neural network augmented with long-range physics'
+    authors:
+    - Kun Yao
+    - John E. Herr
+    - David W. Toth
+    - Ryker Mckintyre
+    - John Parkhill
+    year: 2018
+    venue: Chemical Science
+    url: https://doi.org/10.1039/c7sc04934j
+    doi: 10.1039/c7sc04934j
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2768213699.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2738892235
+    source:
+    - openalex:W2738892235
+    - crossref:10.1021/acs.jctc.7b00494
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/28723221
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2738892235
+    title: Accelerating Realtime TDDFT with Block-Orthogonalized Manby–Miller Embedding Theory
+    authors:
+    - Kevin J. Koh
+    - Triet S. Nguyen-Beck
+    - John Parkhill
+    year: 2017
+    venue: Journal of Chemical Theory and Computation
+    url: https://doi.org/10.1021/acs.jctc.7b00494
+    doi: 10.1021/acs.jctc.7b00494
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2573441567
+    source:
+    - openalex:W2573441567
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/28180214
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC5325176/
+    alternate_titles: []
+    pdf_candidates:
+    - https://europepmc.org/articles/PMC5325176?pdf=render
+    openalex_ids:
+    - W2573441567
+    title: Detection of electron tunneling across plasmonic nanoparticle–film junctions using nitrile vibrations
+    authors:
+    - Hao Wang
+    - Kun Yao
+    - John A. Parkhill
+    - Zachary D. Schultz
+    year: 2017
+    venue: Physical Chemistry Chemical Physics
+    url: https://doi.org/10.1039/c6cp08168a
+    doi: 10.1039/c6cp08168a
+    kind: article
+    oa_reported: true
+    pdf_status: blocked
+    pdf_note: Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.
+  - id: W2620906374
+    source:
+    - openalex:W2620906374
+    - openalex:W2731573197
+    - crossref:10.1021/acs.jpclett.7b01072
+    - arxiv:1703.08640
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/28573865
+    - https://doi.org/10.48550/arxiv.1703.08640
+    - https://arxiv.org/pdf/1703.08640
+    - http://arxiv.org/abs/1703.08640
+    - https://arxiv.org/abs/1703.08640v5
+    alternate_titles:
+    - Bond Energies from a Diatomics-in-Molecules Neural Network
+    pdf_candidates:
+    - https://arxiv.org/pdf/1703.08640
+    openalex_ids:
+    - W2620906374
+    - W2731573197
+    title: Intrinsic Bond Energies from a Bonds-in-Molecules Neural Network
+    authors:
+    - Kun Yao
+    - John E. Herr
+    - Seth N. Brown
+    - John Parkhill
+    year: 2017
+    venue: The Journal of Physical Chemistry Letters
+    url: https://doi.org/10.1021/acs.jpclett.7b01072
+    doi: 10.1021/acs.jpclett.7b01072
+    kind: article
+    oa_reported: false
+    pdf: /assets/published-work/papers/w2620906374.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2611266782
+    source:
+    - openalex:W2611266782
+    - crossref:10.1080/00268976.2017.1342009
+    - arxiv:1705.01678
+    alternate_urls:
+    - https://arxiv.org/pdf/1705.01678
+    - http://arxiv.org/abs/1705.01678
+    - https://www.osti.gov/servlets/purl/1899328
+    - https://www.osti.gov/biblio/1899328
+    - https://escholarship.org/uc/item/3759x75h
+    - https://arxiv.org/abs/1705.01678v3
+    alternate_titles:
+    - Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear
+      polyacenes
+    pdf_candidates:
+    - https://arxiv.org/pdf/1705.01678
+    - https://www.osti.gov/servlets/purl/1899328
+    openalex_ids:
+    - W2611266782
+    title: 'Orbital optimisation in the perfect pairing hierarchy: applications to full-valence calculations on
+      linear polyacenes'
+    authors:
+    - Susi Lehtola
+    - John Parkhill
+    - Martin Head-Gordon
+    year: 2017
+    venue: Molecular Physics
+    url: https://doi.org/10.1080/00268976.2017.1342009
+    doi: 10.1080/00268976.2017.1342009
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2611266782.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2745140596
+    source:
+    - openalex:W2745140596
+    - resume_pdf
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/28772067
+    - https://www.osti.gov/servlets/purl/1535024
+    - https://www.osti.gov/biblio/1535024
+    alternate_titles: []
+    pdf_candidates:
+    - https://www.osti.gov/servlets/purl/1535024
+    openalex_ids:
+    - W2745140596
+    title: Origin of the Size-Dependent Stokes Shift in CsPbBr 3 Perovskite Nanocrystals
+    authors:
+    - Michael C. Brennan
+    - John E. Herr
+    - Triet S. Nguyen-Beck
+    - Jessica Zinna
+    - Sergiu Draguta
+    - Sergei Rouvimov
+    - John Parkhill
+    - Masaru Kuno
+    year: 2017
+    venue: Journal of the American Chemical Society
+    url: https://doi.org/10.1021/jacs.7b05683
+    doi: 10.1021/jacs.7b05683
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2745140596.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2526734845
+    source:
+    - openalex:W2526734845
+    - crossref:10.1063/1.4973380
+    - arxiv:1609.07072
+    - orcid:29227346
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/28063436
+    - https://arxiv.org/pdf/1609.07072
+    - http://arxiv.org/abs/1609.07072
+    - https://arxiv.org/abs/1609.07072v1
+    alternate_titles:
+    - The Many-Body Expansion Combined with Neural Networks
+    pdf_candidates:
+    - https://arxiv.org/pdf/1609.07072
+    openalex_ids:
+    - W2526734845
+    title: The many-body expansion combined with neural networks
+    authors:
+    - Kun Yao
+    - John E. Herr
+    - John Parkhill
+    year: 2017
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.4973380
+    doi: 10.1063/1.4973380
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2526734845.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2511615933
+    source:
+    - openalex:W2511615933
+    - arxiv:1307.4407
+    alternate_urls:
+    - https://arxiv.org/pdf/1307.4407
+    - http://arxiv.org/abs/1307.4407
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:22801842
+    - https://arxiv.org/abs/1307.4407v1
+    alternate_titles:
+    - More accurate and efficient bath spectral densities from super-resolution
+    pdf_candidates:
+    - https://arxiv.org/pdf/1307.4407
+    openalex_ids:
+    - W2511615933
+    title: Accelerating the computation of bath spectral densities with super-resolution
+    authors:
+    - Thomas Markovich
+    - Samuel M. Blau
+    - John Parkhill
+    - Christoph Kreisbeck
+    - Jacob N. Sanders
+    - Xavier Andrade
+    - Alán Aspuru-Guzik
+    year: 2016
+    venue: Theoretical Chemistry Accounts
+    url: https://doi.org/10.1007/s00214-016-1954-1
+    doi: 10.1007/s00214-016-1954-1
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2511615933.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2330580962
+    source:
+    - openalex:W2330580962
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/27064028
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2330580962
+    title: Black-Box, Real-Time Simulations of Transient Absorption Spectroscopy
+    authors:
+    - Triet S. Nguyen
+    - Joong Hoon Koh
+    - Susan Lefelhocz
+    - John Parkhill
+    year: 2016
+    venue: The Journal of Physical Chemistry Letters
+    url: https://doi.org/10.1021/acs.jpclett.6b00421
+    doi: 10.1021/acs.jpclett.6b00421
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2513225733
+    source:
+    - openalex:W2513225733
+    - crossref:10.1063/1.4964317
+    - arxiv:1609.00077
+    - orcid:27246872
+    alternate_urls:
+    - https://aip.scitation.org/doi/pdf/10.1063/1.4964317
+    - https://pubmed.ncbi.nlm.nih.gov/27782439
+    - https://arxiv.org/pdf/1609.00077
+    - http://arxiv.org/abs/1609.00077
+    - https://escholarship.org/content/qt3c33d6zr/qt3c33d6zr.pdf
+    - https://escholarship.org/uc/item/3c33d6zr
+    - https://www.osti.gov/servlets/purl/1436139
+    - https://www.osti.gov/biblio/1328222
+    - https://www.osti.gov/biblio/1436139
+    - http://www.escholarship.org/uc/item/3c33d6zr
+    - https://arxiv.org/abs/1609.00077v1
+    alternate_titles:
+    - 'Cost-effective description of strong correlation: efficient implementations of the perfect quadruples and
+      perfect hextuples models'
+    pdf_candidates:
+    - https://arxiv.org/pdf/1609.00077
+    - https://aip.scitation.org/doi/pdf/10.1063/1.4964317
+    - https://escholarship.org/content/qt3c33d6zr/qt3c33d6zr.pdf
+    - https://www.osti.gov/servlets/purl/1436139
+    openalex_ids:
+    - W2513225733
+    title: 'Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples
+      and perfect hextuples models'
+    authors:
+    - Susi Lehtola
+    - John Parkhill
+    - Martin Head-Gordon
+    year: 2016
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.4964317
+    doi: 10.1063/1.4964317
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2513225733.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W1911433256
+    source:
+    - openalex:W1911433256
+    - crossref:10.1021/acs.jctc.5b01011
+    - arxiv:1509.00062
+    - resume_pdf
+    - resume_tex
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/26812530
+    - https://arxiv.org/pdf/1509.00062
+    - http://arxiv.org/abs/1509.00062
+    - https://arxiv.org/abs/1509.00062v1
+    alternate_titles:
+    - The Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks
+    pdf_candidates:
+    - https://arxiv.org/pdf/1509.00062
+    openalex_ids:
+    - W1911433256
+    title: Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks
+    authors:
+    - Kun Yao
+    - John Parkhill
+    year: 2016
+    venue: Journal of Chemical Theory and Computation
+    url: https://doi.org/10.1021/acs.jctc.5b01011
+    doi: 10.1021/acs.jctc.5b01011
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w1911433256.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2513949554
+    source:
+    - openalex:W2513949554
+    - crossref:10.1021/acs.jpca.6b06937
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/27523194
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2513949554
+    title: 'Nonradiative Relaxation in Real-Time Electronic Dynamics OSCF2: Organolead Triiodide Perovskite'
+    authors:
+    - Triet S. Nguyen
+    - John Parkhill
+    year: 2016
+    venue: The Journal of Physical Chemistry A
+    url: https://doi.org/10.1021/acs.jpca.6b06937
+    doi: 10.1021/acs.jpca.6b06937
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2069236402
+    source:
+    - openalex:W2069236402
+    - crossref:10.1063/1.4916822
+    - arxiv:1411.5324
+    - orcid:21894241
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/25854234
+    - https://arxiv.org/pdf/1411.5324
+    - http://arxiv.org/abs/1411.5324
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.764.514
+    - https://arxiv.org/abs/1411.5324v2
+    alternate_titles:
+    - How Electronic Dynamics with Pauli Exclusion Produces Fermi-Dirac Statistics
+    pdf_candidates:
+    - https://arxiv.org/pdf/1411.5324
+    openalex_ids:
+    - W2069236402
+    title: How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics
+    authors:
+    - Triet S. Nguyen
+    - Ravindra Nanguneri
+    - John Parkhill
+    year: 2015
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.4916822
+    doi: 10.1063/1.4916822
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2069236402.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2294453824
+    source:
+    - openalex:W2294453824
+    - crossref:10.1021/acs.jctc.5b00262
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/26575729
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2294453824
+    title: 'Nonadiabatic Dynamics for Electrons at Second-Order: Real-Time TDDFT and OSCF2'
+    authors:
+    - Triet S. Nguyen
+    - John Parkhill
+    year: 2015
+    venue: Journal of Chemical Theory and Computation
+    url: https://doi.org/10.1021/acs.jctc.5b00262
+    doi: 10.1021/acs.jctc.5b00262
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2026172453
+    source:
+    - openalex:W2026172453
+    - crossref:10.1080/00268976.2014.952696
+    - orcid:21894244
+    alternate_urls:
+    - http://hdl.handle.net/1854/LU-8604977
+    - https://kclpure.kcl.ac.uk/portal/en/publications/a44bf8c8-0a49-4ac2-af73-b6d9f3c52485
+    - https://hdl.handle.net/2152.6/929
+    - https://scholarworks.utrgv.edu/context/chem_fac/article/1000/viewcontent/qchem4_resubmitted.pdf
+    - https://scholarworks.utrgv.edu/chem_fac/8
+    - https://resolver.caltech.edu/CaltechAUTHORS:20150120-085938139
+    - https://authors.library.caltech.edu/73297/
+    - https://lib.dr.iastate.edu/chem_pubs/640
+    - https://scholarlycommons.pacific.edu/cop-facarticles/201
+    - https://hal.science/hal-01389004
+    - https://escholarship.org/uc/item/9wn3w79b
+    - http://hdl.handle.net/10722/231093
+    - https://oasis.postech.ac.kr/handle/2014.oak/35849
+    - http://hdl.handle.net/1885/13864
+    - http://www.escholarship.org/uc/item/9wn3w79b
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.708.8222
+    alternate_titles: []
+    pdf_candidates:
+    - https://scholarworks.utrgv.edu/context/chem_fac/article/1000/viewcontent/qchem4_resubmitted.pdf
+    - https://web.phys.ntu.edu.tw/jdchai/Papers/p27.pdf
+    openalex_ids:
+    - W2026172453
+    title: Advances in molecular quantum chemistry contained in the Q-Chem 4 program package
+    authors:
+    - Yihan Shao
+    - Zhengting Gan
+    - Evgeny Epifanovsky
+    - Andrew T.B. Gilbert
+    - Michael Wormit
+    - Joerg Kussmann
+    - Adrian W. Lange
+    - Andrew Behn
+    - Jia Deng
+    - Xintian Feng
+    - Debashree Ghosh
+    - Matthew Goldey
+    - Paul R. Horn
+    - Leif D. Jacobson
+    - Ilya Kaliman
+    - Rustam Z. Khaliullin
+    - Tomasz Kuś
+    - Arie Landau
+    - Jie Liu
+    - Emil I. Proynov
+    - Young Min Rhee
+    - Ryan M. Richard
+    - Mary A. Rohrdanz
+    - Ryan P. Steele
+    - Eric J. Sundstrom
+    - H. Lee Woodcock
+    - Paul M. Zimmerman
+    - Dmitry Zuev
+    - Ben Albrecht
+    - Ethan Alguire
+    - Brian Austin
+    - Gregory J. O. Beran
+    - Yves A. Bernard
+    - Eric Berquist
+    - Kai Brandhorst
+    - Ksenia B. Bravaya
+    - Shawn T. Brown
+    - David Casanova
+    - Chun-Min Chang
+    - Yunqing Chen
+    - Siu Hung Chien
+    - Kristina D. Closser
+    - Deborah L. Crittenden
+    - Michael Diedenhofen
+    - Robert A. DiStasio
+    - Hainam Do
+    - Anthony D. Dutoi
+    - Richard G. Edgar
+    - Shervin Fatehi
+    - Laszlo Fusti-Molnar
+    - An Ghysels
+    - Anna Golubeva-Zadorozhnaya
+    - Joseph Gomes
+    - Magnus W.D. Hanson-Heine
+    - Philipp H.P. Harbach
+    - Andreas W. Hauser
+    - Edward G. Hohenstein
+    - Zachary C. Holden
+    - Thomas-C. Jagau
+    - Hyunjun Ji
+    - Benjamin Kaduk
+    - Kirill Khistyaev
+    - Jaehoon Kim
+    - Jihan Kim
+    - Rollin A. King
+    - Phil Klunzinger
+    - Dmytro Kosenkov
+    - Tim Kowalczyk
+    - Caroline M. Krauter
+    - Ka Un Lao
+    - Adèle D. Laurent
+    - Keith V. Lawler
+    - Sergey V. Levchenko
+    - Ching Yeh Lin
+    - Fenglai Liu
+    - Ester Livshits
+    - Rohini C. Lochan
+    - Arne Luenser
+    - Prashant Manohar
+    - Samuel F. Manzer
+    - Shan-Ping Mao
+    - Narbe Mardirossian
+    - Aleksandr V. Marenich
+    - Simon A. Maurer
+    - Nicholas J. Mayhall
+    - Eric Neuscamman
+    - C. Melania Oana
+    - Roberto Olivares-Amaya
+    - Darragh P. O’Neill
+    - John A. Parkhill
+    - Trilisa M. Perrine
+    - Roberto Peverati
+    - Alexander Prociuk
+    - Dirk R. Rehn
+    - Edina Rosta
+    - Nicholas J. Russ
+    - Shaama M. Sharada
+    - Sandeep Sharma
+    - David W. Small
+    - Alexander Sodt
+    - Tamar Stein
+    - David Stück
+    - Yu-Chuan Su
+    - Alex J.W. Thom
+    - Takashi Tsuchimochi
+    - Vitalii Vanovschi
+    - Leslie Vogt
+    - Oleg Vydrov
+    - Tao Wang
+    - Mark A. Watson
+    - Jan Wenzel
+    - Alec White
+    - Christopher F. Williams
+    - Jun Yang
+    - Sina Yeganeh
+    - Shane R. Yost
+    - Zhi-Qiang You
+    - Igor Ying Zhang
+    - Xing Zhang
+    - Yan Zhao
+    - Bernard R. Brooks
+    - Garnet K.L. Chan
+    - Daniel M. Chipman
+    - Christopher J. Cramer
+    - William A. Goddard
+    - Mark S. Gordon
+    - Warren J. Hehre
+    - Andreas Klamt
+    - Henry F. Schaefer
+    - Michael W. Schmidt
+    - C. David Sherrill
+    - Donald G. Truhlar
+    - Arieh Warshel
+    - Xin Xu
+    - Alán Aspuru-Guzik
+    - Roi Baer
+    - Alexis T. Bell
+    - Nicholas A. Besley
+    - Jeng-Da Chai
+    - Andreas Dreuw
+    - Barry D. Dunietz
+    - Thomas R. Furlani
+    - Steven R. Gwaltney
+    - Chao-Ping Hsu
+    - Yousung Jung
+    - Jing Kong
+    - Daniel S. Lambrecht
+    - WanZhen Liang
+    - Christian Ochsenfeld
+    - Vitaly A. Rassolov
+    - Lyudmila V. Slipchenko
+    - Joseph E. Subotnik
+    - Troy Van Voorhis
+    - John M. Herbert
+    - Anna I. Krylov
+    - Peter M.W. Gill
+    - Martin Head-Gordon
+    year: 2014
+    venue: Molecular Physics
+    url: https://doi.org/10.1080/00268976.2014.952696
+    doi: 10.1080/00268976.2014.952696
+    kind: article
+    oa_reported: true
+    author_list_source: Crossref complete author list (OpenAlex truncates at 100 authors)
+    pdf: /assets/published-work/papers/w2026172453.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W1650659216
+    source:
+    - openalex:W1650659216
+    - arxiv:1411.1110
+    alternate_urls:
+    - https://arxiv.org/pdf/1411.1110
+    - http://arxiv.org/abs/1411.1110
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.762.201
+    - https://arxiv.org/abs/1411.1110v1
+    alternate_titles:
+    - Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$
+    pdf_candidates:
+    - https://arxiv.org/pdf/1411.1110
+    openalex_ids:
+    - W1650659216
+    title: Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$
+    authors:
+    - Nanguneri, Ravindra
+    - Parkhill, John
+    year: 2014
+    venue: arXiv
+    url: https://doi.org/10.48550/arxiv.1411.1110
+    doi: 10.48550/arxiv.1411.1110
+    kind: preprint
+    oa_reported: true
+    pdf: /assets/published-work/papers/w1650659216.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2138441913
+    source:
+    - openalex:W2138441913
+    - arxiv:1301.2326
+    alternate_urls:
+    - https://www.ncbi.nlm.nih.gov/pmc/articles/3799300
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC3799300/
+    - https://pubmed.ncbi.nlm.nih.gov/24062428
+    - https://arxiv.org/pdf/1301.2326
+    - http://arxiv.org/abs/1301.2326
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:10245887
+    - https://arxiv.org/abs/1301.2326v2
+    alternate_titles:
+    - Feynman's clock, a new variational principle, and parallel-in-time quantum dynamics
+    pdf_candidates:
+    - https://arxiv.org/pdf/1301.2326
+    - https://europepmc.org/articles/PMC3799300?pdf=render
+    openalex_ids:
+    - W2138441913
+    title: Feynman’s clock, a new variational principle, and parallel-in-time quantum dynamics
+    authors:
+    - Jarrod R. McClean
+    - John A. Parkhill
+    - Alán Aspuru-Guzik
+    year: 2013
+    venue: Proceedings of the National Academy of Sciences
+    url: https://doi.org/10.1073/pnas.1308069110
+    doi: 10.1073/pnas.1308069110
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2138441913.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2032893827
+    source:
+    - openalex:W2032893827
+    - crossref:10.3389/fchem.2013.00026
+    - arxiv:1306.4332
+    - orcid:21894210
+    alternate_urls:
+    - https://www.frontiersin.org/articles/10.3389/fchem.2013.00026/pdf
+    - http://europepmc.org/articles/PMC3982527
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC3982527/
+    - https://pubmed.ncbi.nlm.nih.gov/24790954
+    - https://arxiv.org/pdf/1306.4332
+    - http://arxiv.org/abs/1306.4332
+    - http://arxiv.org/pdf/1306.4332.pdf
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:12152888
+    - https://doaj.org/article/16bd4003568046a5a328d84f424cac86
+    - https://arxiv.org/abs/1306.4332v1
+    alternate_titles:
+    - 'Force-Field Functor Theory: Classical Force-Fields which Reproduce Equilibrium Quantum Distributions'
+    pdf_candidates:
+    - https://arxiv.org/pdf/1306.4332
+    - https://www.frontiersin.org/articles/10.3389/fchem.2013.00026/pdf
+    - https://europepmc.org/articles/PMC3982527?pdf=render
+    openalex_ids:
+    - W2032893827
+    title: 'Force-field functor theory: classical force-fields which reproduce equilibrium quantum distributions'
+    authors:
+    - Ryan Babbush
+    - John Parkhill
+    - Alán Aspuru-Guzik
+    year: 2013
+    venue: Frontiers in Chemistry
+    url: https://doi.org/10.3389/fchem.2013.00026
+    doi: 10.3389/fchem.2013.00026
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2032893827.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2017309665
+    source:
+    - openalex:W2017309665
+    - crossref:10.3389/fchem.2013.00033
+    alternate_urls:
+    - https://www.frontiersin.org/articles/10.3389/fchem.2013.00033/pdf
+    - http://europepmc.org/articles/PMC3982561
+    - https://pmc.ncbi.nlm.nih.gov/articles/PMC3982561/
+    - https://pubmed.ncbi.nlm.nih.gov/24790961
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:12152889
+    - https://doaj.org/article/5a95461c80f04309bfbe6af0df8dc80a
+    alternate_titles: []
+    pdf_candidates:
+    - https://www.frontiersin.org/articles/10.3389/fchem.2013.00033/pdf
+    - https://europepmc.org/articles/PMC3982561?pdf=render
+    openalex_ids:
+    - W2017309665
+    title: 'Response to Commentary on “Force-field functor theory: classical force-fields which reproduce equilibrium
+      quantum distributions”'
+    authors:
+    - Ryan Babbush
+    - John A. Parkhill
+    - Alán Aspuru-Guzik
+    year: 2013
+    venue: Frontiers in Chemistry
+    url: https://doi.org/10.3389/fchem.2013.00033
+    doi: 10.3389/fchem.2013.00033
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2017309665.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2130221969
+    source:
+    - openalex:W2130221969
+    - arxiv:1206.2567
+    - orcid:21894246
+    alternate_urls:
+    - https://aip.scitation.org/doi/pdf/10.1063/1.4762441
+    - https://pubmed.ncbi.nlm.nih.gov/23249084
+    - https://arxiv.org/pdf/1206.2567
+    - http://arxiv.org/abs/1206.2567
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:11639528
+    - https://arxiv.org/abs/1206.2567v2
+    alternate_titles:
+    - 'A correlated-polaron electronic propagator: open electronic dynamics beyond the Born-Oppenheimer approximation'
+    pdf_candidates:
+    - https://arxiv.org/pdf/1206.2567
+    - https://aip.scitation.org/doi/pdf/10.1063/1.4762441
+    openalex_ids:
+    - W2130221969
+    title: 'A correlated-polaron electronic propagator: Open electronic dynamics beyond the Born-Oppenheimer approximation'
+    authors:
+    - John A. Parkhill
+    - Thomas Markovich
+    - David G. Tempel
+    - Alan Aspuru-Guzik
+    year: 2012
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.4762441
+    doi: 10.1063/1.4762441
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2130221969.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2150504126
+    source:
+    - openalex:W3105032437
+    - openalex:W2150504126
+    - crossref:10.1063/1.3689858
+    - arxiv:1112.1665
+    - orcid:21894254
+    alternate_urls:
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:8514994
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.759.1483
+    - https://pubmed.ncbi.nlm.nih.gov/22423851
+    - https://arxiv.org/pdf/1112.1665
+    - http://arxiv.org/abs/1112.1665
+    - https://arxiv.org/abs/1112.1665v2
+    alternate_titles:
+    - Exciton Coherence Lifetimes from Electronic Structure
+    - Exciton coherence lifetimes from electronic structure
+    pdf_candidates:
+    - https://arxiv.org/pdf/1112.1665
+    openalex_ids:
+    - W3105032437
+    - W2150504126
+    title: Exciton coherence lifetimes from electronic structure
+    authors:
+    - John A. Parkhill
+    - David G. Tempel
+    - Alan Aspuru-Guzik
+    year: 2012
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3689858
+    doi: 10.1063/1.3689858
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2150504126.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2089476110
+    source:
+    - openalex:W2089476110
+    - crossref:10.1039/c1cp21635j
+    - orcid:21894255
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/21956624
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2089476110
+    title: 'Benchmark results for empirical post-GGA functionals: Difficult exchange problems and independent tests'
+    authors:
+    - Narbe Mardirossian
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2011
+    venue: Physical Chemistry Chemical Physics
+    url: https://doi.org/10.1039/c1cp21635j
+    doi: 10.1039/c1cp21635j
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2105051112
+    source:
+    - openalex:W2105051112
+    - orcid:21894250
+    alternate_urls:
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:12697344
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2105051112
+    title: Measurement of the third‐order nonlinear optical susceptibility χ(3) for the 1002‐cm–1 mode of benzenethiol
+      using coherent anti‐Stokes Raman scattering with continuous‐wave diode lasers
+    authors:
+    - R. L. Aggarwal
+    - L. W. Farrar
+    - J. Parkhill
+    - A. Aspuru‐Guzik
+    - D. L. Polla
+    year: 2011
+    venue: Journal of Raman Spectroscopy
+    url: https://doi.org/10.1002/jrs.3102
+    doi: 10.1002/jrs.3102
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2123811497
+    source:
+    - openalex:W2123811497
+    - crossref:10.1021/jz2005573
+    alternate_urls:
+    - http://nrs.harvard.edu/urn-3:HUL.InstRepos:8365121
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.926.9631
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2123811497
+    title: 'Modeling Coherent Anti-Stokes Raman Scattering with Time-Dependent Density Functional Theory: Vacuum
+      and Surface Enhancement.'
+    authors:
+    - John A. Parkhill
+    - Dmitrij Rappoport
+    - Alán Aspuru-Guzik
+    year: 2011
+    venue: The Journal of Physical Chemistry Letters
+    url: https://doi.org/10.1021/jz2005573
+    doi: 10.1021/jz2005573
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2008618439
+    source:
+    - openalex:W2008618439
+    - crossref:10.1063/1.3582729
+    - orcid:21894260
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/21513380
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2008618439
+    title: The formulation and performance of a perturbative correction to the perfect quadruples model
+    authors:
+    - John A. Parkhill
+    - Julian Azar
+    - Martin Head-Gordon
+    year: 2011
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3582729
+    doi: 10.1063/1.3582729
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2066866806
+    source:
+    - openalex:W2066866806
+    - crossref:10.1080/00268971003662896
+    - orcid:21894218
+    - orcid:21894269
+    alternate_urls: []
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2066866806
+    title: A sparse framework for the derivation and implementation of fermion algebra
+    authors:
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2010
+    venue: Molecular Physics
+    url: https://doi.org/10.1080/00268971003662896
+    doi: 10.1080/00268971003662896
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W1989551593
+    source:
+    - openalex:W1989551593
+    - crossref:10.1063/1.3456001
+    - orcid:21894258
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/20632744
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W1989551593
+    title: 'A tractable and accurate electronic structure method for static correlations: The perfect hextuples
+      model'
+    authors:
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2010
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3456001
+    doi: 10.1063/1.3456001
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2032109301
+    source:
+    - openalex:W2032109301
+    - crossref:10.1063/1.3483556
+    - orcid:21894257
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/20886919
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2032109301
+    title: 'A truncation hierarchy of coupled cluster models of strongly correlated systems based on perfect-pairing
+      references: The singles+doubles models'
+    authors:
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2010
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3483556
+    doi: 10.1063/1.3483556
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W1970652046
+    source:
+    - openalex:W1970652046
+    - orcid:21894266
+    alternate_urls:
+    - https://scholarlycommons.pacific.edu/cop-facarticles/215
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W1970652046
+    title: The exchange energy of a uniform electron gas experiencing a new, flexible range separation
+    authors:
+    - John A. Parkhill
+    - Jeng-Da Chai
+    - Anthony D. Dutoi
+    - Martin Head-Gordon
+    year: 2009
+    venue: Chemical Physics Letters
+    url: https://doi.org/10.1016/j.cplett.2009.07.052
+    doi: 10.1016/j.cplett.2009.07.052
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2049712715
+    source:
+    - openalex:W2049712715
+    - crossref:10.1063/1.3134223
+    - orcid:21894272
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/19449914
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2049712715
+    title: The numerical condition of electron correlation theories when only active pairs of electrons are spin-unrestricted
+    authors:
+    - Keith V. Lawler
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2009
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3134223
+    doi: 10.1063/1.3134223
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2064851837
+    source:
+    - openalex:W2064851837
+    - crossref:10.1063/1.3086027
+    - orcid:21894271
+    alternate_urls:
+    - https://pubmed.ncbi.nlm.nih.gov/19256591
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2064851837
+    title: The perfect quadruples model for electron correlation in a valence active space
+    authors:
+    - John A. Parkhill
+    - Keith Lawler
+    - Martin Head-Gordon
+    year: 2009
+    venue: The Journal of Chemical Physics
+    url: https://doi.org/10.1063/1.3086027
+    doi: 10.1063/1.3086027
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+  - id: W2151703051
+    source:
+    - openalex:W2151703051
+    - orcid:21894274
+    alternate_urls:
+    - https://iopscience.iop.org/article/10.1086/529484/pdf
+    - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.599.9988
+    alternate_titles: []
+    pdf_candidates:
+    - https://iopscience.iop.org/article/10.1086/529484/pdf
+    - https://articles.adsabs.harvard.edu/pdf/2008ApJ...680.1243M
+    openalex_ids:
+    - W2151703051
+    title: Near‐Infrared Spectroscopy of Nitrogenated Polycyclic Aromatic Hydrocarbon Cations from 0.7 to 2.5 μm
+    authors:
+    - Andrew L. Mattioda
+    - Lindsay Rutter
+    - John Parkhill
+    - Martin Head‐Gordon
+    - Timothy J. Lee
+    - Louis J. Allamandola
+    year: 2008
+    venue: The Astrophysical Journal
+    url: https://doi.org/10.1086/529484
+    doi: 10.1086/529484
+    kind: article
+    oa_reported: true
+    pdf: /assets/published-work/papers/w2151703051.pdf
+    pdf_status: archived
+    pdf_note: Public repository or publisher copy; version/title verified from extracted text.
+  - id: W2152743532
+    source:
+    - openalex:W2152743532
+    - orcid:21894264
+    alternate_urls: []
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2152743532
+    title: Penalty functions for combining coupled-cluster and perturbation amplitudes in local correlation methods
+      with optimized orbitals
+    authors:
+    - Keith V. Lawler
+    - John A. Parkhill
+    - Martin Head-Gordon
+    year: 2008
+    venue: Molecular Physics
+    url: https://doi.org/10.1080/00268970802443482
+    doi: 10.1080/00268970802443482
+    kind: article
+    oa_reported: false
+    pdf_status: paywalled
+    pdf_note: No open PDF location found in the reconciled scholarly API records. Publisher link retained; access
+      may vary.
+- title: Terray Blog Posts
+  id: terray
+  entries:
+  - id: terray-accelerating-terrabind-and-generating-synthetic-training-data-economically-with-nvidia-bionemo
+    title: Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA BioNeMo
+    authors:
+    - Gavin Bascom
+    - Dominic Rufa
+    - Narbe Mardirossian, Ph.D.
+    year: 2026
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo
+    kind: blog
+    source:
+    - terray-news-index
+    alternate_urls: []
+    pdf_status: archived
+    inclusion_reason: Related Terray ML platform context; byline preserved
+    pdf: /assets/published-work/terray/terrabind-generating-synthetic-data-NVIDIA-BioNeMo.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+  - id: terray-enhanced-parsing-of-chemical-reaction-diagrams
+    title: Enhanced Parsing of Chemical Reaction Diagrams
+    authors:
+    - Ben Kaufman
+    - Owen Howell
+    - Adrian Layer
+    - Narbe Mardirossian, Ph.D.
+    year: 2026
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron
+    kind: blog
+    source:
+    - terray-news-index
+    - resume_pdf
+    alternate_urls: []
+    pdf_status: archived
+    inclusion_reason: Resume-linked collaboration
+    pdf: /assets/published-work/terray/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+  - id: terray-introducing-emmi-predict-terrabind
+    title: 'Introducing EMMI Predict: TerraBind'
+    authors:
+    - Ryan Pederson Ph.D.
+    - Matteo Rossi M.S.
+    - John Parkhill, Ph.D.
+    - Narbe Mardirossian, Ph.D.
+    year: 2026
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/introducing-emmi-predict-terrabind
+    kind: blog
+    source:
+    - terray-news-index
+    alternate_urls:
+    - https://www.terraytx.ai/insights/emmi-predict-terrabind
+    pdf_status: archived
+    inclusion_reason: John Parkhill byline
+    pdf: /assets/published-work/terray/introducing-emmi-predict-terrabind.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+  - id: terray-terrasynth
+    title: TerraSynth
+    authors:
+    - Miles Wang-Henderson
+    - Zack Strater
+    - John Parkhill
+    - Matthew Katcher
+    - Narbe Mardirossian
+    year: 2026
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/terrasynth
+    kind: blog
+    source:
+    - terray-news-index
+    alternate_urls: []
+    pdf_status: archived
+    inclusion_reason: John Parkhill byline
+    pdf: /assets/published-work/terray/terrasynth.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+  - id: terray-how-to-select-the-right-molecules-to-make-and-test
+    title: How To Select The Right Molecules To Make And Test
+    authors:
+    - Miles Wang-Henderson
+    - John Parkhill, Ph.D.
+    - Narbe Mardirossian, Ph.D.
+    year: 2025
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/how-to-select-the-right-molecules-to-make-and-test
+    kind: blog
+    source:
+    - terray-news-index
+    alternate_urls:
+    - https://www.terraytx.ai/insights/EpiNets-EMAX-how-to-select-the-right-molecules-to-make-and-test
+    pdf_status: archived
+    inclusion_reason: John Parkhill byline
+    pdf: /assets/published-work/terray/how-to-select-the-right-molecules-to-make-and-test.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+  - id: terray-introducing-emmi-where-experimentation-meets-machine-intelligence
+    title: 'Introducing EMMI: Where Experimentation Meets Machine Intelligence'
+    authors:
+    - Narbe Mardirossian, Ph.D.
+    - Jacob Berlin, Ph.D.
+    year: 2025
+    venue: Terray Therapeutics
+    url: https://www.terraytx.ai/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence
+    kind: blog
+    source:
+    - terray-news-index
+    alternate_urls:
+    - https://www.terraytx.ai/insights/introducing-emmi-where-experimentation-meets-machine-intelligence
+    pdf_status: archived
+    inclusion_reason: Related Terray ML platform context; byline preserved
+    pdf: /assets/published-work/terray/introducing-emmi-where-experimentation-meets-machine-intelligence.pdf
+    pdf_note: Chrome print of complete article body, with print styling and original figures; byline and source
+      URL preserved.
+- title: Talks, Patents & Resume Materials
+  id: materials
+  entries:
+  - id: resume
+    title: John Parkhill — Resume
+    authors:
+    - John Parkhill
+    venue: Personal resume
+    year: 2026
+    kind: resume
+    url: /assets/johnparkhill-resume.pdf
+    pdf: /assets/published-work/materials/johnparkhill-resume.pdf
+    pdf_status: archived
+    source:
+    - resume_pdf
+    - resume_tex
+  - id: gtc-2024
+    title: 'Live from GTC: A Conversation with Terray Therapeutics'
+    authors:
+    - John Parkhill
+    - Tony Paikeday
+    venue: NVIDIA GTC
+    year: 2024
+    kind: talk
+    url: https://www.nvidia.com/en-us/on-demand/session/gtc24-ep64036/
+    source:
+    - NVIDIA session page / public web search
+    pdf_status: not_applicable
+  - id: W4397481433
+    source:
+    - openalex:W4397481433
+    alternate_urls: []
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W4397481433
+    title: 'CCDC 1845533: Experimental Crystal Structure Determination'
+    authors:
+    - Marshall-Roth, Travis
+    - Yao, Kun
+    - Parkhill, John A.
+    - Brown, Seth N.
+    year: 2019
+    venue: The Cambridge Structural Database
+    url: https://doi.org/10.5517/ccdc.csd.cc1zyfbp
+    doi: 10.5517/ccdc.csd.cc1zyfbp
+    kind: dataset
+    oa_reported: true
+    pdf_status: unavailable
+    pdf_note: No public PDF located for this abstract or dataset; canonical record retained.
+  - id: work-93ca3730cc89
+    title: 'TensorMol: open-source neural network model chemistry'
+    authors:
+    - John Parkhill and contributors
+    venue: GitHub
+    year: 2018
+    kind: software
+    url: https://github.com/jparkhill/TensorMol
+    source:
+    - resume_pdf
+    - resume_tex
+    pdf_status: not_applicable
+  - id: work-10a77603047e
+    source:
+    - crossref:10.15278/isms.2017.wb02
+    alternate_urls: []
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids: []
+    title: Black Box Real-Time Transient Absorption Spectroscopy And Electron Correlation
+    authors:
+    - John Parkhill
+    year: 2017
+    venue: Proceedings of the 72nd International Symposium on Molecular Spectroscopy
+    url: https://doi.org/10.15278/isms.2017.wb02
+    doi: 10.15278/isms.2017.wb02
+    kind: conference-abstract
+    oa_reported: false
+    pdf_status: unavailable
+    pdf_note: No public PDF located for this abstract or dataset; canonical record retained.
+  - id: work-9836c825acb8
+    title: Neural network predicts bond energies like a pro
+    authors:
+    - Chemistry World
+    venue: Chemistry World
+    year: 2017
+    kind: press
+    url: https://www.chemistryworld.com/news/neural-network-predicts-bond-energies-like-a-pro/3007598.article
+    source:
+    - resume_pdf
+    pdf_status: not_applicable
+  - id: W2619156602
+    source:
+    - openalex:W2619156602
+    alternate_urls: []
+    alternate_titles: []
+    pdf_candidates: []
+    openalex_ids:
+    - W2619156602
+    title: 'Transient Spectra in TDDFT: Corrections and Correlations'
+    authors:
+    - John Parkhill
+    - Triet S. Nguyen
+    year: 2017
+    venue: Bulletin of the American Physical Society
+    url: http://absimage.aps.org/image/MAR17/MWS_MAR17-2016-000021.pdf
+    doi: ''
+    kind: conference-abstract
+    oa_reported: false
+    pdf_status: unavailable
+    pdf_note: No public PDF located for this abstract or dataset; canonical record retained.
+  - id: work-699438f88378
+    title: Harvard research profile and publications
+    authors:
+    - John Parkhill
+    venue: Aspuru-Guzik Group / Internet Archive
+    year: 2015
+    kind: research-profile
+    url: https://web.archive.org/web/20150928033434/http://aspuru.chem.harvard.edu/john-parkhill/
+    source:
+    - resume_pdf
+    pdf_status: not_applicable
+  - id: W2245173478
+    source:
+    - openalex:W2245173478
+    - resume_pdf
+    alternate_urls:
+    - http://www.escholarship.org/uc/item/7nk0q94d
+    - https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf
+    alternate_titles: []
+    pdf_candidates:
+    - https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf
+    openalex_ids:
+    - W2245173478
+    title: Local Models for Strongly Correlated Molecules
+    authors:
+    - John Parkhill
+    year: 2010
+    venue: eScholarship (California Digital Library)
+    url: https://escholarship.org/uc/item/7nk0q94d
+    doi: ''
+    kind: dissertation
+    oa_reported: true
+    pdf_status: blocked
+    pdf_note: Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.
+  - id: github-profile
+    title: GitHub profile
+    authors:
+    - John Parkhill
+    venue: GitHub
+    year: null
+    kind: profile
+    url: https://github.com/jparkhill
+    source:
+    - resume_pdf visible header
+    - resume_tex visible header
+    pdf_status: not_applicable
+  - id: work-636bd379fca1
+    title: Google Scholar profile
+    authors:
+    - John Parkhill
+    venue: Google Scholar
+    year: null
+    kind: profile
+    url: https://scholar.google.com/citations?user=mkEouY4AAAAJ
+    source:
+    - resume_pdf
+    - resume_tex
+    pdf_status: not_applicable
+  - id: linkedin-profile
+    title: LinkedIn profile
+    authors:
+    - John Parkhill
+    venue: LinkedIn
+    year: null
+    kind: profile
+    url: https://www.linkedin.com/in/johnaparkhill/
+    source:
+    - resume_pdf visible header
+    - resume_tex visible header
+    pdf_status: not_applicable
+  - id: work-642756199c56
+    title: Q-Chem electronic structure package
+    authors:
+    - Q-Chem developers; contributor John Parkhill
+    venue: Q-Chem
+    year: null
+    kind: software
+    url: http://www.q-chem.com
+    source:
+    - resume_pdf
+    - resume_tex
+    pdf_status: not_applicable

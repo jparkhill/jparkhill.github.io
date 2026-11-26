@@ -1,0 +1,867 @@
+{
+  "W4391568364": {
+    "pdf_status": "blocked",
+    "pdf_note": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.",
+    "attempts": [
+      {
+        "url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf",
+        "status": 403,
+        "final_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/64e8137fdd1a73847f73f7aa/original/coati-multi-modal-contrastive-pre-training-for-representing-and-traversing-chemical-space.pdf",
+        "bytes": 6337
+      }
+    ]
+  },
+  "W4416339368": {
+    "pdf": "/assets/published-work/papers/w4416339368.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/2511.10590",
+    "check": {
+      "bytes": 590242,
+      "pages": 9,
+      "text_characters": 39677,
+      "matched_title": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of Molecular Designs",
+      "sha256": "465f1705a7f417e585a090f3d1c0ce6fb32ae1804d8a5f324ca779bb81256401",
+      "text_excerpt": "Pretrained Joint Predictions for Scalable Batch Bayesian Optimization of\nMolecular Designs\nMiles Wang-Henderson Benjamin Kaufman Edward Williams Ryan Pederson Matteo Rossi Owen Howell\nCarl Underkoffler Narbe Mardirossian John Parkhill\nTerray Therapeutics\nAbstract\nBatched synthesis and testing of mol",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/2511.10590",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/2511.10590",
+        "bytes": 590242
+      }
+    ]
+  },
+  "W2906385732": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2899038370": {
+    "pdf": "/assets/published-work/papers/w2899038370.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1811.00123",
+    "check": {
+      "bytes": 1514294,
+      "pages": 7,
+      "text_characters": 33509,
+      "matched_title": "Compressing physical properties of atomic species for improving predictive chemistry",
+      "sha256": "910b54a9afec3295693f9c2bcbdaa0d99e7fdf7642a7d3f09d9ecd326a71c9e5",
+      "text_excerpt": "Compressing physical properties of atomic species for improving predictive\nchemistry.\nJohn E. Herr,1, a) Kevin Koh,1 Kun Yao,1 and John Parkhill1\nDept. of Chemistry and Biochemistry, The University of Notre Dame du Lac\n(Dated: 2 November 2018)\nThe answers to many unsolved problems lie in the intract",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1811.00123",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1811.00123",
+        "bytes": 1514294
+      }
+    ]
+  },
+  "W2779474077": {
+    "pdf": "/assets/published-work/papers/w2779474077.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1712.07240",
+    "check": {
+      "bytes": 1741220,
+      "pages": 12,
+      "text_characters": 42247,
+      "matched_title": "Metadynamics for training neural network model chemistries: A competitive assessment",
+      "sha256": "beb7481f9ffa790e5467eda6da307fd33f8bcc57f9c63faa578dee33966fd1cc",
+      "text_excerpt": "Metadynamics for Training Neural Network Model\nChemistries: a Competitive Assessment.\nJohn Herr,1 Kun Yao,1 Ryker McIntyre,1 David W. Toth,1 and John Parkhill1, a)\nDept. Of Chemistry and Biochemistry, The University of Notre Dame du Lac\n(Dated: 21 December 2017)\nNeural network (NN) model chemistries",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1712.07240",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1712.07240",
+        "bytes": 1741220
+      }
+    ]
+  },
+  "W2738892235": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W7128476783": {
+    "pdf": "/assets/published-work/papers/w7128476783.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/2602.07735",
+    "check": {
+      "bytes": 7469339,
+      "pages": 31,
+      "text_characters": 99348,
+      "matched_title": "TerraBind: Fast and Accurate Binding Affinity Prediction through Coarse Structural Representations",
+      "sha256": "f955d9b4b799e985d45ac0017aa390578dbb635b65d1776d65865657bcd4319f",
+      "text_excerpt": "TerraBind:\nFast and Accurate Binding Affinity Prediction\nthrough Coarse Structural Representations\nMatteo Rossi\u2020 Ryan Pederson\u2020 Miles Wang-Henderson Ben Kaufman\nEdward C. Williams Carl Underkoffler Owen Lewis Howell Adrian Layer\nStephan Thaler Narbe Mardirossian John Anthony Parkhill\nTerray Therapeu",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/2602.07735",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/2602.07735",
+        "bytes": 7469339
+      }
+    ]
+  },
+  "W2573441567": {
+    "pdf_status": "blocked",
+    "pdf_note": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.",
+    "attempts": [
+      {
+        "url": "https://europepmc.org/articles/PMC5325176?pdf=render",
+        "status": 403,
+        "final_url": "https://europepmc.org/articles/PMC5325176?pdf=render",
+        "bytes": 5647
+      }
+    ]
+  },
+  "W2768213699": {
+    "pdf": "/assets/published-work/papers/w2768213699.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1711.06385",
+    "check": {
+      "bytes": 2192651,
+      "pages": 8,
+      "text_characters": 38058,
+      "matched_title": "The TensorMol-0.1 model chemistry: a neural network augmented with long-range physics",
+      "sha256": "72568dde8c4c2ddd11f910ddff55f934fcc5e30c47657baf87cd95127b58319b",
+      "text_excerpt": "The TensorMol-0.1 Model Chemistry: a Neural Network Augmented with\nLong-Range Physics.\nKun Yao,1 John E. Herr,1 David W. Toth,1 Ryker Mcintyre,1 and John Parkhill1, a)\nDept. of Chemistry and Biochemistry, The University of Notre Dame du Lac\n(Dated: 21 November 2017)\nTraditional force-\ufb01elds cannot mo",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1711.06385",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1711.06385",
+        "bytes": 2192651
+      }
+    ]
+  },
+  "W4401828945": {
+    "pdf": "/assets/published-work/papers/w4401828945.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://www.biorxiv.org/content/biorxiv/early/2024/08/22/2024.08.22.609169.full.pdf",
+    "check": {
+      "bytes": 4609334,
+      "pages": 26,
+      "text_characters": 93184,
+      "matched_title": "Latent Diffusion for Conditional Generation of Molecules",
+      "sha256": "c14fd4f236b8718e45b9e02a49b4721efdb2413c53e072bf88dba543a72cf5e0",
+      "text_excerpt": "LATENT DIFFUSION FOR CONDITIONAL GENERATION OF\nMOLECULES\nA PREPRINT\nBenjamin Kaufman Edward C. Williams Ryan Pederson Carl Underkoffler Zahid Panjwani\nMiles Wang-Henderson Narbe Mardirossian Matthew H. Katcher Zack Strater\nJean-Marc Grandjean Bryan Lee John Parkhill\nTerray Therapeutics\nABSTRACT\nDesi",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://www.biorxiv.org/content/biorxiv/early/2024/08/22/2024.08.22.609169.full.pdf",
+        "status": 200,
+        "final_url": "https://www.biorxiv.org/content/biorxiv/early/2024/08/22/2024.08.22.609169.full.pdf",
+        "bytes": 4609334
+      }
+    ]
+  },
+  "W2620906374": {
+    "pdf": "/assets/published-work/papers/w2620906374.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1703.08640",
+    "check": {
+      "bytes": 1600545,
+      "pages": 20,
+      "text_characters": 33251,
+      "matched_title": "Bond Energies from a Diatomics-in-Molecules Neural Network",
+      "sha256": "51bc70f7f4d0440d26dc25004faa24f87e6c1f74f0fc705159d3f011d1b4702b",
+      "text_excerpt": "Intrinsic Bond Energies from a\nDiatomics-in-Molecules Neural Network\nKun Yao, John E. Herr, Seth N. Brown, and John Parkhill\u2217\nDept. of Chemistry and Biochemistry, The University of Notre Dame du Lac\nE-mail: jparkhil@nd.edu\n1\narXiv:1703.08640v5  [physics.chem-ph]  3 May 2017\nAbstract\nNeural networks ",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1703.08640",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1703.08640",
+        "bytes": 1600545
+      }
+    ]
+  },
+  "W2611266782": {
+    "pdf": "/assets/published-work/papers/w2611266782.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1705.01678",
+    "check": {
+      "bytes": 1433645,
+      "pages": 19,
+      "text_characters": 58730,
+      "matched_title": "Orbital optimization in the perfect pairing hierarchy. Applications to full-valence calculations on linear polyacenes",
+      "sha256": "9f0197a8bffbc2cdcb4c58c715aac1d5bd01dad77024d9faf3e4e721700b7392",
+      "text_excerpt": "Orbital optimization in the perfect pairing hierarchy. Applications to\nfull-valence calculations on linear polyacenes\nSusi Lehtolaa and John Parkhillb and Martin Head-Gordona,c\naChemical Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720, United\nStates; bDepartment ",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1705.01678",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1705.01678",
+        "bytes": 1433645
+      }
+    ]
+  },
+  "W2330580962": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "terray-accelerating-terrabind-and-generating-synthetic-training-data-economically-with-nvidia-bionemo": {
+    "pdf": "/assets/published-work/terray/terrabind-generating-synthetic-data-NVIDIA-BioNeMo.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 3850129,
+      "pages": 6,
+      "text_characters": 11801,
+      "matched_title": "Accelerating TerraBind and Generating Synthetic Training Data Economically with NVIDIA BioNeMo",
+      "sha256": "c39e9d7d3549bbed742c4bd756708ff228d0f0037013cc6a80c8a909d7b0a119",
+      "text_excerpt": "Terray Therapeutics \u2022 2026\nSource: https://www.terraytx.ai/news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo\nAccelerating TerraBind and Generating\nSynthetic Training Data Economically\nwith NVIDIA BioNeMo\nHow NVIDIA software is making Terray's AI models faster and synthetic trainin",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/terrabind-generating-synthetic-data-NVIDIA-BioNeMo.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/terrabind-generating-synthetic-data-NVIDIA-BioNeMo.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/terrabind-generating-synthetic-data-NVIDIA-BioNeMo",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "terray-enhanced-parsing-of-chemical-reaction-diagrams": {
+    "pdf": "/assets/published-work/terray/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 2317317,
+      "pages": 13,
+      "text_characters": 23681,
+      "matched_title": "Enhanced Parsing of Chemical Reaction Diagrams",
+      "sha256": "c2f3cc64e89e03fb1828829983e0e3b7d8eaebff53bcda38f8367baf3cbf7f13",
+      "text_excerpt": "Terray Therapeutics \u2022 2026\nSource: https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron\nEnhanced Parsing of Chemical Reaction\nDiagrams\nFine-tuning NVIDIA Nemotron 3.5 Super VL and NVIDIA Nemotron 3 Nano Omni to achieve state-\nof-the-art perfor",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/enhanced-parsing-of-chemical-reaction-diagrams-with-Nvidia-Nemotron",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "terray-introducing-emmi-predict-terrabind": {
+    "pdf": "/assets/published-work/terray/introducing-emmi-predict-terrabind.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 1291967,
+      "pages": 7,
+      "text_characters": 9708,
+      "matched_title": "Introducing EMMI Predict: TerraBind",
+      "sha256": "24dfcaa0350e84f251d92379ed278deb9c3c91f827d61e1c82e20d0023fc32ff",
+      "text_excerpt": "Terray Therapeutics \u2022 2026\nSource: https://www.terraytx.ai/news-and-research/introducing-emmi-predict-terrabind\nIntroducing EMMI Predict: TerraBind\nFeb 12, 2026\nAuthors\nRyan Pederson Ph.D.\nMatteo\u00a0Rossi M.S.\nJohn Parkhill, Ph.D.\nNarbe Mardirossian, Ph.D.\nOne of the holy grails of computational drug d",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/introducing-emmi-predict-terrabind.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/introducing-emmi-predict-terrabind.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/introducing-emmi-predict-terrabind",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "terray-terrasynth": {
+    "pdf": "/assets/published-work/terray/terrasynth.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 1239503,
+      "pages": 11,
+      "text_characters": 21316,
+      "matched_title": "TerraSynth",
+      "sha256": "83a44f736a31237ffa9b878a905793327bc3b62090995081d9e7b6af5143be89",
+      "text_excerpt": "Terray Therapeutics \u2022 2026\nSource: https://www.terraytx.ai/news-and-research/terrasynth\nTerraSynth\nAccelerating the Synthesis of AI-designed Small Molecules\nJun 11, 2026\nAuthors\nMiles Wang-Henderson\nZack Strater\nJohn Parkhill\nMatthew Katcher\nNarbe Mardirossian\nSmall-molecule drug discovery is bottle",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/terrasynth.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/terrasynth.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/terrasynth",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "terray-how-to-select-the-right-molecules-to-make-and-test": {
+    "pdf": "/assets/published-work/terray/how-to-select-the-right-molecules-to-make-and-test.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 675084,
+      "pages": 5,
+      "text_characters": 9220,
+      "matched_title": "How To Select The Right Molecules To Make And Test",
+      "sha256": "58bccc9ff189484da7eedd613d9adcab5f6d199c74bb02f8545cf274532e4eee",
+      "text_excerpt": "Terray Therapeutics \u2022 2025\nSource: https://www.terraytx.ai/news-and-research/how-to-select-the-right-molecules-to-make-and-test\nHow To Select The Right Molecules To\nMake And Test\nNov 17, 2025\nAuthors\nMiles Wang-Henderson\nJohn Parkhill, Ph.D.\nNarbe Mardirossian, Ph.D.\nIntroduction\nIn small molecule d",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/how-to-select-the-right-molecules-to-make-and-test.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/how-to-select-the-right-molecules-to-make-and-test.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/how-to-select-the-right-molecules-to-make-and-test",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "terray-introducing-emmi-where-experimentation-meets-machine-intelligence": {
+    "pdf": "/assets/published-work/terray/introducing-emmi-where-experimentation-meets-machine-intelligence.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Chrome print of complete article body, with print styling and original figures; byline and source URL preserved.",
+    "check": {
+      "bytes": 834877,
+      "pages": 6,
+      "text_characters": 14996,
+      "matched_title": "Introducing EMMI: Where Experimentation Meets Machine Intelligence",
+      "sha256": "229be4e9329038b2ee7dee9364ebc0dd767d9da43278ffb7ed28217f3a57ffb9",
+      "text_excerpt": "Terray Therapeutics \u2022 2025\nSource: https://www.terraytx.ai/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence\nIntroducing EMMI: Where\nExperimentation Meets Machine\nIntelligence\nTerray\u2019s AI-Native Platform is Turning the Impossible into Predictable to Deliver for Pati",
+      "validation": "passed"
+    },
+    "print_command": [
+      "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+      "--headless",
+      "--disable-gpu",
+      "--no-pdf-header-footer",
+      "--run-all-compositor-stages-before-draw",
+      "--virtual-time-budget=15000",
+      "--print-to-pdf=/Users/johnparkhill/jparkhill.github.io/assets/published-work/terray/introducing-emmi-where-experimentation-meets-machine-intelligence.pdf",
+      "file:///Users/johnparkhill/jparkhill.github.io/tmp/pdfs/introducing-emmi-where-experimentation-meets-machine-intelligence.html"
+    ],
+    "attempts": [
+      {
+        "url": "https://www.terraytx.ai/news-and-research/introducing-emmi-where-experimentation-meets-machine-intelligence",
+        "status": 200,
+        "method": "Chrome headless print"
+      }
+    ]
+  },
+  "W2526734845": {
+    "pdf": "/assets/published-work/papers/w2526734845.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1609.07072",
+    "check": {
+      "bytes": 2766477,
+      "pages": 7,
+      "text_characters": 39906,
+      "matched_title": "The many-body expansion combined with neural networks",
+      "sha256": "b83defeb6d1a5b35d73b06b0c81e16a80d309febb9606feb564d46db0bef5b35",
+      "text_excerpt": "The Many-Body Expansion Combined with Neural Networks.\nKun Yao,1 John E. Herr,1 and John Parkhill1\n251 Nieuwland Science Hall, Notre Dame, IN 46556\n(Dated: 23 September 2016)\nFragmentation methods such as the many-body expansion (MBE) are a common strategy to model large\nsystems by partitioning ener",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1609.07072",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1609.07072",
+        "bytes": 2766477
+      }
+    ]
+  },
+  "W2511615933": {
+    "pdf": "/assets/published-work/papers/w2511615933.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1307.4407",
+    "check": {
+      "bytes": 1204119,
+      "pages": 8,
+      "text_characters": 36229,
+      "matched_title": "More accurate and efficient bath spectral densities from super-resolution",
+      "sha256": "44acad79e7b42782b29678808d5c216d5c874fc7b9d4ae5b62b2dc2e1dd3e3c8",
+      "text_excerpt": "arXiv:1307.4407v1  [quant-ph]  16 Jul 2013\nMore accurate and e\ufb03cient bath spectral densities from super-resolution\nThomas Markovich,1 Samuel M. Blau,1 John Parkhill,2 Christoph\nKreisbeck,1 Jacob N. Sanders,1 Xavier Andrade,1 and Al\u00e1n Aspuru-Guzik1\n1 Department of Chemistry and Chemical Biology,\nHarv",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1307.4407",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1307.4407",
+        "bytes": 1204119
+      }
+    ]
+  },
+  "W2513949554": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2513225733": {
+    "pdf": "/assets/published-work/papers/w2513225733.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1609.00077",
+    "check": {
+      "bytes": 696429,
+      "pages": 13,
+      "text_characters": 55193,
+      "matched_title": "Cost-effective description of strong correlation: Efficient implementations of the perfect quadruples and perfect hextuples models",
+      "sha256": "cd50b7b5be6c0e6380333eed107def25fd5c38646fa2a44991453108ab2ac15a",
+      "text_excerpt": "Cost-e\ufb00ective description of strong correlation: e\ufb03cient implementations\nof the perfect quadruples and perfect hextuples models\nSusi Lehtola,1 John Parkhill,2 and Martin Head-Gordon1, 3\n1)Chemical Sciences Division, Lawrence Berkeley National Laboratory, Berkeley, California 94720,\nUnited Statesa)\n2",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1609.00077",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1609.00077",
+        "bytes": 696429
+      }
+    ]
+  },
+  "W2294453824": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2745140596": {
+    "pdf": "/assets/published-work/papers/w2745140596.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://www.osti.gov/servlets/purl/1535024",
+    "check": {
+      "bytes": 1949793,
+      "pages": 25,
+      "text_characters": 41932,
+      "matched_title": "Origin of the Size-Dependent Stokes Shift in CsPbBr 3 Perovskite Nanocrystals",
+      "sha256": "1b243101c89580b34dd298847e0dc342cfe027d5f530cfac1fec453a64e734d1",
+      "text_excerpt": "Origin of the Size-Dependent Stokes Shift in\nCsPbBr3 Perovskite Nanocrystals\nMichael C. Brennan,\u2020 John E. Herr,\u2020 Triet S. Nguyen-Beck,\u2020 Jessica Zinna,\u2020\nSergei Rouvimov,\u2021 John Parkhill\u2217,\u2020 and Masaru Kuno\u2217,\u2020\n\u2020Department of Chemistry and Biochemistry, University of Notre Dame\n251 Nieuwland Science Hall",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://www.osti.gov/servlets/purl/1535024",
+        "status": 200,
+        "final_url": "https://www.osti.gov/servlets/purl/1535024",
+        "bytes": 1949793
+      }
+    ]
+  },
+  "W2026172453": {
+    "pdf": "/assets/published-work/papers/w2026172453.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://web.phys.ntu.edu.tw/jdchai/Papers/p27.pdf",
+    "check": {
+      "bytes": 1264447,
+      "pages": 32,
+      "text_characters": 165067,
+      "matched_title": "Advances in molecular quantum chemistry contained in the Q-Chem 4 program package",
+      "sha256": "e55389fb0631cec11a185bb6652675254bcab2f5e842f9ed991b462110ca81fe",
+      "text_excerpt": "Molecular Physics,2015\nVo l . 1 1 3 , N o . 2 , 1 8 4 \u2013 2 1 5 , h t t p : / / d x . d o i . o r g / 1 0 . 1 0 8 0 / 0 0 2 6 8 9 7 6 . 2 0 1 4 . 9 5 2 6 9 6\nRESEARCH ARTICLE\nAdvances in molecular quantum chemistry contained in the Q-Chem 4 program package\nYihan Shaoa,ZhengtingGana,EvgenyEpifanovskya,",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://scholarworks.utrgv.edu/context/chem_fac/article/1000/viewcontent/qchem4_resubmitted.pdf",
+        "status": 403,
+        "final_url": "https://scholarworks.utrgv.edu/cgi/viewcontent.cgi?params=/context/chem_fac/article/1000/&path_info=qchem4_resubmitted.pdf",
+        "bytes": 5960
+      },
+      {
+        "url": "https://web.phys.ntu.edu.tw/jdchai/Papers/p27.pdf",
+        "status": 200,
+        "final_url": "https://web.phys.ntu.edu.tw/jdchai/Papers/p27.pdf",
+        "bytes": 1264447
+      }
+    ]
+  },
+  "W1911433256": {
+    "pdf": "/assets/published-work/papers/w1911433256.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1509.00062",
+    "check": {
+      "bytes": 4077123,
+      "pages": 9,
+      "text_characters": 40952,
+      "matched_title": "Kinetic Energy of Hydrocarbons as a Function of Electron Density and Convolutional Neural Networks",
+      "sha256": "a4687ad4e99ad30fb6e0e26aaa935212fd53a97dba03f45ec64f054008fb5599",
+      "text_excerpt": "The Kinetic Energy of Hydrocarbons as a Function of Electron Den-\nsity and Convolutional Neural Networks\u2020\nKun Yao,\u2217a and John Parkhill,a\u2021\nWe demonstrate a convolutional neural network trained to reproduce the Kohn-Sham kinetic energy of hydrocarbons from elec-\ntron density. The output of the network",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1509.00062",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1509.00062",
+        "bytes": 4077123
+      }
+    ]
+  },
+  "W2069236402": {
+    "pdf": "/assets/published-work/papers/w2069236402.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1411.5324",
+    "check": {
+      "bytes": 4514343,
+      "pages": 18,
+      "text_characters": 29603,
+      "matched_title": "How electronic dynamics with Pauli exclusion produces Fermi-Dirac statistics",
+      "sha256": "3617fddf0f2d095cdfd4371e82d4f39366830a9ea529a4dcb7774ea69a737e9c",
+      "text_excerpt": "How Electronic Dynamics with Pauli Exclusion Produces Fermi-Dirac\nStatistics\nTriet S. Nguyen,1 Ravindra Nanguneri,1 and John Parkhill1\nDepartment of Chemistry and Biochemistry, University of Notre Dame,\nNotre Dame, IN 46556\n(Dated: 19 January 2015)\nIt is important that any dynamics method approaches",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1411.5324",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1411.5324",
+        "bytes": 4514343
+      }
+    ]
+  },
+  "W1650659216": {
+    "pdf": "/assets/published-work/papers/w1650659216.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1411.1110",
+    "check": {
+      "bytes": 3557685,
+      "pages": 15,
+      "text_characters": 28061,
+      "matched_title": "Relaxation Between Bright Optical Wannier Excitons in Perovskite Solar Absorber CH$_3$NH$_3$PbI$_3$",
+      "sha256": "ac0cc0d45ed0aa66756d770acec9c619e5e5dfbae254c84580edd16f8635fb56",
+      "text_excerpt": "Relaxation Between Bright Optical Wannier Excitons\nin Perovskite Solar Absorber CH3NH3PbI3\nRavindra Nanguneri and John Parkhill\u2217\nDepartment of Chemistry and Biochemistry, The University of Notre Dame du Lac\n251 Nieuwland Science Hall Notre Dame, IN 46556\nE-mail: jparkhil@nd.edu\nAbstract\nWe study the",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1411.1110",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1411.1110",
+        "bytes": 3557685
+      }
+    ]
+  },
+  "W2138441913": {
+    "pdf": "/assets/published-work/papers/w2138441913.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1301.2326",
+    "check": {
+      "bytes": 1902285,
+      "pages": 13,
+      "text_characters": 53367,
+      "matched_title": "Feynman\u2019s clock, a new variational principle, and parallel-in-time quantum dynamics",
+      "sha256": "f04b362adc875f61d9332d1254262b7a769491bea740c56ae8218614a503d919",
+      "text_excerpt": "Feynman\u2019s clock, a new variational principle, and parallel-in-time quantum dynamics\nJarrod R. McClean,1 John A. Parkhill,1 and Al\u00b4an Aspuru-Guzik1\n1Department of Chemistry and Chemical Biology, Harvard University, Cambridge MA, 02138\nWe introduce a new discrete-time variational principle inspired by",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1301.2326",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1301.2326",
+        "bytes": 1902285
+      }
+    ]
+  },
+  "W2032893827": {
+    "pdf": "/assets/published-work/papers/w2032893827.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1306.4332",
+    "check": {
+      "bytes": 3496484,
+      "pages": 10,
+      "text_characters": 40792,
+      "matched_title": "Force-field functor theory: classical force-fields which reproduce equilibrium quantum distributions",
+      "sha256": "96d44e2018a5b1b35d78222a287a15cf3a308fe84837fac03d4e496aaa188b69",
+      "text_excerpt": "Force-Field Functor Theory:\nClassical Force-Fields which Reproduce Equilibrium Quantum Distributions\nRyan Babbush,1 John Parkhill,2 and Al\u00b4an Aspuru-Guzik1\n1Department of Chemistry and Chemical Biology, Harvard University, Cambridge MA 02138 USA\n2Department of Chemistry, The University of Notre Dame",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1306.4332",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1306.4332",
+        "bytes": 3496484
+      }
+    ]
+  },
+  "W2089476110": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2105051112": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2123811497": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2008618439": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2066866806": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W1989551593": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2032109301": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W1970652046": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2049712715": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2064851837": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W2130221969": {
+    "pdf": "/assets/published-work/papers/w2130221969.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1206.2567",
+    "check": {
+      "bytes": 2503714,
+      "pages": 37,
+      "text_characters": 77557,
+      "matched_title": "A correlated-polaron electronic propagator: Open electronic dynamics beyond the Born-Oppenheimer approximation",
+      "sha256": "a66b093631e553bfeac95fe46cff2602da2df649a9f7b40966e3ce6703af51f0",
+      "text_excerpt": "A correlated-polaron electronic propagator: open electronic dynamics beyond the\nBorn-Oppenheimer approximation\nJohn A. Parkhill,1, a) Thomas Markovich,1 David G. Tempel,1 and Alan Aspuru-Guzik2, b)\n1)Department of Chemistry and Chemical Biology, Harvard University,\n12 Oxford St. Cambridge, MA 02138,",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1206.2567",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1206.2567",
+        "bytes": 2503714
+      }
+    ]
+  },
+  "W2152743532": {
+    "pdf_status": "paywalled",
+    "pdf_note": "No open PDF location found in the reconciled scholarly API records. Publisher link retained; access may vary.",
+    "attempts": []
+  },
+  "W4397481433": {
+    "pdf_status": "unavailable",
+    "pdf_note": "No public PDF located for this abstract or dataset; canonical record retained.",
+    "attempts": []
+  },
+  "work-10a77603047e": {
+    "pdf_status": "unavailable",
+    "pdf_note": "No public PDF located for this abstract or dataset; canonical record retained.",
+    "attempts": []
+  },
+  "W2619156602": {
+    "pdf_status": "unavailable",
+    "pdf_note": "No public PDF located for this abstract or dataset; canonical record retained.",
+    "attempts": []
+  },
+  "W2245173478": {
+    "pdf_status": "blocked",
+    "pdf_note": "Advertised public PDF could not be retrieved or failed content validation; see manifest attempts.",
+    "attempts": [
+      {
+        "url": "https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf",
+        "status": 403,
+        "final_url": "https://escholarship.org/content/qt7nk0q94d/qt7nk0q94d.pdf",
+        "bytes": 919
+      }
+    ]
+  },
+  "W2017309665": {
+    "pdf": "/assets/published-work/papers/w2017309665.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://www.frontiersin.org/articles/10.3389/fchem.2013.00033/pdf",
+    "check": {
+      "bytes": 327177,
+      "pages": 2,
+      "text_characters": 6815,
+      "matched_title": "Response to Commentary on \u201cForce-field functor theory: classical force-fields which reproduce equilibrium quantum distributions\u201d",
+      "sha256": "05bf6f795e1bc5f140621422ec7132b39f25532dac02757e55a885420a15a765",
+      "text_excerpt": "GENERAL COMMENTARY\npublished: 24 December 2013\ndoi: 10.3389/fchem.2013.00033\nResponse to Commentary on \u201cForce-\ufb01eld functor theory:\nclassical force-\ufb01elds which reproduce equilibrium quantum\ndistributions\u201d\nRyan Babbush 1, John A. Parkhill 2 and Al\u00e1n Aspuru-Guzik1*\n1 Department of Chemistry, Harvard Un",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://www.frontiersin.org/articles/10.3389/fchem.2013.00033/pdf",
+        "status": 200,
+        "final_url": "https://www.frontiersin.org/journals/chemistry/articles/10.3389/fchem.2013.00033/pdf",
+        "bytes": 327177
+      }
+    ]
+  },
+  "W2151703051": {
+    "pdf": "/assets/published-work/papers/w2151703051.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://iopscience.iop.org/article/10.1086/529484/pdf",
+    "check": {
+      "bytes": 1521311,
+      "pages": 13,
+      "text_characters": 65065,
+      "matched_title": "Near\u2010Infrared Spectroscopy of Nitrogenated Polycyclic Aromatic Hydrocarbon Cations from 0.7 to 2.5 \u03bcm",
+      "sha256": "7a25cbb3aa3e8c3e4632a45c1bc11ea569d3776e3d98f752329f1782d7754ea6",
+      "text_excerpt": "NEAR-INFRARED SPECTROSCOPY OF NITROGENATED POLYCYCLIC AROMATIC\nHYDROCARBON CATIONS FROM 0.7 TO 2.5 \u0001m\nAndrew L. Mattioda,1,2 Lindsay Rutter,1,2,3 John Parkhill,4 Martin Head-Gordon,4\nTimothy J. Lee,1 and Louis J. Allamandola1\nReceived 2007 April 25; accepted 2007 December 21\nABSTRACT\nThe near-infrar",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://iopscience.iop.org/article/10.1086/529484/pdf",
+        "status": 200,
+        "final_url": "https://iopscience.iop.org/article/10.1086/529484/pdf",
+        "bytes": 1521311
+      }
+    ]
+  },
+  "W2150504126": {
+    "pdf": "/assets/published-work/papers/w2150504126.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://arxiv.org/pdf/1112.1665",
+    "check": {
+      "bytes": 843530,
+      "pages": 21,
+      "text_characters": 44551,
+      "matched_title": "Exciton coherence lifetimes from electronic structure",
+      "sha256": "d2281780caa0e04f05d6a16add1a846d6edc5aade13c3704030c6cb616204614",
+      "text_excerpt": "Exciton coherence lifetimes from electronic structure\nJohn A. Parkhill,1, a) Alan Aspuru-Guzik,1, b) and David Tempel2\n1)Department of Chemistry and Chemical Biology, Harvard University,\n12 Oxford St. Cambridge, MA 02138, USA\n2)Department of Physics, Harvard University, 17 Oxford St. Cambridge, MA 0",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://arxiv.org/pdf/1112.1665",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1112.1665",
+        "bytes": 843530
+      }
+    ]
+  },
+  "W3193988690": {
+    "pdf": "/assets/published-work/papers/w3193988690.pdf",
+    "pdf_status": "archived",
+    "pdf_note": "Public repository or publisher copy; version/title verified from extracted text.",
+    "download_url": "https://ora.ox.ac.uk/objects/uuid:204d34bc-d34a-4955-bdb9-0402fdfb3fc2/files/r44558d840",
+    "check": {
+      "bytes": 15037881,
+      "pages": 60,
+      "text_characters": 360653,
+      "matched_title": "Software for the frontiers of quantum chemistry: An overview of developments in the Q-Chem 5 package",
+      "sha256": "cf2e83915e08c96465bab3dd1c8a58a1fd0261141fe48a606ab9b58bb7d353dc",
+      "text_excerpt": "J. Chem. Phys. 155, 084801 (2021); https://doi.org/10.1063/5.0055522 155, 084801\n\u00a9 2021 Author(s).\nSoftware for the frontiers of quantum\nchemistry: An overview of developments in\nthe Q-Chem 5 package\nCite as: J. Chem. Phys. 155, 084801 (2021); https://doi.org/10.1063/5.0055522\nSubmitted: 29 April 20",
+      "validation": "passed"
+    },
+    "attempts": [
+      {
+        "url": "https://aip.scitation.org/doi/pdf/10.1063/5.0055522",
+        "status": 200,
+        "final_url": "https://aip.scitation.org/doi/pdf/10.1063/5.0055522",
+        "bytes": 1494,
+        "validation_error": "Not a nontrivial PDF"
+      },
+      {
+        "url": "https://nottingham-repository.worktribe.com/preview/6395461/Epifanovsky2021_Software%20for%20the%20frontiers%20of%20quantum%20chemistry.pdf",
+        "status": 403,
+        "final_url": "https://nottingham-repository.worktribe.com/preview/6395461/Epifanovsky2021_Software%20for%20the%20frontiers%20of%20quantum%20chemistry.pdf",
+        "bytes": 6020
+      },
+      {
+        "url": "https://ora.ox.ac.uk/objects/uuid:204d34bc-d34a-4955-bdb9-0402fdfb3fc2/files/r44558d840",
+        "status": 200,
+        "final_url": "https://ora.ox.ac.uk/objects/uuid:204d34bc-d34a-4955-bdb9-0402fdfb3fc2/files/r44558d840",
+        "bytes": 15037881
+      }
+    ]
+  }
+}

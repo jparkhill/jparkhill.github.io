@@ -1,0 +1,1 @@
+{"version":"6.9","hitCount":0,"request":{"queryString":"AUTH_ORCID:0000-0001-5739-9620","resultType":"lite","cursorMark":"*","pageSize":100,"sort":"","synonym":false},"resultList":{"result":[]}}

@@ -4,3 +4,7 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Published Work
+  link: /published-work/
+  source: published-work.md
+  legacy_link: /published-work.html
